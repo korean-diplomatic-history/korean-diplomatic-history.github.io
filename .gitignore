@@ -1,0 +1,19 @@
+# 원자료는 올리지 않는다 — hayoungsun.net 첨부·지메일 첨부·크롤 원본으로 190MB 가까이 된다.
+# 다만 **수확 결과 JSON 은 올린다.** 손으로 고친 overrides.json 이 거기 있고,
+# 그것 없이는 data/ 를 다시 조립할 수 없다.
+_harvest/*
+!_harvest/*.json
+!_harvest/gmail/
+!_harvest/drive/
+!_harvest/hayoungsun/
+_harvest/gmail/*
+!_harvest/gmail/*.json
+_harvest/drive/*
+!_harvest/drive/*.json
+_harvest/hayoungsun/*
+!_harvest/hayoungsun/*.json
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

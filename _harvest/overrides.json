@@ -1,0 +1,103 @@
+{
+  "alias": {
+    "chaeyoung yong": "용채영",
+    "Jaeyoung Kim": "김재영",
+    "Sujin": "허수진",
+    "최은호": "최은실"
+  },
+  "active": [
+    "김민수",
+    "송지혜",
+    "허수진",
+    "김재영",
+    "옥창준"
+  ],
+  "alumni": [
+    "이헌미",
+    "김준석",
+    "김수암",
+    "손병권",
+    "노가연",
+    "용채영",
+    "최은실"
+  ],
+  "affil": {
+    "최인호": "경기대학교 정치외교학전공",
+    "송지혜": "서울대학교 정치외교학부 박사과정",
+    "김민수": "케임브리지대학교 박사과정",
+    "허수진": "아메리칸대학교",
+    "김재영": "샌디에고 주립대학교",
+    "옥창준": "한국학중앙연구원",
+    "하영선": "동아시아연구원 이사장",
+    "전재성": "서울대학교 정치외교학부",
+    "김현철": "전 동북아역사재단",
+    "김봉진": "기타큐슈시립대학 명예교수",
+    "김종학": "서울대학교 정치외교학부",
+    "차태서": "서울대학교 정치외교학부",
+    "송지예": "고려대학교",
+    "오인환": "동아시아연구원",
+    "변성호": "서울대학교 국제문제연구소",
+    "권민주": "채프먼대학교"
+  },
+  "exclude": [
+    "Hansong Li"
+  ],
+  "materials": {
+    "gmail:American Jeremiahs_CHA.pdf": {
+      "kind": "미간행 논문",
+      "title": "American Jeremiahs: Bringing a Tragic Sensibility into the City upon a Hill"
+    },
+    "gmail:Contents_American Jeremiahs.docx": {
+      "kind": "미간행 논문",
+      "title": "「American Jeremiahs」 목차"
+    },
+    "gmail:한외사 발표.pdf": {
+      "move_to": "2022-03-23"
+    }
+  },
+  "sessions": {
+    "2025-11-17": {
+      "topic": "차태서 「American Jeremiahs」 미간행 논문 검토"
+    },
+    "2024-05-27": {
+      "drop_materials": [
+        "gmail:Yong_Security Protest Draft (25 April 2024).pdf"
+      ]
+    }
+  },
+  "exclude_materials": [
+    "gmail:자유의 삼전도.docx"
+  ],
+  "keep_materials": [],
+  "add_members": [
+    "송지혜",
+    "허수진",
+    "김재영"
+  ],
+  "exclude_pub_members": [
+    "이택선",
+    "김헌준",
+    "손성욱",
+    "최진백"
+  ],
+  "exclude_pub_papers": [
+    "손병권",
+    "김준석",
+    "이원덕",
+    "전재성"
+  ],
+  "exclude_publications": [
+    "세계정치론",
+    "서양을 번역하다",
+    "중견국 외교의 세계정치",
+    "Mandates through the rule of law",
+    "Cohabitation with criminals",
+    "인류세와 행성질서",
+    "객관, 주체, 그리고 타자의 국제정치학",
+    "Sarcasm or sexism",
+    "Relatively Unworthy Victims",
+    "인도태평양 시대 유엔과 동북아시아의 정당성 경쟁",
+    "디아스포라 기억의 재현",
+    "Global Emotion Studies in IR"
+  ]
+}

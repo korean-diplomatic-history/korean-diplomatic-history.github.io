@@ -1,0 +1,39 @@
+{% extends "base.html.j2" %}
+{% import "_timeline.html.j2" as tl %}
+{% block title %}{{ site.nav.sessions }} — {{ site.title }}{% endblock %}
+{% block description %}{{ sessions.meta_description }}{% endblock %}
+
+{% block hero %}
+<div class="hero page">
+  <p class="eyebrow">{{ sessions.title }}</p>
+  <h1>{{ sessions.subtitle }}</h1>
+  <p class="subtitle">{{ sessions.kicker }}</p>
+</div>
+{% endblock %}
+
+{% block content %}
+{% if readings_ahead %}
+<section class="band">
+  <div class="container">
+    <h2 class="section-title">{{ readings_ahead.title }}</h2>
+    <div class="ahead-grid">
+      {% for g in readings_ahead.groups %}
+      <div class="ahead-group">
+        <h3>{{ g.label }}</h3>
+        <ul>
+          {% for e in g.entries %}<li>{{ e|emph }}</li>{% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<section>
+  <div class="container">
+    {{ tl.timeline(current, sessions.era_labels, show_era=False) }}
+    <p class="more"><a href="archive.html">{{ sessions.past.title }} {{ sessions.past.kicker }} →</a></p>
+  </div>
+</section>
+{% endblock %}

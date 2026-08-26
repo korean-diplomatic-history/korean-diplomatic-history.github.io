@@ -1,0 +1,38 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ site.nav.members }} — {{ site.title }}{% endblock %}
+{% block description %}{{ members.meta_description }}{% endblock %}
+
+{% block hero %}
+<div class="hero page">
+  <h1>{{ members.title }}</h1>
+</div>
+{% endblock %}
+
+{% block content %}
+<section>
+  <div class="container">
+    <div class="member-grid">
+      {% for m in members.entries if m.active %}
+      <div class="member">
+        <h3>{{ m.name }}</h3>
+        {% if m.affil %}<p class="affil">{{ m.affil }}</p>{% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="container">
+    <h2 class="section-title">{{ members.alumni_label }}</h2>
+    <div class="member-grid">
+      {% for m in members.entries if not m.active %}
+      <div class="member">
+        <h3>{{ m.name }}</h3>
+        {% if m.affil %}<p class="affil">{{ m.affil }}</p>{% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endblock %}

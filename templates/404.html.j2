@@ -1,0 +1,11 @@
+{% extends "base.html.j2" %}
+{% block title %}찾을 수 없는 쪽 — {{ site.title }}{% endblock %}
+{% block description %}요청한 쪽이 없습니다.{% endblock %}
+{% block hero %}
+<div class="hero page">
+  <h1>404</h1>
+  <p class="subtitle">요청하신 쪽을 찾지 못했습니다.</p>
+  <p class="description"><a href="{{ prefix }}index.html">첫 화면</a>이나 <a href="{{ prefix }}sessions.html">모임 기록</a>에서 다시 찾아보십시오.</p>
+</div>
+{% endblock %}
+{% block content %}{% endblock %}

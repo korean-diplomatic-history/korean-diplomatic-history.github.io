@@ -1,0 +1,23 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ site.nav.about }} — {{ site.title }}{% endblock %}
+{% block description %}{{ site.about.meta_description }}{% endblock %}
+
+{% block hero %}
+<div class="hero page">
+  <h1>{{ site.about.title }}</h1>
+  {% if site.about.kicker %}<p class="subtitle">{{ site.about.kicker }}</p>{% endif %}
+</div>
+{% endblock %}
+
+{% block content %}
+<section>
+  <div class="container narrow">
+    {% for b in site.about.blocks %}
+    <div class="fieldblock">
+      {% if b.heading %}<h2>{{ b.heading }}</h2>{% endif %}
+      {% for p in b.paras %}<p>{{ p|safe }}</p>{% endfor %}
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,58 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ site.nav.materials }} — {{ site.title }}{% endblock %}
+{% block description %}{{ materials.meta_description }}{% endblock %}
+
+{% block hero %}
+<div class="hero page">
+  <h1>{{ materials.title }}</h1>
+  {% if materials.kicker %}<p class="subtitle">{{ materials.kicker }}</p>{% endif %}
+</div>
+{% endblock %}
+
+{% block content %}
+
+<section class="band">
+  <div class="container">
+    {% if materials.policy_note %}<div class="policy">{{ materials.policy_note|safe }}</div>{% endif %}
+    <nav class="toc" aria-label="주제 목차">
+      {% for t in materials.themes %}
+      <a href="#{{ t.key }}">{{ t.label }}<span class="n">{{ t.entries|length }}</span></a>
+      {% endfor %}
+    </nav>
+  </div>
+</section>
+
+{% for t in materials.themes %}
+<section id="{{ t.key }}"{% if loop.index is even %} class="band"{% endif %}>
+  <div class="container">
+    <h2 class="section-title">{{ t.label }}</h2>
+    {% if t.note %}<p class="section-subtitle">{{ t.note }}</p>{% endif %}
+    <table class="mattable">
+      <thead>
+        <tr><th>자료</th><th>성격</th><th>회차</th><th>열람</th></tr>
+      </thead>
+      <tbody>
+        {% for m in t.entries %}
+        <tr class="mat-{{ m.access }}">
+          <td class="mname">
+            {% if m.access == 'public' %}<a href="{{ m.file }}" download>{{ m.title }}</a>
+            {% elif m.access == 'external' %}<a href="{{ m.url }}" rel="noopener">{{ m.title }}</a>
+            {% else %}{{ m.title }}{% endif %}
+            {% if m.author %}<span class="mauthor">{{ m.author }}</span>{% endif %}
+          </td>
+          <td class="mkind">{{ m.kind }}</td>
+          <td class="msess">{% if m.session %}<a href="sessions/{{ m.session }}.html">{{ m.session }}</a>{% endif %}</td>
+          <td class="maccess">
+            {% if m.access == 'public' %}<span class="ok">내려받기</span>
+            {% elif m.access == 'external' %}<span class="ext">원문 링크</span>
+            {% else %}<span class="no">비공개</span>{% endif %}
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+{% endfor %}
+
+{% endblock %}

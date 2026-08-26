@@ -1,0 +1,60 @@
+{% extends "base.html.j2" %}
+{% import "_material.html.j2" as M %}
+{% block title %}{{ session.session_label }} — {{ site.title }}{% endblock %}
+{% block description %}{{ session.date_display }}. {{ session.topic }}{% endblock %}
+
+{% block hero %}
+<div class="hero page session-hero">
+  <p class="eyebrow">{{ session.date_display }}</p>
+  <h1>{{ session.session_label }}</h1>
+  {% if session.topic %}<p class="description">{{ session.topic }}</p>{% endif %}
+  <p class="subtitle">
+    {% if session.venue %}{{ session.venue }}{% endif %}
+    {% if session.venue and session.format %} · {% endif %}
+    {% if session.format %}{{ session.format }}{% endif %}
+  </p>
+</div>
+{% endblock %}
+
+{% block content %}
+<section>
+  <div class="container narrow">
+
+    {{ M.body(session, prefix) }}
+
+    {% if session.record %}
+    <div class="fieldblock record">
+      <h2>모임 기록</h2>
+      <div class="record-body">{{ session.record|nl2p }}</div>
+      {% if session.record_source %}
+      <p class="src">출처: <a href="{{ session.record_source.url }}" rel="noopener">{{ session.record_source.label }}</a></p>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    {% if session.notes %}
+    <div class="fieldblock record">
+      <h2>회람 메일에 남은 기록</h2>
+      {% for n in session.notes %}
+      <div class="record-body note-block">{{ n.text|nl2p }}</div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if session.links %}
+    <div class="fieldblock">
+      <h2>당시 공유된 링크</h2>
+      <ul class="linklist">
+        {% for u in session.links %}<li><a href="{{ u }}" rel="noopener nofollow">{{ u }}</a></li>{% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    <nav class="prevnext" aria-label="회차 이동">
+      {% if older %}<a class="prev" href="{{ older.id }}.html">← {{ older.session_label }}</a>{% endif %}
+      {% if newer %}<a class="next" href="{{ newer.id }}.html">{{ newer.session_label }} →</a>{% endif %}
+    </nav>
+
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,700 @@
+{
+ "saved": [
+  {
+   "message_id": "1463b9fbda5c6066",
+   "filename": "[2014 Graduate Workshop in East Asia]Ritual Hierarchy in Crisis_Inho Choi.pdf",
+   "bytes": 284862,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "167aebca9cb36fbb",
+   "filename": "[한외사21_10]Carrai(2019)_Sovereignty in China_발제문_취합본.pdf",
+   "bytes": 490880,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "167e9be1cc7a622e",
+   "filename": "Competing visions of a postmodern world order the Philadelphian system versus the Tianxia system.pdf",
+   "bytes": 416260,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "168cb7fc7d37d743",
+   "filename": "「조선＝속국」 개념사(한글판19.1.23)_김봉진.pdf",
+   "bytes": 1396662,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "1695b1e9180c9e28",
+   "filename": "「조선＝속국」 개념사(한글판19.1.23)_김봉진.pdf",
+   "bytes": 1396662,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "16b115f898971d9f",
+   "filename": "집필3.hwp",
+   "bytes": 137216,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "16b599b9e7684944",
+   "filename": "러송려송복교의 국제정치학 천하다국질서와 고려문종의 생존전략.hwp",
+   "bytes": 114176,
+   "content_type": "application/haansofthwp"
+  },
+  {
+   "message_id": "16b59afce6205ec2",
+   "filename": "조선후기북벌론-김현철-190615 - 수정2.hwp",
+   "bytes": 45568,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "16dfcb7ca4b4696e",
+   "filename": "Mosca - Neither Chinese Nor Outsiders - JHU HGSA Seminar Oct 28 2019.pdf",
+   "bytes": 753503,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "16de1ea4781e2473",
+   "filename": "최종 -1 손병권.hwp",
+   "bytes": 68096,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "16f370f030d7d235",
+   "filename": "Sacred Mandates.pdf",
+   "bytes": 1976747,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "170e25b8c4486fca",
+   "filename": "동아시아,근대를번역하다 양계초.pdf",
+   "bytes": 1282648,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "170eb82982b19836",
+   "filename": "화상회의 ZOOM 사용법.pdf",
+   "bytes": 1020088,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "170f7cb6abd5bda1",
+   "filename": "양계초.hwp",
+   "bytes": 16384,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "170f7cb6abd5bda1",
+   "filename": "Global Interactions in the Early Modern Age.hwp",
+   "bytes": 24576,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "170f7cb6abd5bda1",
+   "filename": "동서교류와 서양의 동아시아에 대한 영향력 문헌 총론만.hwp",
+   "bytes": 14336,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "17158c548eb32aff",
+   "filename": "화상회의 ZOOM 사용법.pdf",
+   "bytes": 1020088,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "1718ad8e5af065d5",
+   "filename": "배경 문제의식, 한외사.pdf",
+   "bytes": 285418,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "1719f42a18bf707b",
+   "filename": "TJEAS(KBJ.完全修正版2016).doc",
+   "bytes": 361472,
+   "content_type": "application/msword"
+  },
+  {
+   "message_id": "1719f42a18bf707b",
+   "filename": "Yu-西権利(hangul原稿)2009.11.doc",
+   "bytes": 295424,
+   "content_type": "application/msword"
+  },
+  {
+   "message_id": "1748b12d54483646",
+   "filename": "[한외사]10월(1)_강위의 연행과 대일정책의 전환 1874~1876 (김종학).pdf",
+   "bytes": 1314572,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "1748b12d54483646",
+   "filename": "[한외사]10월(2)_개화의 수용과 근대 정치변동 1876~1895 (김종학).pdf",
+   "bytes": 685335,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "1748b12d54483646",
+   "filename": "[한외사]10월(3)_북유속담초(강위, 김종학 역).pdf",
+   "bytes": 752331,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "1748b12d54483646",
+   "filename": "[한외사]10월(4)_북유담초(강위, 김종학 역).pdf",
+   "bytes": 590637,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "1748b12d54483646",
+   "filename": "[한외사]10월(5)_심행잡기(강위, 김종학 역).pdf",
+   "bytes": 584361,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "17553535f2bbadbe",
+   "filename": "‘혁명’의_개념_변화에_관한_고찰_프랑스와 러시아의 경우.pdf",
+   "bytes": 1465989,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "17553535f2bbadbe",
+   "filename": "윤대원2019_한말 ‘立憲政體’ 논의와 ‘민주공화’의 의미.pdf",
+   "bytes": 974686,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "17553535f2bbadbe",
+   "filename": "명치흠정헌법(明治欽定憲法)의 성립(成立)과 한국개화파(韓國開化派)의 추종(追從).pdf",
+   "bytes": 564995,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "17593d1a3294ea63",
+   "filename": "[한외사]11월(4)_명치흠정헌법(明治欽定憲法)의 성립(成立)과 한국개화파(韓國開化派)의 추종(追從).pdf",
+   "bytes": 564995,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "17593d1a3294ea63",
+   "filename": "[한외사]11월(2)_‘혁명’의_개념_변화에_관한_고찰_프랑스와 러시아의 경우.pdf",
+   "bytes": 1465989,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "17593d1a3294ea63",
+   "filename": "[한외사]11월(3)_윤대원2019_한말 ‘立憲政體’ 논의와 ‘민주공화’의 의미.pdf",
+   "bytes": 974686,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "179c05efbb34f746",
+   "filename": "[한국외교사] Empire in Asia_A New Global History_Vol.1 (요약본) .pdf",
+   "bytes": 436371,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "179c05efbb34f746",
+   "filename": "[한국외교사] Empire in Asia_A New Global History_Vol.2 (요약본) .pdf",
+   "bytes": 1050929,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "17cbb0169cc453be",
+   "filename": "Carrai 5장 발제.hwp",
+   "bytes": 82432,
+   "content_type": "application/haansofthwp"
+  },
+  {
+   "message_id": "17cbb19c505cb4ab",
+   "filename": "3장 청말 민국초기 지식인과 사회적 다윈주의.hwp",
+   "bytes": 81920,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "17cbbcbe0d5e8415",
+   "filename": "Carrai 발제_차태서.hwp",
+   "bytes": 76288,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "17cbb95a5de906f3",
+   "filename": "중국내 주권-4장 발제-211026.hwp",
+   "bytes": 24064,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "17cbb2e805432b04",
+   "filename": "Secularizing a Sacred Empire.hwp",
+   "bytes": 23552,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "17cbb92f557366d5",
+   "filename": "chap 6 Historical Legacies.hwp",
+   "bytes": 19968,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "17cc02ddffa66a9c",
+   "filename": "[한외사21_10]Carrai(2019)_Sovereignty in China_발제문_취합본.pdf",
+   "bytes": 490880,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "17d3b8e58ebcdd33",
+   "filename": "[한외사21_10]Carrai(2019)_Sovereignty in China_발제문_취합본.pdf",
+   "bytes": 490880,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "17ce4aae7a44106e",
+   "filename": "Provincializing_Korea_The_Construction_o.pdf",
+   "bytes": 1639004,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "17ce4aae7a44106e",
+   "filename": "Was Korea Ever a Part of China.pdf",
+   "bytes": 219591,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "17d3b8dac9cc0f00",
+   "filename": "Provincializing_Korea_The_Construction_o.pdf",
+   "bytes": 1639004,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "17d3b8dac9cc0f00",
+   "filename": "Was Korea Ever a Part of China.pdf",
+   "bytes": 219591,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "17dc6804bfb51dc6",
+   "filename": "제5장 조선=속국, 속방 개념사.pdf",
+   "bytes": 1553785,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "17dc6804bfb51dc6",
+   "filename": "제8장 사대의 재해석.pdf",
+   "bytes": 1307076,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "17f38b4867a09945",
+   "filename": "최인호_권민주_한외사.pdf",
+   "bytes": 256451,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "17f38b4867a09945",
+   "filename": "Viveiros de Castro 1998.pdf",
+   "bytes": 1327636,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "17fbc6afcc2a9349",
+   "filename": "2020_JCR_International Relations.xlsx",
+   "bytes": 130460,
+   "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  {
+   "message_id": "1804d2e9fedf0f9d",
+   "filename": "한외사 발표.pdf",
+   "bytes": 1280965,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "182fbae9b7751335",
+   "filename": "DRAFT 220901 Qing complexity Choi and Kwon.docx",
+   "bytes": 49069,
+   "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+   "message_id": "18309441bba7c921",
+   "filename": "자유의 삼전도.docx",
+   "bytes": 34467,
+   "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+   "message_id": "1830b3d5b3fc7566",
+   "filename": "한국외교사연구회 연구제안서 (1).pdf",
+   "bytes": 109518,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "183d2c1067441b84",
+   "filename": "invite.ics",
+   "bytes": 3496,
+   "content_type": "application/ics"
+  },
+  {
+   "message_id": "18779da811733191",
+   "filename": "Moving Beyond “Sinicization” and “Manchu Characteristics20112016 CCT (1).pdf",
+   "bytes": 394301,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "18779da811733191",
+   "filename": "최근 중국학계의 근대 한중관계사 연구(2007_2016).pdf",
+   "bytes": 784924,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "18779da811733191",
+   "filename": "종번과 중화로 청 제국을 볼 수 있는가.pdf",
+   "bytes": 1352846,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "187d5bb41fafc696",
+   "filename": "EJIR-22-0330.R1_Proof_hi.pdf",
+   "bytes": 1804314,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "187c10e72526bfc7",
+   "filename": "Great Unification”, “China”, and “All-under-Heaven”.pdf",
+   "bytes": 905176,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "189c5c93c462a561",
+   "filename": "complexity of east asian history.docx",
+   "bytes": 14211,
+   "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+   "message_id": "18a1b16d854599f8",
+   "filename": "합본_동아시아 천하질서와 한국의 생존전략사.hwp",
+   "bytes": 718336,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "18ba832d8e47e733",
+   "filename": "하생전.pdf",
+   "bytes": 77603,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "18ba832d8e47e733",
+   "filename": "외교의 제왕.jpg",
+   "bytes": 80149,
+   "content_type": "image/jpeg"
+  },
+  {
+   "message_id": "18ba832d8e47e733",
+   "filename": "외교학과 리딩소리.jpg",
+   "bytes": 684132,
+   "content_type": "image/jpeg"
+  },
+  {
+   "message_id": "18bd6e9d7a742f46",
+   "filename": "종주권이라는 말의 국제정치적 기원에 관하여(수정).pdf",
+   "bytes": 803282,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "18c6cbac967c0039",
+   "filename": "West_Aisa 발제_차태서.hwp",
+   "bytes": 126464,
+   "content_type": "application/haansofthwp"
+  },
+  {
+   "message_id": "18c7db18904848d6",
+   "filename": "8장 젠더 28장 근대 발제.pdf",
+   "bytes": 108242,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "18c7ea9b2798e620",
+   "filename": "한외사 12 15.pptx",
+   "bytes": 68426,
+   "content_type": "application/haansoftpptx"
+  },
+  {
+   "message_id": "18c7fee5de9eab21",
+   "filename": "Historical Realism_Race and Racism_Oh.pptx",
+   "bytes": 103307,
+   "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+  },
+  {
+   "message_id": "18c82085bbd4ddd7",
+   "filename": "장용진 15장 발제(용채영).pdf",
+   "bytes": 109832,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "18c820a6c652d791",
+   "filename": "발제(23.12).pptx",
+   "bytes": 61021,
+   "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+  },
+  {
+   "message_id": "18c7a73fe5ca9c7f",
+   "filename": "Oxford Handbook of History and International Relations-Ch1장 발제-221215-김현철.hwp",
+   "bytes": 96768,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "18d2809916a3a2cc",
+   "filename": "EJT1228470 - 박지원 논문.pdf",
+   "bytes": 524164,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "18e4f6c1832ffa75",
+   "filename": "Submission_Guidelines_(JNAH).pdf",
+   "bytes": 178285,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "18f0d8c625ad7dce",
+   "filename": "Yong_Security Protests (17 April 2024).pdf",
+   "bytes": 310642,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "18f278bbf820246b",
+   "filename": "Yong_Security Protest Draft (25 April 2024).pdf",
+   "bytes": 311911,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "18f3789c5ac75fdd",
+   "filename": "Yong_Security Protest Draft (25 April 2024).pdf",
+   "bytes": 311911,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "18f378bce159db32",
+   "filename": "변성호_혁명 개념사로 본 20세기 한국정치사.pdf",
+   "bytes": 2120869,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "18f837ae75b6c541",
+   "filename": "[만청국제정치학] 초대장.pdf",
+   "bytes": 70037,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "18f99c0a064c4709",
+   "filename": "변성호_혁명 개념사로 본 20세기 한국정치사.pdf",
+   "bytes": 2120869,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "19221f6d27aefd65",
+   "filename": "인류세와 주권론_한국논문제출 회보용.hwpx",
+   "bytes": 92551,
+   "content_type": "application/haansofthwpx"
+  },
+  {
+   "message_id": "194076405c98799a",
+   "filename": "한국정치학회보 58집 4ȣ 겨울.pdf",
+   "bytes": 1330633,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "19240dd21945820b",
+   "filename": "변성호_혁명 개념사로 본 20세기 한국정치사.pdf",
+   "bytes": 2120869,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "192d2328ec5aa03b",
+   "filename": "19세기 말 조선의 금광 개발과 글로벌 정치경제(11월 한외사).pdf",
+   "bytes": 48380,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "195666e75e6d1a72",
+   "filename": "the-global-network-of-liberty-toward-a-new-framework-for-understanding-the-history-of-political-concepts.pdf",
+   "bytes": 3569529,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "1956ac2815babdd8",
+   "filename": "the-global-network-of-liberty-toward-a-new-framework-for-understanding-the-history-of-political-concepts.pdf",
+   "bytes": 3569529,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "195aa38f397493b7",
+   "filename": "Warring States 2nd Version_202503.pdf",
+   "bytes": 623891,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "195b1b49a992b135",
+   "filename": "Warring States 2nd Version_202503.pdf",
+   "bytes": 623891,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "195b1b49a992b135",
+   "filename": "the-global-network-of-liberty-toward-a-new-framework-for-understanding-the-history-of-political-concepts.pdf",
+   "bytes": 3569529,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "195da4f96f44dc43",
+   "filename": "acharya v pines.pdf",
+   "bytes": 227218,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "195da4f96f44dc43",
+   "filename": "pines ir review.pdf",
+   "bytes": 383329,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "195da4f96f44dc43",
+   "filename": "serving-all-under-heaven-cosmopolitan-intellectuals-of-the-warring-states-period.pdf",
+   "bytes": 564683,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "195dd78cb07a3267",
+   "filename": "Kwon 2025.pdf",
+   "bytes": 191544,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "196a945d49714ce6",
+   "filename": "일본의 마음(25.5.28).ppt",
+   "bytes": 305152,
+   "content_type": "application/vnd.ms-powerpoint"
+  },
+  {
+   "message_id": "199c75395b523943",
+   "filename": "푸코 말과 사물 3.pdf",
+   "bytes": 86596,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "19a0b7004c599de0",
+   "filename": "Contents_American Jeremiahs.docx",
+   "bytes": 18513,
+   "content_type": "application/haansoftdocx"
+  },
+  {
+   "message_id": "19a0b7004c599de0",
+   "filename": "American Jeremiahs_CHA.pdf",
+   "bytes": 656709,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "19a6d207293c5146",
+   "filename": "Contents_American Jeremiahs.docx",
+   "bytes": 18513,
+   "content_type": "application/haansoftdocx"
+  },
+  {
+   "message_id": "19a6d207293c5146",
+   "filename": "American Jeremiahs_CHA.pdf",
+   "bytes": 656709,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "190416ce381ddd74",
+   "filename": "이의역지 세미나 4회차 요약문.hwp",
+   "bytes": 229376,
+   "content_type": "application/haansofthwp"
+  },
+  {
+   "message_id": "190416ce381ddd74",
+   "filename": "이의역지 4회차 세미나 요약문.docx",
+   "bytes": 18310,
+   "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+   "message_id": "1889d1d900b90ca0",
+   "filename": "청일전쟁 시기 중국과 일본의 대 한반도 지정학적 인식 비교연구 －이홍장(李鴻章)과 야마가타 아리토모(山縣有朋)를 중심으로－.pdf",
+   "bytes": 1315576,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "1887d996e3239d17",
+   "filename": "손정수 (2021)_윤치호일기, 해천추범.pdf",
+   "bytes": 572384,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "18fa66e3e56f304c",
+   "filename": "독회 지원사업 신청서 2024.pdf",
+   "bytes": 155408,
+   "content_type": "application/pdf"
+  },
+  {
+   "message_id": "18fa66e3e56f304c",
+   "filename": "독회 지원사업 신청서 2024.hwp",
+   "bytes": 1467904,
+   "content_type": "application/haansofthwp"
+  },
+  {
+   "message_id": "18f2f042662d97da",
+   "filename": "독회지원 관련.docx",
+   "bytes": 15899,
+   "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+   "message_id": "18f2f042662d97da",
+   "filename": "1 증서류 관련.hwpx",
+   "bytes": 288674,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "18f2f042662d97da",
+   "filename": "2 사물과 화이.hwpx",
+   "bytes": 150358,
+   "content_type": "application/octet-stream"
+  },
+  {
+   "message_id": "18f2f0df2d1e21f6",
+   "filename": "독회지원 관련(수정).docx",
+   "bytes": 16029,
+   "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+   "message_id": "193bd99c4591cd9e",
+   "filename": "독회 지원사업 비용 청구서_2024년 12월.hwpx",
+   "bytes": 124134,
+   "content_type": "application/haansofthwpx"
+  },
+  {
+   "message_id": "193bd99c4591cd9e",
+   "filename": "12월 영수증.jpg",
+   "bytes": 195332,
+   "content_type": "image/jpeg"
+  },
+  {
+   "message_id": "193bd99c4591cd9e",
+   "filename": "Community Schools and the State in Ming China.hwp",
+   "bytes": 131072,
+   "content_type": "application/haansofthwp"
+  }
+ ],
+ "failed": [
+  {
+   "message_id": "179433353ed9ae1d",
+   "reason": "RAW 취득 실패 — 메시지 크기 15,635,294 bytes(base64 약 21MB)로 MCP 전송 한계를 넘어 9회 시도 모두 'session expired'. METADATA_ONLY/PLAIN_TEXT는 성공했고 첨부는 1건 존재('2권_Farrell, Brian P(Editor) - Empire in Asia_ A New Global History-Bloomsbury Academic (2018).pdf', application/pdf, attachmentId 확보)하나, 이 커넥터에 첨부 단건을 내려받는 도구(GetMessageAttachment)가 노출돼 있지 않아 추출 불가."
+  },
+  {
+   "message_id": "17fecf72e4f98995",
+   "reason": "get_message 호출 실패 — MCP server \"claude.ai Gmail\" session expired. 약 2분 30초에 걸쳐 4회 재시도(중간 대기 25s/45s/75s) 및 ToolSearch 재로드까지 시도했으나 동일 오류 지속. 첨부 미확인 상태로 남음"
+  },
+  {
+   "message_id": "199e80cf9f906f57",
+   "reason": "RAW 요청이 반복해서 'MCP server session expired'로 실패 (5회 시도). sizeEstimate 24,828,769 바이트 — 단일 첨부 'POST-EUROPE-Yuk Hui_trimmed.pdf'(application/pdf)가 커서 RAW 전송이 커넥터 한도를 넘김. METADATA_ONLY/PLAIN_TEXT는 정상 응답하나 첨부 바이트를 주지 않고, 첨부 다운로드 전용 도구(GetMessageAttachment)는 노출돼 있지 않아 저장 불가."
+  },
+  {
+   "message_id": "19db5cb151874ef4",
+   "reason": "RAW 결과가 파일로 저장되지 않고 인라인으로만 반환됨(메시지 크기 27,797바이트로 저장 임계치 미만). 인라인 base64(약 37KB)를 디스크로 옮기려면 문자열을 그대로 재작성해야 하는데 전사 과정에서 손상이 발생하여 중단함. FULL_CONTENT 형식의 attachments 필드는 메타데이터(filename/id/mimeType)만 제공하고 바이트를 포함하지 않으며, 이 Gmail MCP 서버에는 첨부 다운로드 전용 도구가 없음. 첨부 KakaoTalkChats.txt(text/plain) 미저장."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ site.title }} — {{ site.title_sub }}{% endblock %}
+{% block description %}{{ site.meta_description }}{% endblock %}
+
+{% block hero %}
+<div class="hero">
+  <h1>{{ site.title }}</h1>
+  {% if site.hero.subtitle %}<p class="subtitle">{{ site.hero.subtitle }}</p>{% endif %}
+  {% if site.hero.lede %}<p class="description">{{ site.hero.lede }}</p>{% endif %}
+  <div class="hero-actions">
+    <a class="btn" href="sessions.html">모임 기록</a>
+    <a class="btn ghost" href="materials.html">자료</a>
+  </div>
+</div>
+{% endblock %}
+
+{% block content %}
+
+<section class="band">
+  <div class="container narrow">
+    {% for b in site.intro.blocks %}
+    <div class="fieldblock">
+      {% if b.heading %}<h2>{{ b.heading }}</h2>{% endif %}
+      {% for p in b.paras %}<p>{{ p|safe }}</p>{% endfor %}
+    </div>
+    {% endfor %}
+    {% if site.agenda %}
+    <div class="fieldblock agenda">
+      <h2>{{ site.agenda.heading }}</h2>
+      {% if site.agenda.since %}<p class="agenda-since">{{ site.agenda.since }}</p>{% endif %}
+      <p class="agenda-lead">{{ site.agenda.lead }}</p>
+      <ul class="agenda-points">
+        {% for x in site.agenda.points %}<li>{{ x }}</li>{% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2 class="section-title">연구회의 시기</h2>
+    <div class="era-grid">
+      {% for era in sessions.eras %}
+      <div class="era-card">
+        <div class="era-range">{{ era.range }}</div>
+        <h3>{{ era.label }}</h3>
+        <p>{{ era.note }}</p>
+        <div class="era-count">{{ era.count }}회</div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="container">
+    <h2 class="section-title">최근 모임</h2>
+    <div class="card-grid">
+      {% for s in current if s.kind != '행사' %}{% if loop.index <= 6 %}
+      <a class="card" href="{{ s.url }}">
+        <div class="card-date">{{ s.date_display }}</div>
+        <h3>{{ s.session_label }}</h3>
+        {% if s.presenters %}
+        <p class="card-meta">{% for p in s.presenters %}{{ p.name }}{% if p.topic %} — {{ p.topic }}{% endif %}{% if not loop.last %} · {% endif %}{% endfor %}</p>
+        {% endif %}
+      </a>
+      {% endif %}{% endfor %}
+    </div>
+    <p class="more"><a href="sessions.html">{{ sessions.subtitle }} {{ sessions.kicker }} →</a><br>
+      <a href="archive.html">{{ sessions.past.title }} {{ sessions.past.kicker }} →</a></p>
+  </div>
+</section>
+
+{% endblock %}

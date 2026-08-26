@@ -1,0 +1,66 @@
+{# 자료 한 줄. 파일명이 아니라 제목을 보이고, 열람할 수 있으면 거기에 링크를 건다. #}
+{% macro mat(m, prefix='') %}
+{% if m.access == 'public' %}
+<a href="{{ prefix }}{{ m.file }}" download>{{ m.title }}</a>
+{% elif m.access == 'external' %}
+<a href="{{ m.url }}" rel="noopener">{{ m.title }}</a><span class="dl">원문 링크</span>
+{% else %}
+<span class="restricted">{{ m.title }}</span>
+{% endif %}
+{% if m.author and not m.get('under_presenter') %}<span class="by">{{ m.author }}</span>{% endif %}
+{% endmacro %}
+
+{# 회차 하나의 속살 — 독회 문헌 · 발제자 및 발제자료 · 기타 자료. 세 쪽 모두 이 차례를 따른다. #}
+{% macro body(s, prefix='', h='h2') %}
+
+{% if s.readings or s.get('reading_materials') %}
+<div class="fieldblock">
+  <{{ h }}>독회 문헌</{{ h }}>
+  <ol class="readings">
+    {% for r in s.readings %}
+    <li>
+      <span class="cite">{% if r.get('url') %}<a href="{{ r.url }}" rel="noopener">{{ r.raw|emph }}</a>{% else %}{{ r.raw|emph }}{% endif %}</span>
+      {% if r.kind %}<span class="kind">{{ r.kind }}</span>{% endif %}
+      {% if r.get('material') %}<span class="attached">{{ mat(r.material, prefix) }}</span>{% endif %}
+    </li>
+    {% endfor %}
+    {% for m in s.get('reading_materials', []) %}
+    <li class="mat-{{ m.access }}"><span class="cite">{{ mat(m, prefix) }}</span></li>
+    {% endfor %}
+  </ol>
+</div>
+{% endif %}
+
+{% if s.presenters %}
+<div class="fieldblock">
+  <{{ h }}>발제자 및 발제자료</{{ h }}>
+  <ul class="presenters">
+    {% for p in s.presenters %}
+    <li>
+      <span class="who">{{ p.name }}</span>{% if p.role and p.role != '발제' %} <span class="role">{{ p.role }}</span>{% endif %}{% if p.topic %} — {{ p.topic }}{% endif %}
+      {% if p.get('materials') %}
+      <ul class="pmats">
+        {% for m in p.materials %}<li>{{ mat(m, prefix) }}</li>{% endfor %}
+      </ul>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% if s.get('loose_papers') %}
+  <ul class="pmats loose">
+    {% for m in s.loose_papers %}<li>{{ mat(m, prefix) }}</li>{% endfor %}
+  </ul>
+  {% endif %}
+</div>
+{% endif %}
+
+{% if s.get('other_materials') %}
+<div class="fieldblock">
+  <{{ h }}>기타 자료</{{ h }}>
+  <ul class="materials">
+    {% for m in s.other_materials %}<li class="mat-{{ m.access }}">{{ mat(m, prefix) }}</li>{% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+{% endmacro %}

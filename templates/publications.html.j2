@@ -1,0 +1,74 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ site.nav.publications }} — {{ site.title }}{% endblock %}
+{% block description %}{{ publications.meta_description }}{% endblock %}
+
+{% block hero %}
+<div class="hero page">
+  <h1>{{ publications.title }}</h1>
+  {% if publications.kicker %}<p class="subtitle">{{ publications.kicker }}</p>{% endif %}
+</div>
+{% endblock %}
+
+{% block content %}
+
+{% if publications.book %}
+{% set b = publications.book %}
+<section class="band">
+  <div class="container narrow">
+    <h2 class="section-title">연구회에서 나온 책</h2>
+    <div class="bookcard">
+      <h3>{% if b.url %}<a href="{{ b.url }}" target="_blank" rel="noopener noreferrer">{{ b.title }}</a>{% else %}{{ b.title }}{% endif %}</h3>
+      {% if b.subtitle %}<p class="booksub">{{ b.subtitle }}</p>{% endif %}
+      <p class="bookmeta">
+        {% if b.editor %}{{ b.editor }}{% endif %}
+        {% if b.publisher %} · {{ b.publisher }}{% endif %}
+        {% if b.year %} · {{ b.year }}{% endif %}
+      </p>
+      {% if b.note %}<p class="booknote">{{ b.note }}</p>{% endif %}
+      {% if b.contents %}
+      <ol class="toc-book">
+        {% for c in b.contents %}
+        <li><span class="ctitle">{{ c.title }}</span>{% if c.author %}<span class="cauthor">{{ c.author }}</span>{% endif %}</li>
+        {% endfor %}
+      </ol>
+      {% endif %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+{% for g in publications.groups %}
+<section{% if loop.index is even %} class="band"{% endif %}>
+  <div class="container">
+    <h2 class="section-title">{{ g.label }}</h2>
+    {% if g.note %}<p class="section-subtitle">{{ g.note }}</p>{% endif %}
+    <ul class="publist">
+      {% for p in g.entries %}
+      <li>
+        <span class="pyear">{{ p.year }}</span>
+        <span class="pcite">
+          {% if p.authors %}{{ p.authors }}. {% endif %}
+          {% if p.url %}<a href="{{ p.url }}" target="_blank" rel="noopener noreferrer">{{ p.title|emph }}</a>{% else %}{{ p.title|emph }}{% endif %}
+          {% if p.container %} <span class="pin">{{ p.container|emph }}</span>{% endif %}
+          {% if p.volume_issue %} {{ p.volume_issue }}{% endif %}
+          {% if p.pages %}, {{ p.pages }}{% endif %}
+          {% if p.publisher %} <span class="ppub">{{ p.publisher }}</span>{% endif %}
+        </span>
+        <span class="ptags">
+          <span class="who">{{ p.member }}</span>
+          {% if p.open_access %}<span class="oa">무료 공개</span>{% endif %}
+        </span>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+{% endfor %}
+
+{% if publications.note %}
+<section>
+  <div class="container"><p class="note">{{ publications.note|safe }}</p></div>
+</section>
+{% endif %}
+
+{% endblock %}

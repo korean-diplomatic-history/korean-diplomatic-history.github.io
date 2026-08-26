@@ -1,0 +1,815 @@
+{
+ "count": 135,
+ "items": [
+  {
+   "key": "hys:201308210213115.pdf",
+   "used": true,
+   "why": "2007-02-24 주 텍스트가 Hui의 War and State Formation 자체이고 record_head에 발제 첨부 명시",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:20130821025433.pdf",
+   "used": true,
+   "why": "2007-03-31 주 텍스트 渡辺信一郞 『中國古代の王權と天下秩序』의 발제문",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:201308210325520.pdf",
+   "used": true,
+   "why": "2007-05-31 주 텍스트 Struve 편 The Qing Formation의 발제문",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:201308210325512.pdf",
+   "used": true,
+   "why": "같은 2007-05-31 회차 주 텍스트의 제5장 발제문(이헌미)",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:201308210401771.pdf",
+   "used": true,
+   "why": "2007-09-28 주 텍스트 Mote, Imperial China 900-1800의 제2부 발제문",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:201308210475566.pdf",
+   "used": true,
+   "why": "2009-03-28 회차 주제 '조천록 연구 동향'에 대한 그날의 발제문",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:201308021652581.pdf",
+   "used": true,
+   "why": "2012-09-22 주 텍스트 『중국정사 조선전 1』 사기 조선열전의 국역 발췌, 이헌미 발제",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:201308213301967.pdf",
+   "used": true,
+   "why": "같은 2012-09-22 회차가 읽은 『사기』 외국전의 다른 역주본(동북아역사재단) — 그 텍스트의 역주로 함께 배포된 것으로 봄",
+   "confidence": "medium"
+  },
+  {
+   "key": "hys:201308021745841.pdf",
+   "used": true,
+   "why": "2012-10-13 주 텍스트 『한서』 조선전 국역, 김준석 발제",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:201308213335717.pdf",
+   "used": true,
+   "why": "같은 2012-10-13 회차가 읽은 『한서』 외국전의 역주본 — 그날 텍스트의 역주",
+   "confidence": "medium"
+  },
+  {
+   "key": "hys:201308031911530.pdf",
+   "used": true,
+   "why": "2013-01-12 주 텍스트 『후한서』 동이열전 국역, 김현철 발제",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:201308121555511.pdf",
+   "used": true,
+   "why": "2013-03-09 주 텍스트 『삼국지』 위서 동이전 국역, 전재성 발제",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:201308132264592.pdf",
+   "used": true,
+   "why": "2013-04-13 주 텍스트 『진서』 동이열전 국역, 김성배 발제",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:2013081210453337.pdf",
+   "used": true,
+   "why": "2013-06-08 주 텍스트 『중국정사 조선전 2』 수서 동이열전 국역, 김수암·정연 발제",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:201308112121548.pdf",
+   "used": true,
+   "why": "같은 2013-06-08 주 텍스트에 포함된 『신당서』 동이열전·북적열전 국역",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:2015070212173762.pdf",
+   "used": true,
+   "why": "2015-05-16 '중국학파·영국학파의 동아시아 국제사회론' 회차의 발제문, record_head에 발제 첨부 명시",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:2015070212173792.pdf",
+   "used": true,
+   "why": "Ren Xiao 글은 그날 주 텍스트(Zheng Yongnian 편서 등) 수록 논문이고 2015-05-16 발제문 취합본",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:2016070623867.zip",
+   "used": true,
+   "why": "2016-04-16 주 텍스트 Yuan Kang Wang 『Harmony and War』에 대한 회원 발제문 2건, session_readings·record_head와 정확히 일치",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:20160706238699.zip",
+   "used": true,
+   "why": "같은 회차 주 텍스트 Rawski 『Early Modern China』 발제문 4건, 발제자 전원이 session_presenters에 있음",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:2020090114451123.pdf",
+   "used": true,
+   "why": "2020-03-21 차기 주제 선정 회차에서 손병권이 제안한 동서교섭사 문헌목록 총론편, 그날 논의 대상",
+   "confidence": "medium"
+  },
+  {
+   "key": "hys:2021053112352616.pdf",
+   "used": true,
+   "why": "2021-04-27 독회자료 Empire in Asia 1권 발제 취합본, record_head의 발제자 명단과 저자 일치",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:2021053112543326.pdf",
+   "used": true,
+   "why": "2021-05-25 독회자료 Empire in Asia 2권 발제 취합본, record_head 발제자 명단과 일치",
+   "confidence": "high"
+  },
+  {
+   "key": "hys:202112161143490.pdf",
+   "used": true,
+   "why": "2021-10-26 Carrai 『Sovereignty in China』 장별 발제문 취합본, 발제 분담이 record_head와 그대로 대응",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:Mosca - Neither Chinese Nor Outsiders - JHU HGSA Seminar Oct 28 2019.pdf",
+   "used": true,
+   "why": "2019-10-19 session_readings에 명시돼 있으나 회차 주제(생존전략사 초고 검토)와는 별개로 회람된 참고 페이퍼일 소지도 있음",
+   "confidence": "low"
+  },
+  {
+   "key": "gmail:Sacred Mandates.pdf",
+   "used": true,
+   "why": "2019-12-21 session_readings에 등재, 스레드도 '지난 모임에서 거론된' 책이라 명시 — 차기 주제 논의 대상",
+   "confidence": "low"
+  },
+  {
+   "key": "gmail:화상회의 ZOOM 사용법.pdf",
+   "used": false,
+   "why": "EAI가 배포한 줌 접속 안내 슬라이드로 독회 내용과 무관한 사무 문서",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:동서교류와 서양의 동아시아에 대한 영향력 문헌 총론만.hwp",
+   "used": true,
+   "why": "모임 전날 손병권이 자기 발제문과 함께 회람한 문헌목록, 스레드 category가 발제문공유",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:TJEAS(KBJ.完全修正版2016).doc",
+   "used": true,
+   "why": "2020-04-18 전재성 주권 발제와 연관해 김봉진이 회람한 조공체제 논문, session_readings에 회람 사실이 기재됨",
+   "confidence": "medium"
+  },
+  {
+   "key": "gmail:Yu-西権利(hangul原稿)2009.11.doc",
+   "used": true,
+   "why": "같은 회차 후 김봉진이 회람한 두 편 중 하나로 주권·권리 개념 수용이라는 회차 주제와 이어짐(다만 회람 시점은 모임 후)",
+   "confidence": "low"
+  },
+  {
+   "key": "gmail:‘혁명’의_개념_변화에_관한_고찰_프랑스와 러시아의 경우.pdf",
+   "used": true,
+   "why": "2020-11-26 이헌미 발제용 독회자료 4종 중 2번, session_readings에 그대로 등재",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:윤대원2019_한말 ‘立憲政體’ 논의와 ‘민주공화’의 의미.pdf",
+   "used": true,
+   "why": "같은 회차 독회자료 4종 중 3번으로 발제자가 사전 첨부해 공유",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:명치흠정헌법(明治欽定憲法)의 성립(成立)과 한국개화파(韓國開化派)의 추종(追從).pdf",
+   "used": true,
+   "why": "같은 회차 독회자료 4종 중 4번, session_readings와 일치",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:[한외사]11월(4)_명치흠정헌법(明治欽定憲法)의 성립(成立)과 한국개화파(韓國開化派)의 추종(追從).pdf",
+   "used": true,
+   "why": "재공지 메일에 다시 첨부된 같은 독회자료 4번(중복본이지만 그 회차에서 다뤄진 텍스트)",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:[한외사]11월(2)_‘혁명’의_개념_변화에_관한_고찰_프랑스와 러시아의 경우.pdf",
+   "used": true,
+   "why": "재공지 메일에 다시 첨부된 같은 독회자료 2번",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:[한외사]11월(3)_윤대원2019_한말 ‘立憲政體’ 논의와 ‘민주공화’의 의미.pdf",
+   "used": true,
+   "why": "2020-11-26 이헌미 발제 회차의 독회자료 4종 중 3번으로 session_readings에 그대로 등재",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:2권_Farrell, Brian P(Editor) - Empire in Asia_ A New Global History-Bloomsbury Academic (2018).pdf",
+   "used": true,
+   "why": "2021-05-25 정례모임 독회자료 본문이며 8인 분담 발제 대상",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:[한외사21:10]Carrai(2019)_Sovereignty in China_발제문_취합본.pdf",
+   "used": true,
+   "why": "2021-10-26 회차 발제문 취합본으로 record_head의 발제 순서와 일치",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:제5장 조선=속국, 속방 개념사.pdf",
+   "used": true,
+   "why": "2021-12-15 종주권 발제 중 언급되어 공유된 원고로 session_readings에 등재",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:제8장 사대의 재해석.pdf",
+   "used": true,
+   "why": "같은 2021-12-15 회차의 독회 문헌 목록에 제5장과 함께 올라 있음",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:2020_JCR_International Relations.xlsx",
+   "used": false,
+   "why": "합평 뒤 투고 전략 조언용으로 첨부된 SSCI 저널인용보고서 참고표(행정/기타)",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:조일수호조규 체결 전후 강위의 대일인식.pdf",
+   "used": true,
+   "why": "2022-04-19 김종학 발제 회차의 독해자료 2종 중 하나",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:한외사 발표.pdf",
+   "used": true,
+   "why": "2022-03-23 권민주·최인호 공저 원고 합평 회차의 발표 슬라이드 본체",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:invite.ics",
+   "used": false,
+   "why": "줌 모임 캘린더 초대장으로 독회 내용이 전혀 없는 사무 문서",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:Moving Beyond “Sinicization” and “Manchu Characteristics20112016 CCT (1).pdf",
+   "used": true,
+   "why": "2023-04-27 공지에서 하영선이 읽을 문헌으로 첨부한 Yang Nianqun 논문, 청사·종번 주제와 직결",
+   "confidence": "medium"
+  },
+  {
+   "key": "gmail:종번과 중화로 청 제국을 볼 수 있는가.pdf",
+   "used": true,
+   "why": "2023-04-27 손성욱 발제 회차 session_readings에 명시된 본 논문",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:Great Unification”, “China”, and “All-under-Heaven”.pdf",
+   "used": true,
+   "why": "같은 회차 읽기 목록의 Yang Nianqun 영문 번역 논문",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:complexity of east asian history.docx",
+   "used": true,
+   "why": "2023-08-01 모임 총평과 함께 다음 독회 방향으로 회람된 문헌목록 — 회차 논의와 이어지나 읽은 텍스트는 아님",
+   "confidence": "low"
+  },
+  {
+   "key": "gmail:Yong_Security Protest Draft (25 April 2024).pdf",
+   "used": true,
+   "why": "2024-04-29 용채영 초고 합평 회차의 대상 원고(수정본 재회람)",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:[만청국제정치학] 초대장.pdf",
+   "used": false,
+   "why": "희수 세미나 초대장 — 행사 안내 사무 문서이지 독회에서 검토한 자료가 아님",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:acharya v pines.pdf",
+   "used": true,
+   "why": "2025-03-27 '전국시대 국가의 발명' 합평 직후 발표자가 공유한 논쟁 문헌으로 주제와 직결",
+   "confidence": "medium"
+  },
+  {
+   "key": "gmail:pines ir review.pdf",
+   "used": true,
+   "why": "같은 회차 토론에서 다뤄진 고대 중국 IR 논쟁의 원 논문",
+   "confidence": "medium"
+  },
+  {
+   "key": "gmail:serving-all-under-heaven-cosmopolitan-intellectuals-of-the-warring-states-period.pdf",
+   "used": true,
+   "why": "3/27 최인호 '전국시대 국가의 발명' 합평 회차의 주제와 직결된 전국시대 논문으로, 발표자가 그 논의 연장선에서 공유했다",
+   "confidence": "medium"
+  },
+  {
+   "key": "gmail:Kwon 2025.pdf",
+   "used": false,
+   "why": "권민주가 모임 후 공유한 자기 출판 논문(식민지 조선 여성 패션)으로, 그날 주제인 전국시대 합평과 무관하다",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:푸코 말과 사물 3.pdf",
+   "used": true,
+   "why": "10/15 홍대용 발표를 위해 발표자가 담헌서 독서범위와 함께 미리 안내한 발췌본이다",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:POST-EUROPE-Yuk Hui_trimmed.pdf",
+   "used": true,
+   "why": "모임 후 오인환이 리딩리스트와 함께 공유해 향후 독서 제안 성격이 짙지만, 독회문헌으로 분류돼 있고 그날 인식론 논의와 닿을 여지가 있어 남긴다",
+   "confidence": "low"
+  },
+  {
+   "key": "gmail:[2014 Graduate Workshop in East Asia]Ritual Hierarchy in Crisis_Inho Choi.pdf",
+   "used": false,
+   "why": "최인호가 길림대 발표용 초고를 옥창준에게 개별 논평 부탁하며 보낸 개인 메일 첨부로, 특정 회차 발제와 이어지지 않는다",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:[한외사]10월(1)_강위의 연행과 대일정책의 전환 1874~1876 (김종학).pdf",
+   "used": true,
+   "why": "조교가 10월 모임 독회자료로 사전 배포한 김종학 발제 원고 2편 중 하나다",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:[한외사]10월(2)_개화의 수용과 근대 정치변동 1876~1895 (김종학).pdf",
+   "used": true,
+   "why": "같은 메일에서 10월 모임 독회자료로 배포된 김종학 논문이다",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:[한외사]10월(3)_북유속담초(강위, 김종학 역).pdf",
+   "used": true,
+   "why": "발제자 김종학이 10월 독회용으로 직접 역주해 배포한 강위 사료 3편 중 하나다",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:[한외사]10월(4)_북유담초(강위, 김종학 역).pdf",
+   "used": true,
+   "why": "10월 독회자료로 함께 배포된 강위 역주본으로, 발제 논문이 다루는 바로 그 텍스트다",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:[한외사]10월(5)_심행잡기(강위, 김종학 역).pdf",
+   "used": true,
+   "why": "같은 10월 독회 배포분에 포함된 강위 역주 사료다",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:[한국외교사] Empire in Asia_A New Global History_Vol.1 (요약본) .pdf",
+   "used": true,
+   "why": "간사가 회원 전체에 공유한 2021년 4·5월 월례모임 발제문 취합본이다",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:[한국외교사] Empire in Asia_A New Global History_Vol.2 (요약본) .pdf",
+   "used": true,
+   "why": "같은 월례모임 회차의 발제문 취합본 두 번째 권이다",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:Provincializing_Korea_The_Construction_o.pdf",
+   "used": true,
+   "why": "11월 발제자 김종학이 종주권 발제 리딩으로 사전 배포한 2편 중 하나다",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:Was Korea Ever a Part of China.pdf",
+   "used": true,
+   "why": "같은 메일에서 종주권 발제 리딩으로 함께 배포된 발제자 본인의 보고서다",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:Viveiros de Castro 1998.pdf",
+   "used": true,
+   "why": "3월 모임 발표 원고와 함께 발표자가 이론적 참조문헌으로 사전 배포했다",
+   "confidence": "medium"
+  },
+  {
+   "key": "gmail:DRAFT 220901 Qing complexity Choi and Kwon.docx",
+   "used": true,
+   "why": "차태서에게 재투고 조언을 구한 개인 메일 첨부지만 '한외사에서 발표했던' 청질서 논문 그 원고여서 합평 자료일 가능성이 남는다",
+   "confidence": "low"
+  },
+  {
+   "key": "gmail:자유의 삼전도.docx",
+   "used": false,
+   "why": "모임에서 읽은 자료가 아니라 사이드 프로젝트로 제안만 오간 VR 영상 시나리오 초고다",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:한국외교사연구회 연구제안서 (1).pdf",
+   "used": false,
+   "why": "이직·간사 교체 공지와 함께 회람된 향후 연구주제 기획 제안서로, 회차 주제·발제와 이어진 흔적이 없는 행정/기타 문서",
+   "confidence": "medium"
+  },
+  {
+   "key": "gmail:EJIR-22-0330.R1_Proof_hi.pdf",
+   "used": false,
+   "why": "방법론워크샵 일정조율 스레드에서 공저자가 R&R 근황으로 첨부한 자기 논문 교정쇄이지 독회 텍스트가 아님",
+   "confidence": "medium"
+  },
+  {
+   "key": "gmail:하생전.pdf",
+   "used": false,
+   "why": "뒤풀이 담소에서 언급된 학과 패러디 문학을 회람한 것으로 그 회차 리딩·발제와 무관",
+   "confidence": "low"
+  },
+  {
+   "key": "gmail:외교의 제왕.jpg",
+   "used": false,
+   "why": "학과 전공진입생 오리엔테이션 홍보 포스터로 독회에서 읽은 자료가 아님",
+   "confidence": "medium"
+  },
+  {
+   "key": "gmail:외교학과 리딩소리.jpg",
+   "used": false,
+   "why": "2009년 학과 오리엔테이션 홍보 포스터로 독회에서 읽은 자료가 아님",
+   "confidence": "medium"
+  },
+  {
+   "key": "gmail:종주권이라는 말의 국제정치적 기원에 관하여(수정).pdf",
+   "used": true,
+   "why": "김종학이 한국외교사연구회에서 발표한 '종주권' 개념 회차의 발표 내용을 회원 지적 반영해 완성한 원고",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:EJT1228470 - 박지원 논문.pdf",
+   "used": false,
+   "why": "저자가 하영선에게 개별로 보낸 게재 최종본·근황 공유로 특정 회차 독회 자료가 아님",
+   "confidence": "medium"
+  },
+  {
+   "key": "gmail:Submission_Guidelines_(JNAH).pdf",
+   "used": false,
+   "why": "동북아역사재단 영문저널 투고 규정 안내로 전형적 사무 문서",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:Yong_Security Protests (17 April 2024).pdf",
+   "used": true,
+   "why": "4월 연구회 회차의 발표자 용채영이 그날 읽을 글로 지정해 회람한 원고(줌 링크 동봉)",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:인류세와 주권론_한국논문제출 회보용.hwpx",
+   "used": false,
+   "why": "저자가 전재성에게 개별 논평을 청하며 보낸 투고 원고로 group=기타·행정/기타, 회차와 무관",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:한국정치학회보 58집 4ȣ 겨울.pdf",
+   "used": false,
+   "why": "같은 개인 논평 스레드에서 나중에 다시 보낸 게재본으로 독회에서 다룬 바 없음",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:이의역지 세미나 4회차 요약문.hwp",
+   "used": true,
+   "why": "이의역지 세미나 4회차(청일전쟁)를 위해 회원이 작성한 요약문 발제자료",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:이의역지 4회차 세미나 요약문.docx",
+   "used": true,
+   "why": "같은 4회차 요약문의 docx 판본으로 그 회차 발제자료",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:청일전쟁 시기 중국과 일본의 대 한반도 지정학적 인식 비교연구 －이홍장(李鴻章)과 야마가타 아리토모(山縣有朋)를 중심으로－.pdf",
+   "used": true,
+   "why": "청일전쟁 회차 리딩 범위를 조정하며 발제 준비용으로 제공된 문헌, group=독회문헌·회차 주제 직결",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:손정수 (2021)_윤치호일기, 해천추범.pdf",
+   "used": true,
+   "why": "윤치호일기 회차 준비 과정에서 발제자가 공유한 관련 문헌, group=독회문헌·회차 주제 직결",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:독회 지원사업 신청서 2024.pdf",
+   "used": false,
+   "why": "한국연구원 독회 지원사업 신청서로 명백한 사무 문서",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:독회 지원사업 신청서 2024.hwp",
+   "used": false,
+   "why": "같은 지원사업 신청서의 hwp 판본으로 사무 문서",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:독회 지원사업 비용 청구서_2024년 12월.hwpx",
+   "used": false,
+   "why": "독회 지원사업 정산용 비용 청구서로, 모임에서 읽거나 발표한 자료가 아닌 순수 사무 문서(threads category=행정/기타)",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:12월 영수증.jpg",
+   "used": false,
+   "why": "식당 카드 영수증 재발행분으로 정산 첨부물일 뿐 독회 내용과 무관",
+   "confidence": "high"
+  },
+  {
+   "key": "gmail:Community Schools and the State in Ming China.hwp",
+   "used": true,
+   "why": "이상민이 쓴 지성사 4차(2024-12-11) 발제문이며, 같은 메일 요지에도 그달 독회 자료로 명시",
+   "confidence": "high"
+  },
+  {
+   "key": "drive:16KFy_fRpJGSyHx-1MxL4j2FgfBLDIrVdHgLPMBxwNTQ",
+   "used": true,
+   "why": "2025-11-17 모임의 차태서 발표에 대한 토론 기록으로 회차 산출물 그 자체",
+   "confidence": "high"
+  },
+  {
+   "key": "drive:1lEQRhoyewNo8SEFl0u7qEAxHNx5A1s7NHBNrc2oUn_0",
+   "used": true,
+   "why": "'미래의 한외사' 폴더 최상위의 기획성 문서로 연구회 운영·방향 논의물로 보이나 어느 회차에서 다뤘는지 근거가 없어 보존 판단",
+   "confidence": "low"
+  },
+  {
+   "key": "drive:1r-oP_9HjD-mk9v3bOq4vRlI5oY46mHhlTBIme00Zz_o",
+   "used": true,
+   "why": "홍대용 회차의 발제 및 토론 문서로 회원이 그 모임을 위해 작성한 자료",
+   "confidence": "high"
+  },
+  {
+   "key": "drive:1ZdRiNXLdCVrF6lGJ_jWiYd0pxlR7AyV9",
+   "used": true,
+   "why": "같은 홍대용 폴더의 발제 슬라이드로 그 회차 발표자료",
+   "confidence": "high"
+  },
+  {
+   "key": "drive:1u9V_Gmt83c2YdsHuAaDnb8yI9OMq7aCo",
+   "used": true,
+   "why": "홍대용 발제 폴더에 함께 놓인 참고 이미지로 발표자료의 일부로 쓰인 것으로 보임",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1rDYu2IOCrY21kOnr3Nj112b9m-VDvzB1",
+   "used": true,
+   "why": "홍대용 발제 폴더의 참고 이미지로 발제 도판 용도로 판단",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:154SJYrXOVW5AvhGNSBeM_AR3_f9VPnro",
+   "used": true,
+   "why": "임종태 농수각 논문은 홍대용 천문학을 정면으로 다루는 독회문헌으로 그 회차 읽기 자료",
+   "confidence": "high"
+  },
+  {
+   "key": "drive:1FJP0hU8BhF6rUJFOVxoKa5J55gmlbnzw",
+   "used": true,
+   "why": "홍대용 회차의 대상 1차 텍스트(『주해수용』·『의산문답』)",
+   "confidence": "high"
+  },
+  {
+   "key": "drive:1Eh0F2Nt76pT8nBnu14cYGRO2j8HYVkyt",
+   "used": true,
+   "why": "홍대용 『주해수용』 원문으로 그날 읽기로 한 텍스트",
+   "confidence": "high"
+  },
+  {
+   "key": "drive:1IQOL0n6XX3WGyxjswSOhHGPc1sWQ3QSB",
+   "used": true,
+   "why": "푸코 『말과 사물』 발췌본이 홍대용 폴더에 (3)으로 이어져 있어 지성사·해석학 병행 독해분으로 보이나 회차 기록은 없음",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1CTgzJdFEyVXBrrrp0iUw1nnY-Ci1ON8l",
+   "used": true,
+   "why": "『의산문답』 배경 자료로 홍대용 회차 독해를 뒷받침하는 자료",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1bBtYiJcagmzdCxwyLp_35-G7he_k7CwM",
+   "used": true,
+   "why": "홍대용 통천의·혼천의 연구 논문으로 그 회차 주제와 직접 맞물리는 독회문헌",
+   "confidence": "high"
+  },
+  {
+   "key": "drive:19czujyBbTI7zGpOyciTHLarRk1kmlPDo",
+   "used": true,
+   "why": "할러슈타인(유송령)은 홍대용이 북경에서 만난 예수회사로, 홍대용 폴더의 배경 독해 문헌",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1n1Jm7NFuezXc5aYGscCjYfXf_xh2la8C",
+   "used": true,
+   "why": "'홍대용과 할러슈타인'을 직접 다룬 논문으로 그 회차 읽기 자료",
+   "confidence": "high"
+  },
+  {
+   "key": "drive:1dbXcp8hfEo6TNW2ob84B6rVS9gZ9S9-4",
+   "used": true,
+   "why": "드라이브 경로가 '미래의 한외사/홍대용'으로, 홍대용이 북경에서 접촉한 서양 선교사 할러슈타인에 대한 독회용 참고자료로 보인다",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1Jewez8JUwkrn5-eG3Ee-Jx7h0zujIqZN",
+   "used": false,
+   "why": "공동연구지원사업 신청요강 — 전형적인 사무·행정 문서로 모임에서 읽은 텍스트가 아니다",
+   "confidence": "high"
+  },
+  {
+   "key": "drive:1ACxVPHLx2j9_7LkwS_9BJdUBYa7MkxWp",
+   "used": true,
+   "why": "제목 자체가 '11월 정례모임 발제문' — 회원이 그 모임을 위해 쓴 발제문",
+   "confidence": "high"
+  },
+  {
+   "key": "drive:1A7nNHD-bDkS8GFlX5TrS2m1pTafdcMOB",
+   "used": true,
+   "why": "global history project 폴더의 독회문헌으로, 운산금광 관련 한국 근대 외교·경제사 논문이라 기획 주제와 이어진다",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1A66FGpUEqQwDuDoBZu9n77HZmZ-brx_C",
+   "used": true,
+   "why": "global history project 폴더에 독회문헌으로 분류된 논문 — 해당 기획 독회 대상 텍스트로 보인다",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:18oRZtT5Ws4VksC3O7SRVyhwQP4I0cME_",
+   "used": true,
+   "why": "'global history and Korea' 독회 폴더의 핵심 문헌(역사학과 국제관계 옥스퍼드 핸드북)으로 주제에 정확히 부합",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1Z-vXYUEyCLrhi8xUjJ__OrnUk-K1NvOa",
+   "used": true,
+   "why": "글로벌 히스토리의 성립을 다룬 논문으로 'global history and Korea' 독회 주제와 직결된다",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1Z-XKf52KDm7EDHlmX5LBwzReGQuNcZIn",
+   "used": true,
+   "why": "영미 학계 동아시아 외교사 연구동향 — 독회 성격(한국외교사·글로벌 히스토리 연구사)과 맞는 독회문헌",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1MiJjCs7nSfucdEdQN_UojJhQB1ktVNJG",
+   "used": true,
+   "why": "글로벌한 것을 문제화하는 방법을 다룬 논문으로 'global history and Korea' 독회의 이론 문헌",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1KOvUettE7Lfu-FnEyZLFFP53E7XfdbME",
+   "used": true,
+   "why": "'12월 15일 모임 발표자료' — 특정 회차를 위해 만든 발표자료",
+   "confidence": "high"
+  },
+  {
+   "key": "drive:1NCDVX95Yy3CXuk3L7qdPkwXvD0ET30q7",
+   "used": true,
+   "why": "'9월 26일' 글로벌 히스토리 발제 슬라이드 — 특정 회차 발제자료",
+   "confidence": "high"
+  },
+  {
+   "key": "drive:1rt5kO15rhjV0ms4rpJqhsdYSrn9agaHREtRPGQd_Jkk",
+   "used": true,
+   "why": "동아시아사의 복합성에 관한 발제문으로 해당 독회를 위해 작성된 자료",
+   "confidence": "high"
+  },
+  {
+   "key": "drive:1NEZHkl-Vk_NRSA5434-XlgH4qKHOoqHo",
+   "used": true,
+   "why": "중국적 특색의 글로벌 히스토리 단행본 — 'global history and Korea' 독회 주제와 직접 연결",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1N6Yp0eHQ91cixSKxIwcvvE1IH50qSqYZ",
+   "used": true,
+   "why": "kind가 '기타'라 성격이 불분명하나 인류세·아시아 주제가 같은 폴더의 Elias in the Anthropocene 독회와 이어져 남긴다",
+   "confidence": "low"
+  },
+  {
+   "key": "drive:1MzQSxtnWQxPlSMHlKWwRN8j3M3Lv4P_m",
+   "used": true,
+   "why": "인류세와 엘리아스를 잇는 독회문헌으로 같은 폴더에 중복 사본이 있을 만큼 실제 배포·검토된 정황",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1MsRU2z1gvTy731YLths13ujkmaTlwDRf",
+   "used": true,
+   "why": "위 항목과 동일 논문의 다른 사본 — 같은 독회 문헌이므로 함께 true",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1W1UNbKC3es7sytwWxRkQ7pTsSHA7E0kQ",
+   "used": true,
+   "why": "'독회 문헌 목록'은 읽기 텍스트 자체는 아니나 발표 폴더('2023 05 내발표')에서 독회 진행에 쓰인 자료로 보여 남긴다",
+   "confidence": "low"
+  },
+  {
+   "key": "drive:1W6sxkk5VqC9TG4JJarYTKT1LdtDL-qcD",
+   "used": true,
+   "why": "'2023 05 내발표' 폴더의 독회문헌 — 청대 변경정책·지정학 단행본으로 그 회차 발표 대상 텍스트로 보임",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1W5GiSZhJwZqRBbgKdJyBkcpoUpBU4EZx",
+   "used": true,
+   "why": "같은 '2023 05 내발표' 폴더의 독회문헌 — 노모스/주권 논의로 회차 주제와 이어짐",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1MsjbDQqhMegMrjxhp3qkouTdRkhP5s_b",
+   "used": true,
+   "why": "'suzereignty' 폴더에 장별로 분할 업로드된 TBRL20 스캔 세트의 제1장 — 전형적 독회용 분할본",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1NZt2G2FhDRNhBx93RK64KEiw8FOD2V_8",
+   "used": true,
+   "why": "동일 TBRL20 장별 분할 스캔의 제2장",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1Nk8FfQyRMzvWsWOafayvECe2tu8Y9GcK",
+   "used": true,
+   "why": "동일 TBRL20 장별 분할 스캔의 제3장",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1NJcq2o89QCc1Rj-Hw2IBhP6hoCkNl4Ri",
+   "used": true,
+   "why": "동일 TBRL20 장별 분할 스캔의 제4장",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1NlIYkKefQC8nW1pBpbgIc_0bksVUsbpD",
+   "used": true,
+   "why": "동일 TBRL20 장별 분할 스캔의 제5장",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1NIKjJjs1OjH_KVBB277oqdzUy6tJxdE0",
+   "used": true,
+   "why": "동일 TBRL20 장별 분할 스캔의 제6장",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1Nc_G6JTbixnwtEny9noHNpU8kgWhJWXz",
+   "used": true,
+   "why": "동일 TBRL20 장별 분할 스캔의 제7장",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1NBJbNcB9IZQ5Tz4Vek_UgCEk_iFjvNyU",
+   "used": true,
+   "why": "동일 TBRL20 장별 분할 스캔의 제8장",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1NOJT2zJHiiT40uQ5hAVUoSB7beMnBzjT",
+   "used": true,
+   "why": "동일 TBRL20 장별 분할 스캔의 제9장",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1Mq1ynjwMkuEqrw6qzqeeLEioPRmKB0YQ",
+   "used": true,
+   "why": "동일 TBRL20 장별 분할 스캔의 제10장",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1NIA8a5U73QvI2nWG6VMQKfAC4jWr8CYo",
+   "used": true,
+   "why": "동일 TBRL20 분할 스캔의 서론 — 독회 첫 회차에서 통상 함께 읽는 부분",
+   "confidence": "medium"
+  },
+  {
+   "key": "drive:1Na7huVP_7aw_qQnHjUdnxfVdGdKrYDAI",
+   "used": true,
+   "why": "독회 텍스트 TBRL20 스캔 세트의 부속(참고문헌) — 본문과 한 묶음으로 올라간 것",
+   "confidence": "low"
+  },
+  {
+   "key": "drive:1NienThdx5Z046cWuoFkJE4cdhTtI6I55",
+   "used": true,
+   "why": "독회 텍스트 TBRL20 스캔 세트의 부속(색인) — 본문과 한 묶음으로 올라간 것",
+   "confidence": "low"
+  },
+  {
+   "key": "drive:1NnhpMH9bAN3sUQHjcgpvJQk7yASUiJdq",
+   "used": true,
+   "why": "'suzereignty' 폴더 주제(종주권·반주권·법적 위계)와 정확히 일치하는 논문 — 같은 독회 묶음의 읽을거리",
+   "confidence": "medium"
+  }
+ ]
+}

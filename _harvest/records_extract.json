@@ -1,0 +1,3548 @@
+{
+ "count": 74,
+ "records": [
+  {
+   "file": "2006-03-25_441.txt",
+   "posted_date": "2006-03-25",
+   "meeting_date": "2006-03-25",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "연행록선집 연원직지 강독",
+   "presenters": [
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "<연행록 선집> 10책 연원직지(燕轅直指)"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "성균관대학교 대동문화연구회, <연행록 선집>, 10책 연원직지(燕轅直指)",
+     "title": "연행록 선집 10책 연원직지(燕轅直指)",
+     "authors": "성균관대학교 대동문화연구회",
+     "kind": "번역사료"
+    }
+   ],
+   "notes": "본문은 \"1. 주 텍스트 / 2. 발제 / 3. 토론 내용 정리\" 목차만 남아 있고 토론 내용은 비어 있음. 첨부 '이헌미_연원직지 발제문'은 발제 자료라 readings에서 제외."
+  },
+  {
+   "file": "2006-07-19_442.txt",
+   "posted_date": "2006-07-19",
+   "meeting_date": "2006-07-19",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "연행록선집 몽경당일사 강독",
+   "presenters": [
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "<연행록 선집> 11책 몽경당일사(夢經堂日史)"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "성균관대학교 대동문화연구회, <연행록 선집>, 11책 몽경당일사(夢經堂日史)",
+     "title": "연행록 선집 11책 몽경당일사(夢經堂日史)",
+     "authors": "성균관대학교 대동문화연구회",
+     "kind": "번역사료"
+    }
+   ],
+   "notes": "토론 내용 본문은 비어 있음. 헤더는 '7월 정례모임'이고 일시(7월 19일 수요일)와 게시일이 같음."
+  },
+  {
+   "file": "2006-10-13_443.txt",
+   "posted_date": "2006-10-13",
+   "meeting_date": "2006-10-13",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "연행록선집 조천기 강독",
+   "presenters": [
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "<연행록 선집> 1책 조천기(朝天記)"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "성균관대학교 대동문화연구회, <연행록 선집>, 1책 조천기(朝天記)",
+     "title": "연행록 선집 1책 조천기(朝天記)",
+     "authors": "성균관대학교 대동문화연구회",
+     "kind": "번역사료"
+    }
+   ],
+   "notes": "토론 내용 본문은 비어 있음."
+  },
+  {
+   "file": "2007-02-24_444.txt",
+   "posted_date": "2007-02-24",
+   "meeting_date": "2007-02-24",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "고대 중국과 근세 유럽의 전쟁과 국가형성",
+   "presenters": [],
+   "readings": [
+    {
+     "raw": "Victoria Tin-Bor Hui, War and State Formation in Ancient China and Early Modern Europe, Cambridge University Press, 2005.",
+     "title": "War and State Formation in Ancient China and Early Modern Europe",
+     "authors": "Victoria Tin-Bor Hui",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "발제자 이름이 본문·첨부명('Victoria Tin-Bor Hui 발제문') 어디에도 없어 presenters 비움. 토론 내용 본문도 비어 있음."
+  },
+  {
+   "file": "2007-03-31_445.txt",
+   "posted_date": "2007-03-31",
+   "meeting_date": "2007-03-31",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "중국 고대 왕권과 천하질서",
+   "presenters": [],
+   "readings": [
+    {
+     "raw": "渡辺信一郞, <中國古代の王權と天下秩序: 日中比較史の視點から>, 校倉書房, 2003.",
+     "title": "中國古代の王權と天下秩序: 日中比較史の視點から",
+     "authors": "渡辺信一郞",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "발제자 이름이 본문·첨부명('중국고대왕권과 천하질서 발제문')에 없어 presenters 비움. 토론 내용 본문은 비어 있음."
+  },
+  {
+   "file": "2007-05-31_446.txt",
+   "posted_date": "2007-05-31",
+   "meeting_date": "2007-05-31",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "세계사적 시간 속의 청조 형성",
+   "presenters": [],
+   "readings": [
+    {
+     "raw": "Lynn A. Struve (ed.) The Qing Formation in World-Historical Time, Harvard University Press, 2004.",
+     "title": "The Qing Formation in World-Historical Time",
+     "authors": "Lynn A. Struve (ed.)",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "첨부가 'The Qing Formation 발제문 1', '발제문 2' 두 건이라 발제자가 둘일 가능성이 있으나 이름이 적혀 있지 않아 presenters 비움. 원문 텍스트 줄 앞뒤에 BOM 문자가 섞여 있어 제거하고 옮김."
+  },
+  {
+   "file": "2007-09-28_447.txt",
+   "posted_date": "2007-09-28",
+   "meeting_date": "2007-09-28",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "모트 Imperial China 900-1800 강독",
+   "presenters": [],
+   "readings": [
+    {
+     "raw": "Frederick W. Mote, Imperial China 900-1800, Harvard University Press, 2003.",
+     "title": "Imperial China 900-1800",
+     "authors": "Frederick W. Mote",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "첨부가 'Imperial China 발제문'뿐이고 발제자 이름이 본문·첨부명 어디에도 없어 presenters 비움. 토론 내용은 항목 제목만 있고 본문이 없음."
+  },
+  {
+   "file": "2008-12-14_448.txt",
+   "posted_date": "2008-12-14",
+   "meeting_date": "2008-12-14",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "18세기 연행록과 연행사·통신사",
+   "presenters": [
+    {
+     "name": "이택선",
+     "role": "발제",
+     "topic": "김현미 <18세기 연행록의 전개와 특성>, 후마 스스무 <연행사와 통신사>"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "김현미, <18세기 연행록의 전개와 특성>, 혜안, 2007. (발제 이택선)",
+     "title": "18세기 연행록의 전개와 특성",
+     "authors": "김현미",
+     "kind": "단행본"
+    },
+    {
+     "raw": "후마 스스무, <연행사와 통신사>, 신서원, 2008. (발제 이택선)",
+     "title": "연행사와 통신사",
+     "authors": "후마 스스무",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "두 텍스트 모두 '발제 이택선'으로 표기되어 발제자 1인으로 묶음. 토론 내용 본문은 비어 있음."
+  },
+  {
+   "file": "2009-03-28_449.txt",
+   "posted_date": "2009-03-28",
+   "meeting_date": "2009-03-28",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "조천록 연구 동향",
+   "presenters": [],
+   "readings": [
+    {
+     "raw": "조천록 연구 동향",
+     "title": "조천록 연구 동향",
+     "authors": "",
+     "kind": "기타"
+    }
+   ],
+   "notes": "'주 텍스트'가 서지 없이 '조천록 연구 동향'이라고만 적혀 있어 개별 문헌인지 주제인지 불명. 발제자 이름은 본문·첨부명('조천록 연구동향 발제문')에 없음."
+  },
+  {
+   "file": "2011-09-24_436.txt",
+   "posted_date": "2011-09-24",
+   "meeting_date": "2011-09-24",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "허봉·조헌의 조천록과 조명관계 유형론",
+   "presenters": [
+    {
+     "name": "전재성",
+     "role": "발제",
+     "topic": "허봉, 조헌의 조천록"
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": "허봉, 조헌의 조천록"
+    },
+    {
+     "name": "김성배",
+     "role": "코멘트",
+     "topic": "허봉, 조헌의 조천록"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "허봉, 조헌의 조천록",
+     "title": "조천록",
+     "authors": "허봉, 조헌",
+     "kind": "1차사료"
+    }
+   ],
+   "notes": "하영선 코멘트에 나오는 '4필독서: 페어뱅크, 헤비아, 중국 신청사'는 그날 읽은 문헌이 아니라 앞으로 읽을 권장 문헌으로 읽혀 readings에서 제외. 전재성은 발제자이면서 '답변'도 함(role은 발제로 표기)."
+  },
+  {
+   "file": "2011-10-22_437.txt",
+   "posted_date": "2011-10-22",
+   "meeting_date": "2011-10-22",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "박제가의 북학·통상론과 연행",
+   "presenters": [
+    {
+     "name": "김수암",
+     "role": "발제",
+     "topic": "북학과 박제가의 연행 : 교류 통상과 공간인식의 확산"
+    },
+    {
+     "name": "김현철",
+     "role": "코멘트",
+     "topic": "북학과 박제가의 연행"
+    },
+    {
+     "name": "전재성",
+     "role": "코멘트",
+     "topic": "북학과 박제가의 연행"
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": "북학과 박제가의 연행"
+    },
+    {
+     "name": "김성배",
+     "role": "코멘트",
+     "topic": "북학과 박제가의 연행"
+    },
+    {
+     "name": "김봉진",
+     "role": "코멘트",
+     "topic": "북학과 박제가의 연행"
+    }
+   ],
+   "readings": [],
+   "notes": "그날 읽은 텍스트는 김수암 발제문이며 규칙상 readings에서 제외해 비움. 토론 중 박제가 북학의·존주론·병오소회, 하마시타 다케시 연구서가 언급되나 그날의 독서 문헌으로 지정된 바 없어 넣지 않음."
+  },
+  {
+   "file": "2012-01-14_438.txt",
+   "posted_date": "2012-01-14",
+   "meeting_date": "2012-01-14",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "김정희의 연행과 18~19세기 동아시아 지식질서",
+   "presenters": [
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "김정희의 연행과 학술교류를 통해서 본 18세기말-19세기 초 동아시아 지식질서의 전개"
+    },
+    {
+     "name": "김현철",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김성배",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "전재성",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "readings": [],
+   "notes": "헤더 첨부는 '2012년 1월_김준석 추사 발제문' 하나이며 회원 발제문이라 readings에서 제외. 토론 중 안외순 2004 논문, 후지스카 지카시·후마 스스무·유홍준의 추사 연구, 김명호의 박규수 연구, <황조경세문편>이 거론되나 그날 함께 읽은 문헌으로 지정된 것은 없어 readings 비움."
+  },
+  {
+   "file": "2012-02-09_440.txt",
+   "posted_date": "2012-02-09",
+   "meeting_date": "2012-02-09",
+   "meeting_time": "",
+   "kind": "워크샵",
+   "venue": "",
+   "topic_summary": "연행록의 국제정치학 논문 발표 워크샵",
+   "presenters": [
+    {
+     "name": "전재성",
+     "role": "발제",
+     "topic": "허봉, 조헌의 조천록과 한중관계"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "월사 연행록과 명청교체기 한중관계"
+    },
+    {
+     "name": "김봉진",
+     "role": "발제",
+     "topic": "홍대용 연행록의 국제정치학"
+    },
+    {
+     "name": "정연",
+     "role": "발제",
+     "topic": "열하일기의 국제정치학"
+    },
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "연행과 학술 교류를 통해서 본 18세기 말~19세기 초 동아시아 지식질서의 전개"
+    },
+    {
+     "name": "김현철",
+     "role": "발제",
+     "topic": "19세기 전반기 연행사절과 김경선의 중국관: 북벌론과 북학파의 사이에서 '東道․淸器'의 시도"
+    },
+    {
+     "name": "김성배",
+     "role": "발제",
+     "topic": "환재 박규수와 시무(時務)의 국제정치학"
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "이원덕",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김수암",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "readings": [],
+   "notes": "7건 발제로 구성된 워크샵. 발제 대상 문헌(조천록·월사 연행록·의산문답·열하일기·연원직지 등)은 각 발제 제목 안에만 나타나고 별도의 공동 독서 문헌 지정이 없어 readings는 비우고 presenters[].topic으로 보존함. 발제자 7인 중 상당수가 다른 발제에 코멘트도 했으나 역할 중복을 피해 발제로만 기재하고, 발제 없이 코멘트만 한 3인을 코멘트로 넣음."
+  },
+  {
+   "file": "2012-03-24_439.txt",
+   "posted_date": "2012-03-24",
+   "meeting_date": "2012-03-24",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "중국 학계의 연행록 연구 동향",
+   "presenters": [
+    {
+     "name": "정연",
+     "role": "발제",
+     "topic": "중국 연행록 연구 소개"
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김수암",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김성배",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "이헌미",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "readings": [
+    {
+     "raw": "차혜원, \"청대 초.중기 정치문화사의 쟁점 분석: '청조체제론'과 '연행록' 연구동향을 중심으로\" (동북아역사재단)",
+     "title": "청대 초·중기 정치문화사의 쟁점 분석: '청조체제론'과 '연행록' 연구동향을 중심으로",
+     "authors": "차혜원",
+     "kind": "학술논문"
+    }
+   ],
+   "notes": "차혜원 논문은 정연 발제의 (3)항으로 서지와 함께 제시된 것이라 readings에 넣음. 발제 중 목록으로만 거명된 진상승·류위·서동일·양우뢰·갈조광·손위국 연구와 전미자 베이징대 1998 박사학위논문 '18세기 연행록을 통해 바라본 중국 형상'은 서지가 불완전하고 소개 목록이라 제외. 말미의 '<대동한문학> 34집, 2011년 연행록 특별호'는 앞으로 읽을 것으로 지시된 자료라 제외."
+  },
+  {
+   "file": "2012-09-22_360.txt",
+   "posted_date": "2012-09-22",
+   "meeting_date": "2012-09-22",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "사기 조선열전과 진한대 천하질서",
+   "readings": [
+    {
+     "raw": "국사편찬위원회 엮음, <중국정사 조선전 1>, 사기 조선열전",
+     "title": "중국정사 조선전 1 — 사기 조선열전",
+     "authors": "국사편찬위원회 엮음",
+     "kind": "번역사료"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "국사편찬위원회 엮음, <중국정사 조선전 1>, 사기 조선열전"
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "이헌미",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "전재성",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김성배",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "notes": "첨부에 \"중국정사 외국전_사기 역주\"가 함께 있으나 본문 텍스트 목록에는 없어 readings에 넣지 않음. 본문 소제목은 \"(2) 한국의 시선? : 하영선 선생님 코멘트\"로 표기."
+  },
+  {
+   "file": "2012-10-13_359.txt",
+   "posted_date": "2012-10-13",
+   "meeting_date": "2012-10-13",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "한서 조선전과 위만조선 위치 논쟁",
+   "readings": [
+    {
+     "raw": "국사편찬위원회 엮음, <중국정사 조선전 1>, 한서 조선전",
+     "title": "중국정사 조선전 1 — 한서 조선전",
+     "authors": "국사편찬위원회 엮음",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "신채호, 박인호 옮김, <조선사연구초>, 동재, 2003.",
+     "title": "조선사연구초",
+     "authors": "신채호 (박인호 옮김)",
+     "kind": "단행본"
+    },
+    {
+     "raw": "정인보, 박성수 정리. <정인보의 조선사 연구>, 서원, 2000.",
+     "title": "정인보의 조선사 연구",
+     "authors": "정인보 (박성수 정리)",
+     "kind": "단행본"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "국사편찬위원회 엮음, <중국정사 조선전 1>, 한서 조선전"
+    },
+    {
+     "name": "이헌미",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김현철",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "이원덕",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김준석",
+     "role": "토론",
+     "topic": "질문에 대한 답변"
+    },
+    {
+     "name": "권민주",
+     "role": "토론",
+     "topic": "질문에 대한 답변"
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "notes": "보조 텍스트 두 건이 원문에 줄바꿈 없이 한 줄로 붙어 있어 서지 단위로 분리해 옮김. 본문의 \"회원이덕\"·\"회원지덕\"은 원문 표기 그대로이며 반고 <한서> 찬의 표현을 가리킴."
+  },
+  {
+   "file": "2012-11-10_358.txt",
+   "posted_date": "2012-11-10",
+   "meeting_date": "",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "오랑캐의 탄생과 몽골 집합기억",
+   "readings": [
+    {
+     "raw": "니콜라 디 코스모, 이재정 옮김, <오랑캐의 탄생>, 황금가지, 2005.",
+     "title": "오랑캐의 탄생",
+     "authors": "니콜라 디 코스모 (이재정 옮김)",
+     "kind": "단행본"
+    },
+    {
+     "raw": "Christopher Kaplonski, Collective Memory and Chingunjav's Rebellion, History and Anthropology, Vol.6, No.2-3, pp.235-259, 1993.",
+     "title": "Collective Memory and Chingunjav's Rebellion",
+     "authors": "Christopher Kaplonski",
+     "kind": "학술논문"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "니콜라 디 코스모, <오랑캐의 탄생>"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "Christopher Kaplonski, Collective Memory and Chingunjav's Rebellion"
+    }
+   ],
+   "notes": "본문에 \"일시:\" 줄이 없어 meeting_date 비움(헤더 게시일만 존재). \"4. 토론 내용 정리\" 항목이 제목만 있고 내용 없음."
+  },
+  {
+   "file": "2012-12-08_357.txt",
+   "posted_date": "2012-12-08",
+   "meeting_date": "2012-12-08",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "서주~전국기 화이관념의 형성",
+   "readings": [
+    {
+     "raw": "홍승현, <중국과 주변>, 혜안, 2009.",
+     "title": "중국과 주변",
+     "authors": "홍승현",
+     "kind": "단행본"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "홍승현, <중국과 주변>"
+    },
+    {
+     "name": "김수암",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "이헌미",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "전재성",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "file": "2013-01-12_356.txt",
+   "posted_date": "2013-01-12",
+   "meeting_date": "",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "후한서 동이열전과 중국의 군사문화",
+   "readings": [
+    {
+     "raw": "국사편찬위원회 엮음, <중국정사 조선전 1>, 후한서 동이열전",
+     "title": "중국정사 조선전 1 — 후한서 동이열전",
+     "authors": "국사편찬위원회 엮음",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "Nicola Di Cosmo et al. Military Culture in Imperial China, Harvard University Press, 2011.",
+     "title": "Military Culture in Imperial China",
+     "authors": "Nicola Di Cosmo et al.",
+     "kind": "단행본"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "김현철",
+     "role": "발제",
+     "topic": "국사편찬위원회 엮음, <중국정사 조선전 1>, 후한서 동이열전"
+    },
+    {
+     "name": "김현철",
+     "role": "발제",
+     "topic": "Nicola Di Cosmo et al., Military Culture in Imperial China"
+    },
+    {
+     "name": "옥창준",
+     "role": "발제",
+     "topic": "Nicola Di Cosmo et al., Military Culture in Imperial China"
+    },
+    {
+     "name": "최인호",
+     "role": "발제",
+     "topic": "Nicola Di Cosmo et al., Military Culture in Imperial China"
+    }
+   ],
+   "notes": "본문에 \"일시:\" 줄이 없어 meeting_date 비움(헤더 게시일만 존재). \"4. 토론 내용 정리\" 항목이 제목만 있고 내용 없음."
+  },
+  {
+   "file": "2013-03-09_355.txt",
+   "posted_date": "2013-03-09",
+   "meeting_date": "2013-03-09",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "삼국지 위서 동이전과 리펑의 서주 국가론",
+   "readings": [
+    {
+     "raw": "국사편찬위원회 엮음, <중국정사 조선전 1>, 삼국지 위서 동이전",
+     "title": "중국정사 조선전 1 — 삼국지 위서 동이전",
+     "authors": "국사편찬위원회 엮음",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "Li Feng. Landscape and Power in Early China, Cambridge University Press, 2009.",
+     "title": "Landscape and Power in Early China",
+     "authors": "Li Feng",
+     "kind": "단행본"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "전재성",
+     "role": "발제",
+     "topic": "국사편찬위원회 엮음, <중국정사 조선전 1>, 삼국지 위서 동이전"
+    },
+    {
+     "name": "최인호",
+     "role": "발제",
+     "topic": "Li Feng, Landscape and Power in Early China"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "Li Feng, Landscape and Power in Early China"
+    },
+    {
+     "name": "권민주",
+     "role": "발제",
+     "topic": "Li Feng, Landscape and Power in Early China"
+    },
+    {
+     "name": "옥창준",
+     "role": "발제",
+     "topic": "Li Feng, Landscape and Power in Early China"
+    },
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "Li Feng, Landscape and Power in Early China"
+    },
+    {
+     "name": "김수암",
+     "role": "발제",
+     "topic": "Li Feng, Landscape and Power in Early China"
+    },
+    {
+     "name": "하영선",
+     "role": "발제",
+     "topic": "Li Feng, Landscape and Power in Early China"
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "notes": "보조 텍스트 발제자로 하영선이 명단에 포함되어 있고, 별도로 \"● 하영선 코멘트\" 항목도 있어 두 역할을 각각 기록. 첨부에 최인호·김수암의 Li Feng 발제문 2종."
+  },
+  {
+   "file": "2013-04-13_354.txt",
+   "posted_date": "2013-04-13",
+   "meeting_date": "2013-04-13",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "진서 동이열전과 고조선사 연구 100년",
+   "presenters": [
+    {
+     "name": "김성배",
+     "role": "발제",
+     "topic": "<중국정사 조선전 1> 삼국지 진서 동이열전"
+    },
+    {
+     "name": "김현철",
+     "role": "발제",
+     "topic": "고조선사연구회, <고조선사연구 100년>"
+    },
+    {
+     "name": "최인호",
+     "role": "발제",
+     "topic": "고조선사연구회, <고조선사연구 100년>"
+    },
+    {
+     "name": "용채영",
+     "role": "발제",
+     "topic": "고조선사연구회, <고조선사연구 100년>"
+    },
+    {
+     "name": "최은실",
+     "role": "발제",
+     "topic": "고조선사연구회, <고조선사연구 100년>"
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "전재성",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "김준석",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "김봉진",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "이헌미",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "readings": [
+    {
+     "raw": "국사편찬위원회 엮음, <중국정사 조선전 1>, 삼국지 진서 동이열전",
+     "title": "중국정사 조선전 1 (삼국지·진서 동이열전)",
+     "authors": "국사편찬위원회 엮음",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "고조선사연구회, <고조선사연구 100년>, 학연, 2009.",
+     "title": "고조선사연구 100년",
+     "authors": "고조선사연구회",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "토론에서 '답변'으로 표기된 발언(전재성·김성배·김준석·김봉진)은 role을 토론으로 넣음. 첨부의 '김성배_진서 동이열전 발제문'은 발제문이라 readings에서 제외."
+  },
+  {
+   "file": "2013-05-11_353.txt",
+   "posted_date": "2013-05-11",
+   "meeting_date": "2013-05-11",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "남북조 정사 동이열전과 호리 도시카즈의 고대 동아시아론",
+   "presenters": [
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "<중국정사 조선전 1> 송서·남제서·양서·위서·주서"
+    },
+    {
+     "name": "하영선",
+     "role": "발제",
+     "topic": "호리 도시카즈, <중국과 고대 동아시아>"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "호리 도시카즈, <중국과 고대 동아시아>"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "국사편찬위원회, <중국정사 조선전 1>, 송서, 남제서, 양서, 위서, 주서",
+     "title": "중국정사 조선전 1 (송서·남제서·양서·위서·주서)",
+     "authors": "국사편찬위원회",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "호리 도시카즈, 정병준, 이원석, 채지혜 옮김, <중국과 고대 동아시아>, 동국대학교출판부, 2012.",
+     "title": "중국과 고대 동아시아",
+     "authors": "호리 도시카즈 (정병준·이원석·채지혜 옮김)",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "본문 '4. 토론 내용 정리' 아래가 비어 있어 토론 참가자는 알 수 없음. 첨부 파일명은 '김준석_송서 남북서 동이열전 발제문'으로 '남북서' 표기가 본문(남제서·양서 등)과 어긋남."
+  },
+  {
+   "file": "2013-06-08_352.txt",
+   "posted_date": "2013-06-08",
+   "meeting_date": "2013-06-08",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "수·당서 동이열전과 니시지마 사다오의 동아시아 세계론",
+   "presenters": [
+    {
+     "name": "김수암",
+     "role": "발제",
+     "topic": "<중국정사 조선전 2> 수서·구당서·신당서 동이열전, 북적열전"
+    },
+    {
+     "name": "정연",
+     "role": "발제",
+     "topic": "<중국정사 조선전 2> 수서·구당서·신당서 동이열전, 북적열전"
+    },
+    {
+     "name": "최인호",
+     "role": "발제",
+     "topic": "니시지마 사다오, <일본의 고대사 인식>"
+    },
+    {
+     "name": "김봉진",
+     "role": "발제",
+     "topic": "이성시, 「일본 역사학계의 동아시아 세계론에 대한 재검토」"
+    },
+    {
+     "name": "이헌미",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "이택선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김현철",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "readings": [
+    {
+     "raw": "국사편찬위원회, <중국정사 조선전 2>, 수서, 구당서, 신당서 동이열전, 북적열전",
+     "title": "중국정사 조선전 2 (수서·구당서·신당서 동이열전, 북적열전)",
+     "authors": "국사편찬위원회",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "니시지마 사다오, 이성시 엮음, 송완범 옮김, <일본의 고대사 인식>, 역사비평사, 2008.",
+     "title": "일본의 고대사 인식",
+     "authors": "니시지마 사다오 (이성시 엮음, 송완범 옮김)",
+     "kind": "단행본"
+    },
+    {
+     "raw": "가네코 슈이치, 중국의 입장에서 본 삼국통일, <한국고대사연구> 23권, 2001.",
+     "title": "중국의 입장에서 본 삼국통일",
+     "authors": "가네코 슈이치",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "가네코 슈이치, 동아시아 세계론, <역사와 교육>, Vol. 12, 2011.",
+     "title": "동아시아 세계론",
+     "authors": "가네코 슈이치",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "이성시, 일본 역사학계의 동아시아 세계론에 대한 재검토 : 한국 학계와의 대화로부터, <역사학보> 216집, 2012.",
+     "title": "일본 역사학계의 동아시아 세계론에 대한 재검토 : 한국 학계와의 대화로부터",
+     "authors": "이성시",
+     "kind": "학술논문"
+    }
+   ],
+   "readings_note": "",
+   "notes": "'(발제 : 김봉진)'이 이성시 논문 줄 뒤에 붙어 있어 가네코 슈이치 논문 2편까지 포괄하는지는 불확실. 첨부명은 '김봉진_니시지마 사다오 발제문'이라 본문 표기와 어긋남. 김수암 발제문 첨부는 '김수암_수서 구당서 발제문'이며 정연의 발제 범위는 본문에 세분되어 있지 않음."
+  },
+  {
+   "file": "2013-09-14_450.txt",
+   "posted_date": "2013-09-14",
+   "meeting_date": "2013-09-14",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "삼국사기 신라본기와 원전 사료 비판",
+   "presenters": [
+    {
+     "name": "최인호",
+     "role": "발제",
+     "topic": "<삼국사기> 신라본기 (권1-6)"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "<삼국사기> 신라본기 (권7-12)"
+    },
+    {
+     "name": "이택선",
+     "role": "발제",
+     "topic": "<삼국사기> 원전·사료적 성격 관련 서평논문 3편"
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김현철",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김준석",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김성배",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "readings": [
+    {
+     "raw": "김부식, 권덕영 외, <삼국사기> 신라본기",
+     "title": "삼국사기 신라본기",
+     "authors": "김부식 (권덕영 외)",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "김태식, <삼국사기> 원전자료의 성격 (이강래, <삼국사기 전거론> 서평)",
+     "title": "<삼국사기> 원전자료의 성격",
+     "authors": "김태식",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "조인성, <삼국사기>의 사료적 성격에 대한 종합적 검토 (정구복 외, <삼국사기의 원전 검토> 서평)",
+     "title": "<삼국사기>의 사료적 성격에 대한 종합적 검토",
+     "authors": "조인성",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "이강래, <삼국사기> 원전론을 위하여 (고관민, <삼국사기의 원전적 연구> 서평)",
+     "title": "<삼국사기> 원전론을 위하여",
+     "authors": "이강래",
+     "kind": "학술논문"
+    }
+   ],
+   "notes": "본문은 신라본기 발제자를 최인호·이헌미로만 적었고, 권 범위(1-6 / 7-12)는 첨부 파일명에서 읽음."
+  },
+  {
+   "file": "2013-10-12_451.txt",
+   "posted_date": "2013-10-12",
+   "meeting_date": "2013-10-12",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "삼국사기 고구려본기와 고구려의 대중국 관계",
+   "presenters": [
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "<삼국사기> 고구려본기"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "김은숙, 「7세기 동아시아의 국제관계」"
+    },
+    {
+     "name": "옥창준",
+     "role": "발제",
+     "topic": "노태돈, 「5세기 금석문에 보이는 고구려인의 천하관」"
+    },
+    {
+     "name": "김성배",
+     "role": "발제",
+     "topic": "김영천, 「중국 학계의 고구려 대외 관계 연구 동향」"
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "최인호",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김현철",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "전재성",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "readings": [
+    {
+     "raw": "김부식, 권덕영 외, <삼국사기> 고구려본기",
+     "title": "삼국사기 고구려본기",
+     "authors": "김부식 (권덕영 외)",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "김은숙, 7세기 동아시아의 국제관계 : 수의 등장 이후 백제 멸망까지를 중심으로",
+     "title": "7세기 동아시아의 국제관계 : 수의 등장 이후 백제 멸망까지를 중심으로",
+     "authors": "김은숙",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "노태돈, 5세기 금석문에 보이는 고구려인의 천하관",
+     "title": "5세기 금석문에 보이는 고구려인의 천하관",
+     "authors": "노태돈",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "김영천, 중국 학계의 고구려 대외 관계 연구 동향",
+     "title": "중국 학계의 고구려 대외 관계 연구 동향",
+     "authors": "김영천",
+     "kind": "학술논문"
+    }
+   ],
+   "notes": "보조 텍스트 3편은 학술지·연도 표기가 본문에 없어 비움. 이헌미는 발제와 토론 코멘트 양쪽에 등장하나 발제로만 기재."
+  },
+  {
+   "file": "2013-11-16_485.txt",
+   "posted_date": "2013-11-16",
+   "meeting_date": "2013-11-16",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "",
+   "presenters": [],
+   "readings": [],
+   "notes": "머리말(제목·일시)만 있고 발제·토론 내용이 모두 비어 있으며 첨부도 없음. 텍스트·발제자·주제 판독 불가."
+  },
+  {
+   "file": "2013-12-21_486.txt",
+   "posted_date": "2013-12-21",
+   "meeting_date": "2013-12-21",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "삼국사기 백제본기·잡지·열전",
+   "readings": [
+    {
+     "raw": "김부식, 권덕영 외, <삼국사기> 백제본기",
+     "title": "삼국사기 백제본기",
+     "authors": "김부식, 권덕영 외",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "김부식, 권덕영 외, <삼국사기> 잡지, 열전",
+     "title": "삼국사기 잡지·열전",
+     "authors": "김부식, 권덕영 외",
+     "kind": "번역사료"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "김수암",
+     "role": "발제",
+     "topic": "<삼국사기> 백제본기"
+    },
+    {
+     "name": "최인호",
+     "role": "발제",
+     "topic": "<삼국사기> 잡지, 열전"
+    }
+   ],
+   "notes": "'2. 발제', '3. 토론 내용 정리' 항목이 제목만 있고 내용이 비어 있어 토론 참가자·코멘트는 확인 불가. 장소·시각 기재 없음."
+  },
+  {
+   "file": "2014-03-15_489.txt",
+   "posted_date": "2014-03-15",
+   "meeting_date": "2014-03-15",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "삼국유사 기이편과 고려의 역사인식",
+   "readings": [
+    {
+     "raw": "일연, <삼국유사> 기이 1",
+     "title": "삼국유사 기이 1",
+     "authors": "일연",
+     "kind": "1차사료"
+    },
+    {
+     "raw": "일연, <삼국유사> 기이 2",
+     "title": "삼국유사 기이 2",
+     "authors": "일연",
+     "kind": "1차사료"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "김수암",
+     "role": "발제",
+     "topic": "<삼국유사> 기이 1"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "<삼국유사> 기이 2"
+    },
+    {
+     "name": "김성배",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "전재성",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김봉진",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "notes": "삼국유사는 역자 표기 없이 '일연'만 기재되어 있어 판본(국역본 여부) 불명. 이헌미는 발제자이면서 토론에서도 코멘트했으나 역할은 발제로 기재. 토론 중 언급된 이동주 <신동아> 기고문은 그날 읽은 문헌이 아니라 제외."
+  },
+  {
+   "file": "2014-04-19_494.txt",
+   "posted_date": "2014-04-19",
+   "meeting_date": "2014-04-19",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "삼국유사 불교 관련 편목과 고대 불교·탑",
+   "readings": [
+    {
+     "raw": "일연, <삼국유사> 흥법-탑상-의해-신주-감통-피은-효선편",
+     "title": "삼국유사 흥법·탑상·의해·신주·감통·피은·효선편",
+     "authors": "일연",
+     "kind": "1차사료"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "김현철",
+     "role": "발제",
+     "topic": "<삼국유사> 흥법-탑상-의해-신주-감통-피은-효선편"
+    },
+    {
+     "name": "이헌미",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "최인호",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "전재성",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "notes": "본문은 '발제자 : 김현철'로 표기. 김현철은 발제 후 토론에서도 코멘트했으나 역할은 발제로 기재."
+  },
+  {
+   "file": "2014-05-17_495.txt",
+   "posted_date": "2014-05-17",
+   "meeting_date": "2014-05-17",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "오대십국기 중국정사 조선전과 예치·세력균형",
+   "readings": [
+    {
+     "raw": "국사편찬위원회, <중국정사 조선전 2>, 구오대사, 신오대사",
+     "title": "중국정사 조선전 2 — 구오대사·신오대사",
+     "authors": "국사편찬위원회",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "Morris Rossabi, China Among Equals, Intro and Ch.1",
+     "title": "China Among Equals, Intro and Ch.1",
+     "authors": "Morris Rossabi",
+     "kind": "단행본장"
+    },
+    {
+     "raw": "이기동, \"나말여초 남중국 여러 나라와의 교섭\"",
+     "title": "나말여초 남중국 여러 나라와의 교섭",
+     "authors": "이기동",
+     "kind": "학술논문"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "<중국정사 조선전 2> 구오대사, 신오대사"
+    },
+    {
+     "name": "최인호",
+     "role": "발제",
+     "topic": "Morris Rossabi, China Among Equals, Intro and Ch.1"
+    },
+    {
+     "name": "김현철",
+     "role": "발제",
+     "topic": "이기동, \"나말여초 남중국 여러 나라와의 교섭\""
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "전재성",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "notes": "첨부 목록에 '김현철_이기백 발제문'이 있으나 본문 텍스트 목록에는 이기백 문헌이 없고 서지도 확인되지 않아 readings에서 제외. 이헌미·최인호·김현철은 발제자이면서 토론 코멘트도 했으나 역할은 발제로 기재."
+  },
+  {
+   "file": "2014-06-21_496.txt",
+   "posted_date": "2014-06-21",
+   "meeting_date": "2014-06-21",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "송·요·금·원사 조선전과 정복왕조·몽골제국",
+   "readings": [
+    {
+     "raw": "국사편찬위원회, <중국정사 조선전 2>, 송사, 요사, 금사, 원사, 신원사",
+     "title": "중국정사 조선전 2 — 송사·요사·금사·원사·신원사",
+     "authors": "국사편찬위원회",
+     "kind": "번역사료"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "하영선",
+     "role": "발제",
+     "topic": "<중국정사 조선전 2> 송사 (첨부: 하영선_송사 발제문)"
+    },
+    {
+     "name": "옥창준",
+     "role": "발제",
+     "topic": "<중국정사 조선전 2> 요사·금사 (첨부: 옥창준_요금사 발제문)"
+    },
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "<중국정사 조선전 2> 원사·신원사 (첨부: 김준석_원사신원사 발제문)"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "정복왕조 연구동향"
+    },
+    {
+     "name": "권민주",
+     "role": "발제",
+     "topic": "몽골제국사 연구동향"
+    },
+    {
+     "name": "김현철",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김성배",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "전재성",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "최인호",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "송지예",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "notes": "주 텍스트 발제자는 '하영선, 옥창준, 김준석' 세 명이 묶여 표기되어 있고, 개별 분담은 첨부 파일명(하영선_송사 / 옥창준_요금사 / 김준석_원사신원사)으로 추정 표기함. 보조 텍스트 '정복왕조 연구동향'·'몽골제국사 연구동향'은 구체적 문헌명이 아니라 연구동향 발제여서 readings에서 제외하고 발제 topic으로 기재. 토론 중 언급된 <몽골 세계제국사>·Song Research Tool은 그날 읽은 문헌으로 명시되지 않아 제외. 원문에 MS Office 네임스페이스 태그(<o:p>)가 남아 있음."
+  },
+  {
+   "file": "2014-09-20_504.txt",
+   "posted_date": "2014-09-20",
+   "meeting_date": "2014-09-20",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "고려사절요와 11~12세기 송·요·고려 세력균형",
+   "readings": [
+    {
+     "raw": "민족문화추진위원회, <고려사절요>",
+     "title": "고려사절요",
+     "authors": "민족문화추진위원회",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "김성규, 3개의 트라이앵글",
+     "title": "3개의 트라이앵글",
+     "authors": "김성규",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "피터 윤, Balance of Power in 11-12C",
+     "title": "Balance of Power in 11-12C",
+     "authors": "피터 윤",
+     "kind": "학술논문"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "김현철",
+     "role": "발제",
+     "topic": "김성규, 3개의 트라이앵글"
+    },
+    {
+     "name": "김수암",
+     "role": "발제",
+     "topic": "피터 윤, Balance of Power in 11-12C"
+    },
+    {
+     "name": "이헌미",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "손병권",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "notes": "김수암·김현철은 발제자이자 토론에서 코멘트도 함(발제로만 표기). 첨부 파일명 '김현철_김성규 논문 발제문', '김수암_피터윤 논문 발제문'이 본문 발제 표기와 일치."
+  },
+  {
+   "file": "2014-10-18_505.txt",
+   "posted_date": "2014-10-18",
+   "meeting_date": "2014-10-18",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "로사비 China Among Equals와 천하 분열·통일",
+   "readings": [
+    {
+     "raw": "Morris Rossabi (ed.) China Among Equals, 1983.",
+     "title": "China Among Equals",
+     "authors": "Morris Rossabi (ed.)",
+     "kind": "단행본"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "최인호",
+     "role": "발제",
+     "topic": ""
+    },
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": ""
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": ""
+    },
+    {
+     "name": "김성배",
+     "role": "발제",
+     "topic": ""
+    },
+    {
+     "name": "전재성",
+     "role": "발제",
+     "topic": ""
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "손병권",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "notes": "발제자 5인은 첨부 파일명('최인호 발제문' 등)에서만 확인되고 각자 맡은 대상이 적혀 있지 않아 topic 비움. 본문 '김준석 고멘트'는 코멘트 오타로 보이나 발제자로 이미 기재. 본문 중 '김 :'로만 표기된 발언자 1건은 성이 불명이라 제외."
+  },
+  {
+   "file": "2014-11-15_506.txt",
+   "posted_date": "2014-11-15",
+   "meeting_date": "2014-11-15",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "고려사절요와 10~14세기 페어뱅크·로사비 논쟁",
+   "readings": [
+    {
+     "raw": "고려사절요",
+     "title": "고려사절요",
+     "authors": "",
+     "kind": "번역사료"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "김현철",
+     "role": "발제",
+     "topic": "고려사절요"
+    },
+    {
+     "name": "손병권",
+     "role": "발제",
+     "topic": "관련 논문(제목 불명)"
+    },
+    {
+     "name": "전재성",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김성배",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "notes": "본문에 주 텍스트·보조 텍스트 항목이 비어 있어 문헌은 첨부 파일명('김현철_고려사절요 발제문', '손병권_관련 논문 발제문')에서만 확인. 손병권 발제 대상 논문의 서지는 알 수 없음. 손병권은 코멘트도 했으나 발제로만 표기."
+  },
+  {
+   "file": "2014-12-20_507.txt",
+   "posted_date": "2014-12-20",
+   "meeting_date": "2014-12-20",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "윤영인·이익주의 페어뱅크 비판과 동아시아 질서사",
+   "readings": [
+    {
+     "raw": "고려사절요",
+     "title": "고려사절요",
+     "authors": "",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "이익주 논문",
+     "title": "",
+     "authors": "이익주",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "윤영인 논문",
+     "title": "",
+     "authors": "윤영인",
+     "kind": "학술논문"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "이택선",
+     "role": "발제",
+     "topic": "고려사절요"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "이익주 논문"
+    },
+    {
+     "name": "김헌준",
+     "role": "발제",
+     "topic": "윤영인 논문"
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "손병권",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김수암",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "notes": "주·보조 텍스트 항목이 비어 있어 문헌은 첨부 파일명에서만 확인되며, 이익주·윤영인 논문의 제목·연도는 기록에 없음. 이헌미는 코멘트도 했으나 발제로만 표기."
+  },
+  {
+   "file": "2015-03-21_527.txt",
+   "posted_date": "2015-03-21",
+   "meeting_date": "2015-03-21",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "장페이페이 <한중관계사>와 사대·조공질서 재해석",
+   "readings": [
+    {
+     "raw": "장페이페이 외, 김승일 옮김, <한중관계사>, 범우사, 2005.",
+     "title": "한중관계사",
+     "authors": "장페이페이 외 (김승일 옮김)",
+     "kind": "단행본"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "장페이페이 외, <한중관계사>"
+    },
+    {
+     "name": "김성배",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "김수암",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "이택선",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "이원덕",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "notes": "본문 토론은 '이름 :' 형식으로만 표기되어 코멘트/토론 구분이 명시되지 않음. 이헌미는 첨부 '이헌미_장페이페이 발제문'으로 발제 확인, 토론에도 다수 발언."
+  },
+  {
+   "file": "2015-05-16_528.txt",
+   "posted_date": "2015-05-16",
+   "meeting_date": "2015-05-16",
+   "meeting_time": "",
+   "venue": "",
+   "kind": "정례모임",
+   "topic_summary": "중국학파·영국학파의 동아시아 국제사회론",
+   "readings": [
+    {
+     "raw": "Wang Gungwu and Zheng Yongnian eds., China and the New International Order (Routledge, 2008)",
+     "title": "China and the New International Order",
+     "authors": "Wang Gungwu and Zheng Yongnian eds.",
+     "kind": "단행본"
+    },
+    {
+     "raw": "Zheng Yongnian ed, China and International Relations: The Chinese view and the contribution of Wang Gungwu (Routledge, 2010)",
+     "title": "China and International Relations: The Chinese view and the contribution of Wang Gungwu",
+     "authors": "Zheng Yongnian ed.",
+     "kind": "단행본"
+    },
+    {
+     "raw": "Barry Buzan and Yongjin Zhang eds., Contesting International Society in East Asia (Cambridge University Press, 2014)",
+     "title": "Contesting International Society in East Asia",
+     "authors": "Barry Buzan and Yongjin Zhang eds.",
+     "kind": "단행본"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "전재성",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "손병권",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "김준석",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "김성배",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "김현철",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "김헌준",
+     "role": "토론",
+     "topic": ""
+    }
+   ],
+   "notes": "발제자 이름이 본문·첨부(‘한국외교사연구회 발제문1·2’)에 드러나지 않아 발제 역할은 비움. 나열한 사람은 ‘4. 토론 내용 정리’ 발언자."
+  },
+  {
+   "file": "2015-09-19_532.txt",
+   "posted_date": "2015-09-19",
+   "meeting_date": "2015-09-19",
+   "meeting_time": "",
+   "venue": "",
+   "kind": "정례모임",
+   "topic_summary": "명사 조선전과 명대 조공관계",
+   "readings": [
+    {
+     "raw": "<중국정사 조선전> 명사",
+     "title": "중국정사 조선전 - 명사",
+     "authors": "",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "Donald Clark, \"Sino-Korean Tributary Relations under the Ming\" in CHOC, Vol.8.",
+     "title": "Sino-Korean Tributary Relations under the Ming",
+     "authors": "Donald Clark",
+     "kind": "단행본장"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "전재성",
+     "role": "발제",
+     "topic": "중국정사 조선전"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "중국정사 조선전 명사"
+    },
+    {
+     "name": "김봉진",
+     "role": "발제",
+     "topic": "명대의 조공관계"
+    },
+    {
+     "name": "김준석",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    }
+   ],
+   "notes": "발제자는 첨부 파일명(전재성·이헌미·김봉진)에서 읽음. 전재성·김봉진은 토론에도 발언."
+  },
+  {
+   "file": "2015-10-24_533.txt",
+   "posted_date": "2015-10-24",
+   "meeting_date": "2015-10-17",
+   "meeting_time": "",
+   "venue": "",
+   "kind": "정례모임",
+   "topic_summary": "임진왜란·호란과 명초 조선관계 연구서",
+   "readings": [
+    {
+     "raw": "한명기, <임진왜란과 한중관계>, 역사비평사, 1999",
+     "title": "임진왜란과 한중관계",
+     "authors": "한명기",
+     "kind": "단행본"
+    },
+    {
+     "raw": "한명기, <정묘병자호란과 동아시아>, 푸른역사, 2009",
+     "title": "정묘병자호란과 동아시아",
+     "authors": "한명기",
+     "kind": "단행본"
+    },
+    {
+     "raw": "박원호, <명초조선관계사연구>, 일조각, 2002",
+     "title": "명초조선관계사연구",
+     "authors": "박원호",
+     "kind": "단행본"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "손병권",
+     "role": "발제",
+     "topic": "한명기, <임진왜란과 한중관계>"
+    },
+    {
+     "name": "김성배",
+     "role": "발제",
+     "topic": "한명기, <정묘병자호란과 동아시아>"
+    },
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "박원호, <명초조선관계사연구>"
+    },
+    {
+     "name": "전재성",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "이헌미",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김봉진",
+     "role": "토론",
+     "topic": ""
+    }
+   ],
+   "notes": "게시일(2015-10-24)과 본문 ‘일시 2015년 10월 17일(토)’이 다름 — meeting_date는 본문 기준. 첨부 파일명의 김성배 발제문은 ‘정묘호란’으로만 적혀 있으나 본문 배정은 <정묘병자호란과 동아시아>."
+  },
+  {
+   "file": "2015-12-17_534.txt",
+   "posted_date": "2015-12-17",
+   "meeting_date": "2015-12-17",
+   "meeting_time": "",
+   "venue": "",
+   "kind": "정례모임",
+   "topic_summary": "소현세자 심양 억류와 명청교체기",
+   "readings": [
+    {
+     "raw": "김종수 외 번역, <소현심양일기>, 민속원, 2008",
+     "title": "소현심양일기",
+     "authors": "김종수 외 번역",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "<심양장계>, 창비, 2008",
+     "title": "심양장계",
+     "authors": "",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "허태구, \"소현세자의 심양억류와 인질체험\"",
+     "title": "소현세자의 심양억류와 인질체험",
+     "authors": "허태구",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "안재원, \"아담 샬, 순치체, 소현세자: 아담을 바라보는 두 시선 사이에 있는 차이에 대해서\"",
+     "title": "아담 샬, 순치체, 소현세자: 아담을 바라보는 두 시선 사이에 있는 차이에 대해서",
+     "authors": "안재원",
+     "kind": "학술논문"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "김헌준",
+     "role": "발제",
+     "topic": "<소현심양일기>"
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "손병권",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "김수암",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "김봉진",
+     "role": "토론",
+     "topic": ""
+    }
+   ],
+   "notes": "안재원 논문 제목의 ‘순치체’는 원문 표기 그대로 옮김."
+  },
+  {
+   "file": "2016-04-16_544.txt",
+   "posted_date": "2016-04-16",
+   "meeting_date": "2016-04-16",
+   "meeting_time": "",
+   "venue": "",
+   "kind": "정례모임",
+   "topic_summary": "명대 대외정책과 청사 탈중심화",
+   "readings": [
+    {
+     "raw": "Yuan Kang Wang, Harmony and War",
+     "title": "Harmony and War",
+     "authors": "Yuan Kang Wang",
+     "kind": "단행본"
+    },
+    {
+     "raw": "Evely Rawski, Early Modern China",
+     "title": "Early Modern China",
+     "authors": "Evely Rawski",
+     "kind": "단행본"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "이헌미",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "전재성",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "하영선",
+     "role": "코멘트",
+     "topic": ""
+    },
+    {
+     "name": "김준석",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "김현철",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "김성배",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "김봉진",
+     "role": "토론",
+     "topic": ""
+    }
+   ],
+   "notes": "첨부가 ‘Harmony and War 발제문’·‘Rawski 발제문’으로 사람 이름이 없어 발제자 미상. 저자 표기 ‘Evely Rawski’는 기록 그대로(원 표기 유지)."
+  },
+  {
+   "file": "2016-05-21_675.txt",
+   "posted_date": "2016-05-21",
+   "meeting_date": "2016-05-21",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "청사고 조선전과 조청관계의 성격",
+   "presenters": [
+    {
+     "name": "김봉진",
+     "role": "발제",
+     "topic": "<중국정사조선전> 청사고"
+    },
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "<중국정사조선전> 청사고"
+    },
+    {
+     "name": "최인호",
+     "role": "발제",
+     "topic": "김선민, \"속국과 외국 사이\""
+    },
+    {
+     "name": "이헌미",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "하영선",
+     "role": "토론",
+     "topic": ""
+    }
+   ],
+   "readings": [
+    {
+     "raw": "<중국정사조선전> 청사고",
+     "title": "중국정사조선전 청사고",
+     "authors": "",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "김선민, \"속국과 외국 사이\"",
+     "title": "속국과 외국 사이",
+     "authors": "김선민",
+     "kind": "기타"
+    }
+   ],
+   "notes": "김봉진은 발제자이면서 토론에도 발언(발제로 기재). 김선민 글은 논문·단행본 여부가 기록에 없어 kind 기타. 첨부는 김준석·최인호 발제문 2건뿐이나 본문에 김봉진 발제 명시."
+  },
+  {
+   "file": "2016-06-18_676.txt",
+   "posted_date": "2016-06-18",
+   "meeting_date": "2016-06-18",
+   "meeting_time": "",
+   "kind": "정례모임",
+   "venue": "",
+   "topic_summary": "조선중화주의 논쟁과 18세기 탈중화",
+   "presenters": [
+    {
+     "name": "최인호",
+     "role": "발제",
+     "topic": "조선 중화주의의 재검토 / 조선의 18세기와 탈중화 문제"
+    },
+    {
+     "name": "김봉진",
+     "role": "발제",
+     "topic": "조선 중화주의에 대한 학설사적 검토"
+    },
+    {
+     "name": "노가연",
+     "role": "발제",
+     "topic": "조선 후기 조선중화주의와 그 해석 문제"
+    },
+    {
+     "name": "김성배",
+     "role": "발제",
+     "topic": "18세기 후반 19세기 전반 대청의식의 변화와 새로운 중화 관념의 형성"
+    },
+    {
+     "name": "하영선",
+     "role": "발제",
+     "topic": "대의각미록과 조선 후기 화이론"
+    },
+    {
+     "name": "손병권",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "김수암",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "이헌미",
+     "role": "토론",
+     "topic": ""
+    },
+    {
+     "name": "전재성",
+     "role": "토론",
+     "topic": ""
+    }
+   ],
+   "readings": [
+    {
+     "raw": "조선 중화주의의 재검토",
+     "title": "조선 중화주의의 재검토",
+     "authors": "",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "조선 중화주의에 대한 학설사적 검토",
+     "title": "조선 중화주의에 대한 학설사적 검토",
+     "authors": "",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "조선 후기 조선중화주의와 그 해석 문제",
+     "title": "조선 후기 조선중화주의와 그 해석 문제",
+     "authors": "",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "조선의 18세기와 탈중화 문제",
+     "title": "조선의 18세기와 탈중화 문제",
+     "authors": "",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "18세기 후반 19세기 전반 대청의식의 변화와 새로운 중화 관념의 형성",
+     "title": "18세기 후반 19세기 전반 대청의식의 변화와 새로운 중화 관념의 형성",
+     "authors": "",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "대의각미록과 조선 후기 화이론",
+     "title": "대의각미록과 조선 후기 화이론",
+     "authors": "",
+     "kind": "학술논문"
+    }
+   ],
+   "notes": "6편 모두 '주 텍스트'로만 적혀 저자·출처 미표기. 하영선은 발제자이자 토론 발언자(발제로 기재). 첨부는 최인호·김성배·하영선·노가연 발제문 4건이나 본문에 김봉진 발제도 명시."
+  },
+  {
+   "file": "2016-09-24_686.txt",
+   "posted_date": "2016-09-24",
+   "meeting_date": "2016-09-24",
+   "meeting_time": "13:30~15:00",
+   "kind": "정례모임",
+   "venue": "한국고등교육재단 지하 세미나실",
+   "topic_summary": "백제의 대외교섭과 삼국시대 조공책봉",
+   "presenters": [
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "노중국, <백제의 대외교섭과 교류> 제2편"
+    },
+    {
+     "name": "전재성",
+     "role": "발제",
+     "topic": "노중국, <백제의 대외교섭과 교류> 제3편"
+    },
+    {
+     "name": "김성배",
+     "role": "발제",
+     "topic": "노중국, <백제의 대외교섭과 교류> 제4편"
+    },
+    {
+     "name": "김수암",
+     "role": "발제",
+     "topic": "노중국, <백제의 대외교섭과 교류> 제5편 / 공동연구 발제: 백제의 대외관계"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "노중국, «백제의 대외교섭과 교류» (2012) / 노중국, <백제의 대외교섭과 교류> (지식산업사, 2012)",
+     "title": "백제의 대외교섭과 교류",
+     "authors": "노중국",
+     "kind": "단행본"
+    },
+    {
+     "raw": "김기섭, <2014년도 마한·백제사 연구 동향과 성과>",
+     "title": "2014년도 마한·백제사 연구 동향과 성과",
+     "authors": "김기섭",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "문동석, <최근 백제사 연구 성과와 동향 – 2013년 연구 성과를 대상으로>",
+     "title": "최근 백제사 연구 성과와 동향 – 2013년 연구 성과를 대상으로",
+     "authors": "문동석",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "박윤선, <백제 국제관계사 연구동향과 시기구분 시론>",
+     "title": "백제 국제관계사 연구동향과 시기구분 시론",
+     "authors": "박윤선",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "여호규, <총론: 6~8세기 동아시아 국제관계사 연구의 진전을 기대하며>",
+     "title": "총론: 6~8세기 동아시아 국제관계사 연구의 진전을 기대하며",
+     "authors": "여호규",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "유원재, <백제의 대외관계>",
+     "title": "백제의 대외관계",
+     "authors": "유원재",
+     "kind": "학술논문"
+    }
+   ],
+   "notes": "토론 정리가 발언자 이름 없이 불릿으로만 기록되어 토론자 미기재. 원문 줄바꿈이 문헌명 중간에서 끊겨 있어 제목을 이어 붙여 판독."
+  },
+  {
+   "file": "2016-10-29_687.txt",
+   "posted_date": "2016-10-29",
+   "meeting_date": "2016-10-29",
+   "meeting_time": "15:30~18:00",
+   "kind": "정례모임",
+   "venue": "한국고등교육재단 지하 세미나실",
+   "topic_summary": "장수왕대 고구려 외교와 책봉조공체제",
+   "presenters": [
+    {
+     "name": "노가연",
+     "role": "발제",
+     "topic": "구대열 논문"
+    },
+    {
+     "name": "김성배",
+     "role": "발제",
+     "topic": "한승·쑨웨이궈·황춘옌·임기환·최일례·김철민 논문 / 공동연구 발제: 고구려의 대외관계"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "김한규·김영천 논문"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "구대열, \"장수왕의 외교 정책: 고구려의 \"자주외교\"의 두 얼굴\", 국제정치논총 50(2), 2010.",
+     "title": "장수왕의 외교 정책: 고구려의 \"자주외교\"의 두 얼굴",
+     "authors": "구대열",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "임기환, \"남북조기 한중 책봉·조공 관계의 성격\", 한국고대사연구 32, 2003.",
+     "title": "남북조기 한중 책봉·조공 관계의 성격",
+     "authors": "임기환",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "최일례, \"장수왕대 고구려의 대중외교와 그 동인\", 한국고대사연구 71, 2013.",
+     "title": "장수왕대 고구려의 대중외교와 그 동인",
+     "authors": "최일례",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "김철민, \"고구려 장수왕 대의 대송외교와 그 배경\", 한국사학보 63, 2016.",
+     "title": "고구려 장수왕 대의 대송외교와 그 배경",
+     "authors": "김철민",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "김한규, \"동아시아 역사 논쟁과 고구려 역사 논쟁\", 서강인문논총 43, 2015.",
+     "title": "동아시아 역사 논쟁과 고구려 역사 논쟁",
+     "authors": "김한규",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "김영천, \"중국 학계의 고구려 대외관계 연구동향\", 사총 66, 2008.",
+     "title": "중국 학계의 고구려 대외관계 연구동향",
+     "authors": "김영천",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "韩昇, (남북조와 백제의 정치·문화 관계의 변화), 1996.",
+     "title": "남북조와 백제의 정치·문화 관계의 변화",
+     "authors": "韩昇",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "孙卫国, (동심원 이론에서 양극모델 이론으로: 미국 중국학계의 중국고대 조공제도 연구), 2013.",
+     "title": "동심원 이론에서 양극모델 이론으로: 미국 중국학계의 중국고대 조공제도 연구",
+     "authors": "孙卫国",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "黄纯艳, (중국고대 조공체제 연구의 회고와 전망), 2013.",
+     "title": "중국고대 조공체제 연구의 회고와 전망",
+     "authors": "黄纯艳",
+     "kind": "학술논문"
+    }
+   ],
+   "notes": "중문 논문 3편은 한국어 제목으로만 적혀 있고 원제·게재지 미표기. 토론은 발언자 이름 없이 정리되어 토론자 미기재. 토론 중 언급된 韓昇 «東亞世界形成史論»(2015 개정판)은 독회 자료가 아니라 제외."
+  },
+  {
+   "file": "2016-11-26_691.txt",
+   "posted_date": "2016-11-26",
+   "meeting_date": "2016-11-26",
+   "meeting_time": "15:30~18:00",
+   "kind": "정례모임",
+   "venue": "한국고등교육재단 지하 세미나실",
+   "topic_summary": "나당전쟁과 당대 후기 동아시아 질서",
+   "presenters": [
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "이상훈 «나당전쟁연구» / 연구주제: 왜 신라가 7세기 이후 한반도 유일 국가로 생존할 수 있었는가"
+    },
+    {
+     "name": "김봉진",
+     "role": "발제",
+     "topic": "廣瀬憲雄 «東アジアの国際秩序と古代日本» / 연구주제: 당대 후기 동아시아 지역 질서와 장보고 해상 네트워크"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "이상훈, «나당전쟁연구» (서울: 주류성, 2013)",
+     "title": "나당전쟁연구",
+     "authors": "이상훈",
+     "kind": "단행본"
+    },
+    {
+     "raw": "廣瀬憲雄, «東アジアの国際秩序と古代日本» (東京 : 吉川弘文館, 2011)",
+     "title": "東アジアの国際秩序と古代日本",
+     "authors": "廣瀬憲雄 (히로세 노리오)",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "토론 중 거론된 왕전핑(Wang Zhenping) «Tang China in Multi-Polar Asia», 김한규 <천하국가>, 서영교 논문은 독회 자료가 아니어서 readings에서 제외. 토론 발언자 이름은 기록되어 있지 않음."
+  },
+  {
+   "file": "2016-12-17_692.txt",
+   "posted_date": "2016-12-17",
+   "meeting_date": "2016-12-17",
+   "meeting_time": "3:30~6:00 pm",
+   "kind": "정례모임",
+   "venue": "한국고등교육재단 18층 회의실",
+   "topic_summary": "고려 전·중·후기 대외관계와 사대·화이론",
+   "presenters": [
+    {
+     "name": "전재성",
+     "role": "발제",
+     "topic": "고려시대 전기"
+    },
+    {
+     "name": "하영선",
+     "role": "발제",
+     "topic": "고려시대 중기"
+    },
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "고려시대 후기"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "육정임, 고려-거란 '30년 전쟁'과 동아시아 국제질서, 동북아역사논총 34, 2011.12, 11-52",
+     "title": "고려-거란 '30년 전쟁'과 동아시아 국제질서",
+     "authors": "육정임",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "이승민, 10~12세기 하생신사 파견과 고려-거란 관계, 역사와 현실 89, 2013.9, 77-111",
+     "title": "10~12세기 하생신사 파견과 고려-거란 관계",
+     "authors": "이승민",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "최덕환, 993년 고려-거란 갈등 및 여진 문제, 역사와 현실 85, 2012.9, 259-303",
+     "title": "993년 고려-거란 갈등 및 여진 문제",
+     "authors": "최덕환",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "Remco E. Breuker, Koryo as an Independent Realm: The Emperor's Clothes?, Korean Studies, Vol.27, 2003, 48-84",
+     "title": "Koryo as an Independent Realm: The Emperor's Clothes?",
+     "authors": "Remco E. Breuker",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "노명호, 고려시대의 다원적 천자관과 해동천자, 한국사연구 105, 1999.6, pp.3-40",
+     "title": "고려시대의 다원적 천자관과 해동천자",
+     "authors": "노명호",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "남의현, 원말명초 조선-명의 요동쟁탈전과 국경분쟁 고찰, 한일관계사연구 42, 2012, 81-114.",
+     "title": "원말명초 조선-명의 요동쟁탈전과 국경분쟁 고찰",
+     "authors": "남의현",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "도현철, 고려말기 사대부의 대외관 - 화이론을 중심으로 진단학보 86, 1998, 73-99",
+     "title": "고려말기 사대부의 대외관 - 화이론을 중심으로",
+     "authors": "도현철",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "안정희, 조선초기의 사대론, 역사교육 64, 1997, 1-33",
+     "title": "조선초기의 사대론",
+     "authors": "안정희",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "장동익, <고려후기 외교사연구>",
+     "title": "고려후기 외교사연구",
+     "authors": "장동익",
+     "kind": "단행본"
+    },
+    {
+     "raw": "계승범, <중종의 시대: 조선의 유교화와 사림운동> 3, 4장",
+     "title": "중종의 시대: 조선의 유교화와 사림운동 3, 4장",
+     "authors": "계승범",
+     "kind": "단행본장"
+    }
+   ],
+   "notes": "장동익·계승범 2종은 '보조 텍스트'로 표기됨. 첨부는 전재성·하영선·김준석 발제문 3건으로 발제자 표기와 일치."
+  },
+  {
+   "file": "2017-03-18_696.txt",
+   "posted_date": "2017-03-18",
+   "meeting_date": "2017-03-18",
+   "meeting_time": "3:30~6:00 pm",
+   "kind": "정례모임",
+   "venue": "한국고등교육재단 지하2층 세미나실",
+   "topic_summary": "신충일·누르하치와 조선-후금 관계 초기",
+   "presenters": [
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "계승범 논문 2편(조선 특사의 후금 방문, 향통사 하세국)"
+    },
+    {
+     "name": "손병권",
+     "role": "발제",
+     "topic": "이인영·장정수 논문(신충일과 건주기정도기)"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "계승범, 2008, \"조선 특사의 後金 방문과 明秩序의 균열, 『한중관계 2000년: 동행과 공유의 역사』, 소나무.",
+     "title": "조선 특사의 後金 방문과 明秩序의 균열",
+     "authors": "계승범",
+     "kind": "단행본장"
+    },
+    {
+     "raw": "계승범, 2011, \"鄕通事 河世國과 조선의 선택,\" 『만주연구』 11, 만주학회.",
+     "title": "鄕通事 河世國과 조선의 선택",
+     "authors": "계승범",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "李仁榮, 1939, \"申忠一의 建州紀程圖記에 對하야,\" 『震檀學報』10.",
+     "title": "申忠一의 建州紀程圖記에 對하야",
+     "authors": "李仁榮",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "장정수, 2016, \"16세기 말~17세기 초 朝鮮과 建州女眞의 배후 교섭과 申忠一의 역할,\" 『한국인물사연구』, (25).",
+     "title": "16세기 말~17세기 초 朝鮮과 建州女眞의 배후 교섭과 申忠一의 역할",
+     "authors": "장정수",
+     "kind": "학술논문"
+    }
+   ],
+   "notes": "본문 일시 줄은 \"2016.3.18.(토)\"로 적혀 있으나 제목·게시일이 2017년 3월이고 (토)도 2017.3.18과 일치해 연도 오타로 판단, 2017-03-18로 기재. 말미에 참고문헌 3종(이민환 『책중일록』 서해문집 2014; Pamela Kyle Crossley, The Manchus/『만주족의 역사』 돌배게 2013; 천제셴 『누르하치』 돌배게 2015)이 별도 언급되나 독회자료 목록 밖이라 readings에서 제외."
+  },
+  {
+   "file": "2017-04-22_700.txt",
+   "posted_date": "2017-04-22",
+   "meeting_date": "2017-04-22",
+   "meeting_time": "3:30~6:00 pm",
+   "kind": "정례모임",
+   "venue": "동아시아연구원 (EAI) 대회의실",
+   "topic_summary": "효종~숙종대 북벌론의 전개와 한중관계",
+   "presenters": [
+    {
+     "name": "김현철",
+     "role": "발제",
+     "topic": "효종-숙종때 북벌론의 전개와 한중관계에 미친 영향 (한명기·허태용 논문)"
+    },
+    {
+     "name": "김수암",
+     "role": "발제",
+     "topic": "송양섭, 효종의 북벌구상과 군비증강책"
+    },
+    {
+     "name": "노가연",
+     "role": "발제",
+     "topic": "김선혜, 입관전후 청과 조선의 통혼과 시녀 문제"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "한명기, \"'재조지은'과 조선후기 정치사: 임진왜란∼정조대 시기를 중심으로\", 성균관대학교 대동문화연구원, 『대동문화연구』 제59집, 2007. pp.191-230",
+     "title": "'재조지은'과 조선후기 정치사: 임진왜란∼정조대 시기를 중심으로",
+     "authors": "한명기",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "허태용, \"17·18세기 북벌론의 추이와 북학론의 대두\", 성균관대학교 대동문화연구원, 『대동문화연구』 제69집, 2010, pp.373-418",
+     "title": "17·18세기 북벌론의 추이와 북학론의 대두",
+     "authors": "허태용",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "송양섭, \"효종의 북벌구상과 군비증강책,\" 한국인물사연구회, 『한국인물사연구』 제7호, 2007.3., pp.169-192.",
+     "title": "효종의 북벌구상과 군비증강책",
+     "authors": "송양섭",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "김선혜, \"입관전후 청과 조선의 통혼과 시녀 문제,\" 중국사학회, 『중국사연구』 제91집, 2014.8, pp.231-265.",
+     "title": "입관전후 청과 조선의 통혼과 시녀 문제",
+     "authors": "김선혜",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "김창수, \"19세기 후반 조선사신의 공식보고와 정치적 파장,\" 한국사학회, 『사학연구』 제106호, 2012.6., pp.141-173",
+     "title": "19세기 후반 조선사신의 공식보고와 정치적 파장",
+     "authors": "김창수",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "김경록, \"17세기 조·청관계와 '왜정'의 군사·외교적 활용,\" 국방부 군사편찬연구소, 『군사』 제94호(2015.3), pp.205-245",
+     "title": "17세기 조·청관계와 '왜정'의 군사·외교적 활용",
+     "authors": "김경록",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "이명종, \"17·18세기 조선에서 '만주=故土'의식의 출현과 전개,\" 한양대학교 동아시아문화연구소(구 한양대 한국학연구소), 『동아시아문화연구』 제58집, 2014, pp.213-238",
+     "title": "17·18세기 조선에서 '만주=故土'의식의 출현과 전개",
+     "authors": "이명종",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "백기인, \"18세기 북벌론과 대청방위전략,\" 국방부 군사편찬연구소, 『군사』 제41호(2000.12), pp.245-271",
+     "title": "18세기 북벌론과 대청방위전략",
+     "authors": "백기인",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "장페이페이 외 지음, 김승일 옮김, 『한중관계사』 (북경대학 한국학연구센터 한국학총서), 범우, 경기도, 2005, pp.476-511.",
+     "title": "한중관계사",
+     "authors": "장페이페이 외 지음, 김승일 옮김",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "김창수·김경록·이명종·백기인·장페이페이 5종은 '추가 자료'로 표기됨. 첨부에 김현철 발제문 3건·김수암 발제문·노가연 발제문이 있어 발제자 표기와 일치."
+  },
+  {
+   "file": "2017-05-20_701.txt",
+   "posted_date": "2017-05-20",
+   "meeting_date": "2017-05-20",
+   "meeting_time": "3:30~6:00 pm",
+   "kind": "정례모임",
+   "venue": "한국고등교육재단 지하2층 세미나실",
+   "topic_summary": "『동아시아 천하질서와 한국의 생존전략사』 프로포절 1차",
+   "presenters": [
+    {
+     "name": "김수암",
+     "role": "발제",
+     "topic": "한중관계에 대한 백제의 인식 및 대응"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "7세기 신라의 삼국통일과 한중외교"
+    },
+    {
+     "name": "김봉진",
+     "role": "발제",
+     "topic": "장보고 해상 세력과 당 제국 질서"
+    },
+    {
+     "name": "김현철",
+     "role": "발제",
+     "topic": "조선후기 북벌론의 형성과 변천과정"
+    }
+   ],
+   "readings": [],
+   "notes": "단행본 <동아시아 천하질서와 한국의 생존전략사> 원고 프로포절 발표회 1차로, 독회 문헌 목록 없음(본문 표기는 '발표자'이나 스키마 제약상 role은 발제로 기록). 토론 중 이성시 논문·노중국 '다변외교'·<허생전>이 언급되나 독회자료가 아니라 readings에서 제외. 발표문은 추후 첨부 예정이라 표기됨."
+  },
+  {
+   "file": "2017-06-17_702.txt",
+   "posted_date": "2017-06-17",
+   "meeting_date": "2017-06-17",
+   "meeting_time": "3:30-6:00pm",
+   "kind": "정례모임",
+   "venue": "한국고등교육재단 지하2층 세미나실",
+   "topic_summary": "『동아시아 천하질서와 한국의 생존전략사』 프로포절 2차",
+   "presenters": [
+    {
+     "name": "손병권",
+     "role": "발제",
+     "topic": "1595년 조선의 신충일 건주여진 파견: 명,여진,조선 간의 국제적 역학관계를 중심으로"
+    },
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "고려-원 관계 연구: 간섭과 저항을 넘어서"
+    },
+    {
+     "name": "하영선",
+     "role": "발제",
+     "topic": "려송복교의 국제정치학: 천하다국질서와 고려문종의 태평외교"
+    },
+    {
+     "name": "전재성",
+     "role": "발제",
+     "topic": "서희의 거란 외교와 고려 초의 대외정책"
+    }
+   ],
+   "readings": [],
+   "notes": "프로포절 발표회 2차로 독회 문헌 목록 없음(본문 표기는 '발표자'이나 스키마 제약상 role은 발제로 기록). 토론에서 'Crawsly 책'이 언급되는데 3월 기록의 Crossley(The Manchus) 표기 오기로 보이나 확정하지 않고 readings에서 제외."
+  },
+  {
+   "file": "2017-09-16_703.txt",
+   "posted_date": "2017-09-16",
+   "meeting_date": "2017-09-16",
+   "meeting_time": "15:30-18:00",
+   "kind": "정례모임",
+   "venue": "한국고등교육재단 지하2층 세미나실",
+   "topic_summary": "중국학파 IR과 장펑의 중국 헤게모니론",
+   "presenters": [
+    {
+     "name": "노가연",
+     "role": "발제",
+     "topic": "Yongjin Zhang, \"The 'International Turn' in the Chinese and the Trans-Atlantic IR\""
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "Feng Zhang, Chinese Hegemony 1-2장"
+    },
+    {
+     "name": "최인호",
+     "role": "발제",
+     "topic": "Feng Zhang, Chinese Hegemony 3-4장"
+    },
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "Feng Zhang, Chinese Hegemony 5-6장"
+    },
+    {
+     "name": "김봉진",
+     "role": "발제",
+     "topic": "Feng Zhang, Chinese Hegemony 7장"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "Yongjin Zhang, \"The 'International Turn' in the Chinese and the Trans-Atlantic IR-Towards Global Renaissance in the History of International Thought,\" ISA Hongkong (2016)",
+     "title": "The 'International Turn' in the Chinese and the Trans-Atlantic IR-Towards Global Renaissance in the History of International Thought",
+     "authors": "Yongjin Zhang",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "Feng Zhang, Chinese Hegemony: Grand Strategy and International Institutions in East Asian History (2015)",
+     "title": "Chinese Hegemony: Grand Strategy and International Institutions in East Asian History",
+     "authors": "Feng Zhang",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "본문에 적힌 그날 주제는 \"조선-명청 시기: 군사안보-전략적 접근\"이나 실제 독회자료·토론은 중국학파 IR과 장펑 저서에 집중됨. 첨부 발제문 5건(노가연·이헌미·최인호·김준석·김봉진)이 본문 발제자와 일치. 하영선은 본문에 등장하지 않아 제외."
+  },
+  {
+   "file": "2017-10-21_704.txt",
+   "posted_date": "2017-10-21",
+   "meeting_date": "2017-10-21",
+   "meeting_time": "15:30-18:00",
+   "kind": "정례모임",
+   "venue": "한국고등교육재단 지하2층 세미나실",
+   "topic_summary": "조선-명청 시기 국내정치·문화적 접근과 중국 헤게모니",
+   "presenters": [
+    {
+     "name": "주연정",
+     "role": "발제",
+     "topic": "Ji-Young Lee, China's Hegemony 1장 Understanding the Tribute System"
+    },
+    {
+     "name": "하영선",
+     "role": "발제",
+     "topic": "Ji-Young Lee, China's Hegemony 2장 Chinese Hegemonic Authority: A Domestic Politics Explanation"
+    },
+    {
+     "name": "김현철",
+     "role": "발제",
+     "topic": "Ji-Young Lee, China's Hegemony 3장 The Making of Ming Hegemony"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "Ji-Young Lee, China's Hegemony 4장 The Imjin War (1592-1598)"
+    },
+    {
+     "name": "손병권",
+     "role": "발제",
+     "topic": "Ji-Young Lee, China's Hegemony 5장 The Making of Qing Hegemony"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "Ji-Young Lee, China's Hegemony: Four Hundred Years of East Asian Domination (2016)",
+     "title": "China's Hegemony: Four Hundred Years of East Asian Domination",
+     "authors": "Ji-Young Lee",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "첨부 발제문은 3건(주연정·김현철·손병권)뿐이나 본문에 하영선·이헌미 발제도 명기되어 있어 함께 넣음."
+  },
+  {
+   "file": "2017-12-16_708.txt",
+   "posted_date": "2017-12-16",
+   "meeting_date": "2017-12-16",
+   "meeting_time": "14:30-17:00",
+   "kind": "정례모임",
+   "venue": "한국고등교육재단 18층 회의실",
+   "topic_summary": "<동아시아 천하질서와 한국의 생존전략사> 초고발표",
+   "presenters": [
+    {
+     "name": "전재성",
+     "role": "발제",
+     "topic": "고구려의 제국 체제 정비와 대외전략: 광개토왕대 및 전후 시기"
+    },
+    {
+     "name": "김수암",
+     "role": "발제",
+     "topic": "648년 당 고종의 璽書에 나타난 국제정치: 7세기 동아시아질서와 백제의 대외전략상의 함의"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "7세기 신라의 삼국통일과 한중외교"
+    },
+    {
+     "name": "김봉진",
+     "role": "발제",
+     "topic": "장보고의 교역 네트워크와 동아시아 지역 질서"
+    },
+    {
+     "name": "하영선",
+     "role": "발제",
+     "topic": "려송복교의 국제정치학: 천하다국질서와 고려문종의 태평외교"
+    },
+    {
+     "name": "손병권",
+     "role": "발제",
+     "topic": "1595년 조선의 신충일 건주여진 파견: 명,여진,조선 간의 국제적 역학관계를 중심으로"
+    },
+    {
+     "name": "김현철",
+     "role": "발제",
+     "topic": "조선후기 북벌론의 전개와 대중국(淸) 인식의 변화"
+    }
+   ],
+   "readings": [],
+   "notes": "외부 문헌 독회가 아니라 회원 원고 초고발표회여서 readings는 비움. 전재성은 두 편(고구려 광개토왕대 / 서희의 거란 외교)을 발표했고 두 편 모두 * 표시(원고 제출)임 — 발제자 항목은 이름 중복을 피해 한 줄로 묶지 않고 첫 편만 topic에 적었으므로 서희 논문 「서희의 거란 외교와 고려 초의 대외정책」도 같은 사람 발표임에 유의. 본문의 \"2017.2.28. 최종원고 제출\"은 문맥상 2018년의 오기로 보이나 원문 그대로 두고 해석하지 않음."
+  },
+  {
+   "file": "2018-03-17_709.txt",
+   "posted_date": "2018-03-17",
+   "meeting_date": "2018-03-17",
+   "meeting_time": "15:30-18:00",
+   "kind": "정례모임",
+   "venue": "한국고등교육재단 18층 회의실",
+   "topic_summary": "천하체계·청일전쟁·아태신질서 회원 논문 발제",
+   "presenters": [
+    {
+     "name": "차태서",
+     "role": "발제",
+     "topic": "Competing Visions of a Post-Westphalian World order: the Philadelphian System vs. the Tianxia System"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "청일전쟁과 중화질서의 해체: <중동전기> 사례분석"
+    },
+    {
+     "name": "하영선",
+     "role": "발제",
+     "topic": "아태신질서 건축과 신흥무대"
+    }
+   ],
+   "readings": [],
+   "notes": "회원 논문 발제여서 readings는 비움. 토론 중 참조로만 언급된 Randall Schweller & Xiaoyu Pu, \"After Polarity\" (2011)와 <중동전기본말>은 그날의 독회자료가 아니라 판단해 제외. 하영선 「아태신질서 건축과 신흥무대」는 발제 목록에만 있고 토론 정리는 없음."
+  },
+  {
+   "file": "2018-04-21_710.txt",
+   "posted_date": "2018-04-21",
+   "meeting_date": "2018-04-21",
+   "meeting_time": "15:30-18:00",
+   "kind": "정례모임",
+   "venue": "한국고등교육재단 18층 회의실",
+   "topic_summary": "송사의 고려 사행록과 려송복교",
+   "presenters": [
+    {
+     "name": "노가연",
+     "role": "발제",
+     "topic": "<사조선록 역주 1: 송사의 고려 사행록> pp. 1~100"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "<사조선록 역주 1: 송사의 고려 사행록> pp. 101~200"
+    },
+    {
+     "name": "주연정",
+     "role": "발제",
+     "topic": "<사조선록 역주 1: 송사의 고려 사행록> pp. 201~300"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "<사조선록 역주 1: 송사의 고려 사행록>, 은몽하·우호 편, 김한규 역 (소명출판: 2012)",
+     "title": "사조선록 역주 1: 송사의 고려 사행록",
+     "authors": "은몽하·우호 편, 김한규 역",
+     "kind": "번역사료"
+    }
+   ],
+   "notes": "토론에서 언급된 서긍 <선화봉사고려도경>은 위 역주본에 실린 본회 독회자료로 본문에 명시됨(별도 항목으로 분리하지 않음). 강왈광 <유헌기사>·마건충 <동행삼록>·<청명상하도>는 토론 중 거론만 된 것이라 제외."
+  },
+  {
+   "file": "2018-05-19_711.txt",
+   "posted_date": "2018-05-19",
+   "meeting_date": "2018-05-19",
+   "meeting_time": "2:30-5:00pm",
+   "venue": "한국고등교육재단 18층 회의실",
+   "kind": "정례모임",
+   "topic_summary": "명사 예겸·장영의 조선 사행록과 창화외교",
+   "presenters": [
+    {
+     "name": "노가연",
+     "role": "발제",
+     "topic": "<사조선록 역주 2> 해제, <요해편> pp.92-223"
+    },
+    {
+     "name": "주연정",
+     "role": "발제",
+     "topic": "<요해편> pp.223-351"
+    },
+    {
+     "name": "신수정",
+     "role": "발제",
+     "topic": "<보안당정정방주선생봉사록>"
+    },
+    {
+     "name": "하영선",
+     "role": "발제",
+     "topic": "마무리 발제"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "<사조선록 역주 2: 명사의 조선 사행록 1>, 예겸·장영 저, 은몽하·우호 편, 김한규 역 (소명출판: 2012)",
+     "title": "사조선록 역주 2: 명사의 조선 사행록 1",
+     "authors": "예겸·장영 저, 은몽하·우호 편, 김한규 역",
+     "kind": "번역사료"
+    }
+   ],
+   "notes": "토론 중 Sixiang Wang 박사학위논문, 서거정 <필원잡기>, 성현 <용재총화>, 신숙주 <보한재집>, 성삼문 <매죽문헌집> 등이 참조로 언급되나 그날 읽은 문헌은 아니어서 readings에서 제외."
+  },
+  {
+   "file": "2018-06-09_712.txt",
+   "posted_date": "2018-06-09",
+   "meeting_date": "2018-06-09",
+   "meeting_time": "3:30-6:00pm",
+   "venue": "동아시아연구원 (EAI) 대회의실",
+   "kind": "정례모임",
+   "topic_summary": "조선 전기 조명관계의 제국 공동구성(co-construction)",
+   "presenters": [
+    {
+     "name": "주연정",
+     "role": "발제",
+     "topic": "서문 – 1장"
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "2-3장"
+    },
+    {
+     "name": "손병권",
+     "role": "발제",
+     "topic": "4-5장"
+    },
+    {
+     "name": "노가연",
+     "role": "발제",
+     "topic": "6장 – 결론"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "Sixiang Wang, “Co-constructing Empire in Early Choson Korea: Knowledge Production and the Culture of Diplomacy, 1392-1592,” Columbia University 박사학위 논문, 2015.",
+     "title": "Co-constructing Empire in Early Choson Korea: Knowledge Production and the Culture of Diplomacy, 1392-1592",
+     "authors": "Sixiang Wang",
+     "kind": "학술논문"
+    }
+   ],
+   "notes": "이헌미는 본문에만 발제자로 나오고 첨부 발제문 목록(주연정·손병권·노가연)에는 없음. 리딩은 박사학위논문이라 kind를 학술논문으로 처리."
+  },
+  {
+   "file": "2018-09-08_713.txt",
+   "posted_date": "2018-09-08",
+   "meeting_date": "2018-09-08",
+   "meeting_time": "3:30-6:00pm",
+   "venue": "동아시아연구원 (EAI) 대회의실",
+   "kind": "정례모임",
+   "topic_summary": "근세 초 유럽 국제정치사와 국제정치의 탄생",
+   "presenters": [
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "<국제정치의 탄생: 근세 초 유럽 국제정치사의 탐색, 1494-1763>"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "김준석, <국제정치의 탄생: 근세 초 유럽 국제정치사의 탐색, 1494-1763> (북코리아, 2018).",
+     "title": "국제정치의 탄생: 근세 초 유럽 국제정치사의 탐색, 1494-1763",
+     "authors": "김준석",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "본문이 \"2. 토론\"에서 끊겨 토론 내용 없음. 발제자는 첨부 파일명(2018-09 김준석 발제문)으로만 확인되며, 읽은 책의 저자와 이름이 같아 저자 본인 발제인지 동명의 회원 발제인지는 기록만으로 확정 불가."
+  },
+  {
+   "file": "2018-10-20_714.txt",
+   "posted_date": "2018-10-20",
+   "meeting_date": "2018-10-20",
+   "meeting_time": "3:30-6:00pm",
+   "venue": "한국고등교육재단 18층 회의실",
+   "kind": "정례모임",
+   "topic_summary": "동월·공용경의 사조선록과 명 사행 의례",
+   "presenters": [
+    {
+     "name": "신수정",
+     "role": "발제",
+     "topic": "동월, <조선부> <조선잡지>"
+    },
+    {
+     "name": "주연정",
+     "role": "발제",
+     "topic": "공용경, <사조선록> pp.99-189"
+    },
+    {
+     "name": "최진백",
+     "role": "발제",
+     "topic": "공용경, <사조선록> pp.189-280"
+    },
+    {
+     "name": "노가연",
+     "role": "발제",
+     "topic": "공용경, <사조선록> pp.280-370"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "<사조선록 역주 3: 명사의 조선 사행록 2>, 동월·공용경 저, 은몽하·우호 편, 김한규 역 (소명출판: 2012)",
+     "title": "사조선록 역주 3: 명사의 조선 사행록 2",
+     "authors": "동월·공용경 저, 은몽하·우호 편, 김한규 역",
+     "kind": "번역사료"
+    }
+   ],
+   "notes": "말미에 * 표시로 Sixiang Wang 박사학위논문(2015)과 인하대학교 사학과 석사논문 「공용경의 조선인식과 외교활동」이 참고문헌으로만 적혀 있어 readings에서 제외."
+  },
+  {
+   "file": "2018-11-24_715.txt",
+   "posted_date": "2018-11-24",
+   "meeting_date": "2018-11-24",
+   "meeting_time": "3:30-6:00pm",
+   "venue": "동아시아연구원 (EAI) 대회의실",
+   "kind": "정례모임",
+   "topic_summary": "주지번·강왈광 사행록과 재조지은·명청교체기",
+   "presenters": [
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "주지번, <봉사조선고> pp.9-123"
+    },
+    {
+     "name": "신수정",
+     "role": "발제",
+     "topic": "주지번, <봉사조선고> pp.124-238"
+    },
+    {
+     "name": "노가연",
+     "role": "발제",
+     "topic": "주지번, <봉사조선고> pp.239-297"
+    },
+    {
+     "name": "주연정",
+     "role": "발제",
+     "topic": "주지번, <봉사조선고> pp.298-357"
+    },
+    {
+     "name": "김호인",
+     "role": "발제",
+     "topic": "강왈광, <유헌기사>"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "<사조선록 역주 4: 명사의 조선 사행록 3>, 은몽하·우호 편, 김한규 역 (소명출판: 2012).",
+     "title": "사조선록 역주 4: 명사의 조선 사행록 3",
+     "authors": "은몽하·우호 편, 김한규 역",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "주지번, <봉사조선고> (1606)",
+     "title": "봉사조선고",
+     "authors": "주지번",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "강왈광, <유헌기사> (1626)",
+     "title": "유헌기사",
+     "authors": "강왈광",
+     "kind": "번역사료"
+    }
+   ],
+   "notes": "주지번 <봉사조선고>·강왈광 <유헌기사>는 <사조선록 역주 4>에 수록된 개별 사행록이라 함께 기재. 한명기(1997) 「17세기 초 明使의 서울 방문 연구」는 * 표시 참고문헌이라 readings에서 제외. 첨부 발제문에는 연월 표기가 없음."
+  },
+  {
+   "file": "2018-12-15_716.txt",
+   "posted_date": "2018-12-15",
+   "meeting_date": "2018-12-15",
+   "meeting_time": "15:00-17:30",
+   "kind": "정례모임",
+   "venue": "한국고등교육재단 회의실",
+   "topic_summary": "청사(淸使)의 조선 사행록 — 사조선록 역주 5",
+   "presenters": [
+    {
+     "name": "주연정",
+     "role": "발제",
+     "topic": "아극돈·정여, <동유집> <봉사도>"
+    },
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "백준, <봉사조선역정일기>"
+    },
+    {
+     "name": "전재성",
+     "role": "발제",
+     "topic": "괴령, <동사기사시략>"
+    },
+    {
+     "name": "김현철",
+     "role": "발제",
+     "topic": "마건충, <동행삼록> (\"동행초록\", \"동행속록\")"
+    },
+    {
+     "name": "손병권",
+     "role": "발제",
+     "topic": "마건충, <동행삼록> (\"동행삼록\"), 숭례, <봉사조선일기>"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "<사조선록 역주 5: 청사의 조선 사행록>, 은몽하·우호 편, 김한규 역 (소명출판: 2012)",
+     "title": "사조선록 역주 5: 청사의 조선 사행록",
+     "authors": "은몽하·우호 편, 김한규 역",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "아극돈·정여, <동유집> <봉사도>",
+     "title": "동유집 / 봉사도",
+     "authors": "아극돈·정여",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "백준, <봉사조선역정일기>",
+     "title": "봉사조선역정일기",
+     "authors": "백준",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "괴령, <동사기사시략>",
+     "title": "동사기사시략",
+     "authors": "괴령",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "마건충, <동행삼록> (\"동행초록\", \"동행속록\", \"동행삼록\")",
+     "title": "동행삼록",
+     "authors": "마건충",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "숭례, <봉사조선일기>",
+     "title": "봉사조선일기",
+     "authors": "숭례",
+     "kind": "번역사료"
+    }
+   ],
+   "notes": "개별 사행록 5종은 <사조선록 역주 5> 수록분을 나누어 발제한 것. 첨부는 주연정·김준석·손병권 발제문 3건이나 본문에는 전재성·김현철 발제도 명기됨"
+  },
+  {
+   "file": "2019-03-16_717.txt",
+   "posted_date": "2019-03-16",
+   "meeting_date": "2019-03-16",
+   "meeting_time": "15:30-17:30",
+   "kind": "정례모임",
+   "venue": "한국고등교육재단 회의실",
+   "topic_summary": "조선 속국·속방 개념사와 프로포절 발표",
+   "presenters": [
+    {
+     "name": "김봉진",
+     "role": "발제",
+     "topic": "김봉진, \"조선 = 속국,속방'의 개념사\""
+    },
+    {
+     "name": "전재성",
+     "role": "토론",
+     "topic": "김봉진, \"조선 = 속국,속방'의 개념사\" 지정토론"
+    },
+    {
+     "name": "이헌미",
+     "role": "토론",
+     "topic": "김봉진, \"조선 = 속국,속방'의 개념사\" 지정토론"
+    },
+    {
+     "name": "주연정",
+     "role": "발제",
+     "topic": "프로포절 \"원명교체기 질서변동과 조선건국: 요동 경쟁과 위화도 회군\""
+    },
+    {
+     "name": "노가연",
+     "role": "발제",
+     "topic": "프로포절 \"근대도입기 조선의 생존전략: 조일수호조규에서 조청무역장정까지\""
+    }
+   ],
+   "readings": [
+    {
+     "raw": "김봉진, \"조선 = 속국,속방'의 개념사\"",
+     "title": "조선 = 속국,속방'의 개념사",
+     "authors": "김봉진",
+     "kind": "학술논문"
+    }
+   ],
+   "notes": "김봉진 논문은 저자 본인이 발표한 원고여서 '읽은 문헌'인지 '발제문'인지 경계가 애매함. 주연정·노가연 것은 프로포절이라 readings 제외. 토론 중 언급된 유바다(2013)·오카모토 다카시·권석봉·강동국은 참고 언급이라 제외. 첨부 없음"
+  },
+  {
+   "file": "2019-04-20_718.txt",
+   "posted_date": "2019-04-20",
+   "meeting_date": "2019-04-20",
+   "meeting_time": "15:30-18:00",
+   "kind": "정례모임",
+   "venue": "한국고등교육재단 회의실",
+   "topic_summary": "동아시아 세계론과 고대 한국의 생존전략",
+   "presenters": [
+    {
+     "name": "김수암",
+     "role": "발제",
+     "topic": "이성시, <동아시아 세계론의 실천과 이론: 유동하는 고대>"
+    },
+    {
+     "name": "전재성",
+     "role": "발제",
+     "topic": "중간원고 \"고구려의 제국 체제 정비와 대외전략: 광개토대왕 전후 시기\""
+    },
+    {
+     "name": "이헌미",
+     "role": "발제",
+     "topic": "중간원고 \"7세기 신라의 삼국통일과 한중외교\""
+    }
+   ],
+   "readings": [
+    {
+     "raw": "이성시, <동아시아 세계론의 실천과 이론: 유동하는 고대> (2019, 에디투스)",
+     "title": "동아시아 세계론의 실천과 이론: 유동하는 고대",
+     "authors": "이성시",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "전재성·이헌미 것은 <동아시아 천하질서와 한국의 생존전략사> 중간원고 발표라 readings 제외"
+  },
+  {
+   "file": "2020-03-21_724.txt",
+   "posted_date": "2020-03-21",
+   "meeting_date": "2020-03-21",
+   "meeting_time": "15:30-18:00",
+   "kind": "정례모임",
+   "venue": "Zoom을 이용한 화상회의",
+   "topic_summary": "근세 글로벌 히스토리와 차기 공부모임 주제 선정",
+   "presenters": [],
+   "readings": [
+    {
+     "raw": "Charles H. Parker, Global Interactions in the Early Modern Age, 1400-1800 (2010) 서문, 1,6장, 결론",
+     "title": "Global Interactions in the Early Modern Age, 1400-1800",
+     "authors": "Charles H. Parker",
+     "kind": "단행본"
+    },
+    {
+     "raw": "David Mungello, The Great Encounter of China and the West, 1500-1800 (1999) 1,2,3장",
+     "title": "The Great Encounter of China and the West, 1500-1800",
+     "authors": "David Mungello",
+     "kind": "단행본"
+    },
+    {
+     "raw": "부산대학교 점필재연구소 고전번역학센터 편, <동아시아, 근대를 번역하다: 문명의 전환과 고전의 발견> (2013) \"양치차오의 신대륙유기 (1903): 근대 중국 계몽주의의 기향지\"",
+     "title": "동아시아, 근대를 번역하다: 문명의 전환과 고전의 발견 중 \"양치차오의 신대륙유기(1903): 근대 중국 계몽주의의 기향지\"",
+     "authors": "부산대학교 점필재연구소 고전번역학센터 편",
+     "kind": "단행본장"
+    },
+    {
+     "raw": "야마무로 신이치 저, 정선태.윤대석 옮김, <사상과제로서의 아시아> (2018) 2,4장",
+     "title": "사상과제로서의 아시아",
+     "authors": "야마무로 신이치 저, 정선태·윤대석 옮김",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "본문에 발제자 이름 표기가 전혀 없음(첨부는 '발제문 1/2/3'으로만 표기). 토론 중 언급된 백지운은 비판 대상 논자일 뿐 참석자 표기 아님"
+  },
+  {
+   "file": "2020-04-18_725.txt",
+   "posted_date": "2020-04-18",
+   "meeting_date": "2020-04-18",
+   "meeting_time": "15:30-17:30",
+   "kind": "정례모임",
+   "venue": "Zoom을 이용한 화상회의",
+   "topic_summary": "근대 주권국가체제의 제국적 성격",
+   "presenters": [
+    {
+     "name": "전재성",
+     "role": "발제",
+     "topic": "전재성, <주권과 국제정치: 근대 주권국가체제의 제국적 성격>"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "전재성, <주권과 국제정치: 근대 주권국가체제의 제국적 성격> (2019, 서울대학교 출판문화원)",
+     "title": "주권과 국제정치: 근대 주권국가체제의 제국적 성격",
+     "authors": "전재성",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "저자 본인이 자기 단행본을 발제한 회차. 토론 중 언급된 Oxford Handbook of the History of International Law (2016)은 참고 언급이라 제외"
+  },
+  {
+   "file": "2020-05-16_726.txt",
+   "posted_date": "2020-05-16",
+   "meeting_date": "2020-05-16",
+   "meeting_time": "3:30pm",
+   "kind": "정례모임",
+   "venue": "동아시아연구원(EAI) 대회의실",
+   "topic_summary": "모델스키 말년의 진화세계정치론",
+   "presenters": [
+    {
+     "name": "하영선",
+     "role": "발제",
+     "topic": "모델스키 말년의 진화세계정치론"
+    },
+    {
+     "name": "전재성",
+     "role": "발제",
+     "topic": "모델스키 말년의 진화세계정치론"
+    }
+   ],
+   "readings": [],
+   "notes": "독회자료 목록이 없어 모델스키의 어떤 저작을 읽었는지는 기록에 없음. 첨부 '전재성 발제문'은 회원 발제문이라 readings에서 제외. 후반부에 '세 번째 연구주제'로 글로벌 히스토리·비교제국사 방향 논의가 이어짐."
+  },
+  {
+   "file": "2020-06-20_727.txt",
+   "posted_date": "2020-06-20",
+   "meeting_date": "2020-06-20",
+   "meeting_time": "3:30pm",
+   "kind": "정례모임",
+   "venue": "동아시아연구원(EAI) 대회의실",
+   "topic_summary": "글로벌 히스토리와 글로벌 IR의 접합",
+   "presenters": [
+    {
+     "name": "김준석",
+     "role": "발제",
+     "topic": "Global History and IR"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "Amitav Acharya, \"Global International Relations and Regional Worlds.\" Int'l Studies Quarterly 2014, 647-659",
+     "title": "Global International Relations and Regional Worlds",
+     "authors": "Amitav Acharya",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "Andrew Philips, \"Global IR Meets Global History: Sovereignty, Modernity, and the International System's Expansion in the Indian Ocean Region.\" Int'l Studies Review 2016, 62-77",
+     "title": "Global IR Meets Global History: Sovereignty, Modernity, and the International System's Expansion in the Indian Ocean Region",
+     "authors": "Andrew Philips",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "Marshall Hodgson, \"Interrelations of Societies in History.\" Comparative Studies in Society and History, 1963, 227-250",
+     "title": "Interrelations of Societies in History",
+     "authors": "Marshall Hodgson",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "Sanjay Subrahmanyam, \"Connected Histories: Notes towards a Reconfiguration of Early Modern Eurasia.\" Modern Asian Studies 1997, 735-762",
+     "title": "Connected Histories: Notes towards a Reconfiguration of Early Modern Eurasia",
+     "authors": "Sanjay Subrahmanyam",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "Victor Lieberman, Strange Parallels: South Asia in Global Context, c.800-1830 Volume 2 Mainland Mirrors: Europe, Japan, China, South Asia, and Islands. Cambridge UP, 1-117.",
+     "title": "Strange Parallels: South Asia in Global Context, c.800-1830, Volume 2: Mainland Mirrors: Europe, Japan, China, South Asia, and Islands",
+     "authors": "Victor Lieberman",
+     "kind": "단행본"
+    },
+    {
+     "raw": "John Darwin, After Tamerlane: The Rise and Fall of Global Empires, 1400-2000. Bloomsbury Press.",
+     "title": "After Tamerlane: The Rise and Fall of Global Empires, 1400-2000",
+     "authors": "John Darwin",
+     "kind": "단행본"
+    }
+   ],
+   "notes": "'Andrew Philips'는 기록의 표기 그대로 옮김. 첨부 '김준석 발제문'은 회원 발제문이라 readings에서 제외. 토론 중 언급된 Andrade, The Gunpowder Age(2016)는 독회자료가 아니라 참고 언급이라 제외."
+  },
+  {
+   "file": "2020-10-10_728.txt",
+   "posted_date": "2020-10-10",
+   "meeting_date": "2020-10-10",
+   "meeting_time": "3:30pm",
+   "kind": "정례모임",
+   "venue": "동아시아연구원(EAI) 대회의실",
+   "topic_summary": "강위의 연행과 '개화' 개념의 수용",
+   "presenters": [],
+   "readings": [
+    {
+     "raw": "김종학. \"강위의 연행과 대일정책의 전환(1874-1876)\"",
+     "title": "강위의 연행과 대일정책의 전환(1874-1876)",
+     "authors": "김종학",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "김종학. \"'개화'의 수용과 근대 정치변동(1876~1895)\"",
+     "title": "'개화'의 수용과 근대 정치변동(1876~1895)",
+     "authors": "김종학",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "강위.《북유속담초(北游續談草)》. 김종학 역",
+     "title": "북유속담초(北游續談草)",
+     "authors": "강위 저, 김종학 역",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "강위.《북유담초(北游談草)》. 김종학 역",
+     "title": "북유담초(北游談草)",
+     "authors": "강위 저, 김종학 역",
+     "kind": "번역사료"
+    },
+    {
+     "raw": "강위.《심행잡기(沁行雜記)》. 김종학 역",
+     "title": "심행잡기(沁行雜記)",
+     "authors": "강위 저, 김종학 역",
+     "kind": "번역사료"
+    }
+   ],
+   "notes": "본문에 발제자 이름이 직접 적혀 있지 않아(토론 중 '발제자 의견'으로만 지칭) presenters를 비움. 독회자료 5건의 저자·역자가 모두 김종학이지만 발제자로 명기된 것은 아님. 기타 사항에 한국고등교육재단 학회 지원 종료, 다음 모임 11월 26일(목) 6시 EAI 대회의실 안내."
+  },
+  {
+   "file": "2021-04-03_729.txt",
+   "posted_date": "2021-04-03",
+   "meeting_date": "2021-03-24",
+   "meeting_time": "6:30pm",
+   "kind": "정례모임",
+   "venue": "대면-Zoom비대면 혼합모임",
+   "topic_summary": "지구한국의 복합사(17~21세기)",
+   "presenters": [
+    {
+     "name": "하영선",
+     "role": "발제",
+     "topic": "지구한국의 복합사: 17세기부터 21세기까지"
+    }
+   ],
+   "readings": [
+    {
+     "raw": "Xincheng, Liu. 2012. \"The Global View of History in China.\"",
+     "title": "The Global View of History in China",
+     "authors": "Liu Xincheng",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "Haneda, Masashi. 2015. \"Japanese Perspectives on \"Global History\".\"",
+     "title": "Japanese Perspectives on \"Global History\"",
+     "authors": "Masashi Haneda",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "Kwon, Nae-hyun and Joseph Jeong-il Lee. 2012. \"Global History and East Asia: A Late Choson Perspective.\"",
+     "title": "Global History and East Asia: A Late Choson Perspective",
+     "authors": "Nae-hyun Kwon, Joseph Jeong-il Lee",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "Zhaoguang, Ge. 2020. \"The evolution of a world consciousness in traditional Chinese historiography.\"",
+     "title": "The evolution of a world consciousness in traditional Chinese historiography",
+     "authors": "Ge Zhaoguang",
+     "kind": "학술논문"
+    },
+    {
+     "raw": "Schneider, Axel and Susanne Weigelin-Schwiedrzik. \"The 'Global' and the 'Local' in Early Modern and Modern East Asia.\"",
+     "title": "The 'Global' and the 'Local' in Early Modern and Modern East Asia",
+     "authors": "Axel Schneider, Susanne Weigelin-Schwiedrzik",
+     "kind": "학술논문"
+    }
+   ],
+   "notes": "제목은 '2021년 3월 정례모임', 게시일은 2021-04-03이나 본문 일시는 2021.03.24.(수). 1)·4)는 기록에 성명이 뒤집혀(Xincheng, Liu / Zhaoguang, Ge) 적혀 있어 authors에는 통상 표기로 적되 raw는 원표기 유지. 5)는 연도 미표기. 기타에 다음 모임 4월 27일(화) 6:30pm, 독회자료 Brian P. Farrell, ed. Empire in Asia: A New Global History. 2vols. (2018) 예고."
+  },
+  {
+   "file": "2021-04-30_730.txt",
+   "posted_date": "2021-04-30",
+   "meeting_date": "2021-04-27",
+   "meeting_time": "7:00pm",
+   "kind": "정례모임",
+   "venue": "Zoom비대면 모임",
+   "topic_summary": "Empire in Asia 1권과 비교제국사·글로벌히스토리",
+   "readings": [
+    {
+     "raw": "Brian P. Farrell et al. (2018). Empire in Asia: A New Global History Volume 1. London: Bloomsbury Academic",
+     "title": "Empire in Asia: A New Global History Volume 1",
+     "authors": "Brian P. Farrell et al.",
+     "kind": "단행본"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "차태서",
+     "role": "발제"
+    },
+    {
+     "name": "김수암",
+     "role": "발제"
+    },
+    {
+     "name": "김종학",
+     "role": "발제"
+    },
+    {
+     "name": "김준석",
+     "role": "발제"
+    },
+    {
+     "name": "김현철",
+     "role": "발제"
+    },
+    {
+     "name": "노가연",
+     "role": "발제"
+    },
+    {
+     "name": "손병권",
+     "role": "발제"
+    },
+    {
+     "name": "전재성",
+     "role": "발제"
+    }
+   ],
+   "notes": "참석자 명단은 없고 발제자만 나열됨. 각자 맡은 부분은 기록에 없음. 하영선 이름은 본문에 없어 제외."
+  },
+  {
+   "file": "2021-05-31_731.txt",
+   "posted_date": "2021-05-31",
+   "meeting_date": "2021-05-25",
+   "meeting_time": "7:00pm",
+   "kind": "정례모임",
+   "venue": "Zoom비대면 모임",
+   "topic_summary": "Empire in Asia 2권과 지구사·지역사의 결합",
+   "readings": [
+    {
+     "raw": "Brian P. Farrell et al. (2018). Empire in Asia: A New Global History Volume 2. London: Bloomsbury Academic",
+     "title": "Empire in Asia: A New Global History Volume 2",
+     "authors": "Brian P. Farrell et al.",
+     "kind": "단행본"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "차태서",
+     "role": "발제"
+    },
+    {
+     "name": "김수암",
+     "role": "발제"
+    },
+    {
+     "name": "김종학",
+     "role": "발제"
+    },
+    {
+     "name": "김준석",
+     "role": "발제"
+    },
+    {
+     "name": "김현철",
+     "role": "발제"
+    },
+    {
+     "name": "손병권",
+     "role": "발제"
+    },
+    {
+     "name": "전재성",
+     "role": "발제"
+    },
+    {
+     "name": "태희준",
+     "role": "발제"
+    }
+   ],
+   "notes": "참석자 명단 없이 발제자만 나열됨. 각자 맡은 부분은 기록에 없음. 하영선 이름은 본문에 없어 제외."
+  },
+  {
+   "file": "2021-09-28_732.txt",
+   "posted_date": "2021-09-28",
+   "meeting_date": "2021-09-28",
+   "meeting_time": "7:00 PM",
+   "kind": "정례모임",
+   "venue": "비대면 ZOOM회의",
+   "topic_summary": "미국의 북한관 — 문명화 사명과 현실주의",
+   "readings": [
+    {
+     "raw": "\"Contending American Visions of North Korea: The Mission Civilisatrice vs. Realpolitik\"",
+     "title": "Contending American Visions of North Korea: The Mission Civilisatrice vs. Realpolitik",
+     "authors": "",
+     "kind": "학술논문"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "차태서",
+     "role": "발제",
+     "topic": "Contending American Visions of North Korea: The Mission Civilisatrice vs. Realpolitik"
+    }
+   ],
+   "notes": "참석자로 하영선·전재성·김현철·손병권·김종학·차태서·태희준이 적혀 있으나 발제 외 역할 표기가 없어 presenters에는 발제자만 넣음. 독회 문헌의 저자 표기가 본문에 없음(첨부 파일명은 '…_차태서')."
+  },
+  {
+   "file": "2021-10-26_733.txt",
+   "posted_date": "2021-10-26",
+   "meeting_date": "2021-10-26",
+   "meeting_time": "7:00 PM",
+   "kind": "정례모임",
+   "venue": "비대면 ZOOM회의",
+   "topic_summary": "1840년 이후 중국 주권 개념의 계보",
+   "readings": [
+    {
+     "raw": "Carrai. 2019. Sovereignty in China - A Genealogy of a Concept since 1840. (Florence: Cambridge University Press)",
+     "title": "Sovereignty in China: A Genealogy of a Concept since 1840",
+     "authors": "Carrai",
+     "kind": "단행본"
+    }
+   ],
+   "presenters": [
+    {
+     "name": "차태서",
+     "role": "발제",
+     "topic": "Intro & Conclusion (서론·결론)"
+    },
+    {
+     "name": "김봉진",
+     "role": "발제",
+     "topic": "Ch.1 International Law and the Sinocentric Ritual System: A Nineteenth-Century Clash of Normative Orders"
+    },
+    {
+     "name": "김종학",
+     "role": "발제",
+     "topic": "Ch.2 Secularizing a Sacred Empire: Early Translations and Uses of International Law"
+    },
+    {
+     "name": "손병권",
+     "role": "발제",
+     "topic": "Ch.3 China's Struggle for Survival and the New Darwinist Conception of International Society (1895–1911)"
+    },
+    {
+     "name": "김현철",
+     "role": "발제",
+     "topic": "Ch.4 China Rejoining the World and Its Fictional Sovereignty (1912–1949)"
+    },
+    {
+     "name": "전재성",
+     "role": "발제",
+     "topic": "Ch.5 From Proletarian Revolution to Peaceful Coexistence: Sovereignty in the PRC (1949–1989)"
+    },
+    {
+     "name": "김수암",
+     "role": "발제",
+     "topic": "Ch.6 Historical Legacies, Globalization, and Chinese Sovereignty since 1989"
+    }
+   ],
+   "notes": "참석자에 하영선이 있으나 역할 표기가 없어 presenters에서 제외. 출판사 표기가 'Florence: Cambridge University Press'로 기록에 그대로 적혀 있음. 토론은 발제가 길어 진행하지 못했다고 기재."
+  }
+ ]
+}

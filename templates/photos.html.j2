@@ -1,0 +1,23 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ site.nav.photos }} — {{ site.title }}{% endblock %}
+{% block description %}{{ photos.meta_description }}{% endblock %}
+
+{% block hero %}
+<div class="hero page">
+  <h1>{{ photos.title }}</h1>
+</div>
+{% endblock %}
+
+{% block content %}
+<section>
+  <div class="container">
+    <div class="photo-grid">
+      {% for p in photos.entries %}
+      <a class="photo" href="{{ p.file }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ p.file }}" alt=""{% if p.get('w') %} width="{{ p.w }}" height="{{ p.h }}"{% endif %} loading="lazy">
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endblock %}

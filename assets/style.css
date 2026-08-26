@@ -1,0 +1,823 @@
+/* ==========================================================================
+   한국외교사연구회 — stylesheet
+   Layout DNA follows complex-intelligence.github.io / circle-of-fish:
+   sticky light header, centred hero, alternating section bands, card grids,
+   a seminar timeline. Departures: 남빛·단청 palette, and the components the
+   session-record and material pages need.
+   ========================================================================== */
+
+:root {
+  --teal:        #2c4a5e;
+  --teal-dark:   #1b3242;
+  --teal-light:  #dde7ee;
+  --sand:        #9c4a35;
+  --sand-light:  #f7e9e3;
+  --ink:         #1a2027;
+  --body:        #434b54;
+  --muted:       #7b848d;
+  --faint:       #a2aab1;
+  --line:        #e5e9ed;
+  --line-soft:   #f0f3f6;
+  --band:        #f6f8fa;
+  --silk:        #f3ede2;   /* 열하일기 그림의 비단 바탕 — 배경 여백에 쓴다 */
+  --white:       #ffffff;
+  --shadow:      0 4px 18px rgba(44, 74, 94, 0.08);
+
+  --font-sans: 'Inter', var(--cjk-sans, 'Noto Sans KR'), -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-serif: 'Spectral', var(--cjk-serif, 'Noto Serif KR'), Georgia, 'Times New Roman', serif;
+
+  --wrap: 1240px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+/* Every size on this page is in rem, so the whole design scales from here.
+   150% of the browser's own default rather than a fixed pixel size, so a
+   reader who has already enlarged their default still gets what they asked
+   for on top of it. */
+html {
+  font-size: 150%;
+  scroll-behavior: smooth;
+  scroll-padding-top: 4.5rem;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--body);
+  background: var(--white);
+  line-height: 1.8;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--teal); }
+em, i { font-style: italic; }
+
+/* ===== HEADER ============================================================= */
+header {
+  background: rgba(255, 255, 255, 0.94);
+  backdrop-filter: saturate(180%) blur(8px);
+  position: sticky; top: 0; z-index: 100;
+  border-bottom: 1px solid var(--line);
+}
+.header-inner {
+  max-width: 1400px; margin: 0 auto;   /* wider than the text column: the nav
+                                          plus four language buttons need it */
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 0 0.9rem; gap: 0.6rem;
+}
+.site-title { padding: 0.7rem 0; line-height: 1.25; flex-shrink: 0; }
+.site-title a { color: var(--ink); text-decoration: none; display: block; }
+.site-title .mark {
+  font-family: var(--font-serif);
+  font-size: 0.88rem; font-weight: 600; letter-spacing: 0.005em;
+  display: block;
+}
+.site-title .mark-sub {
+  font-size: 0.45rem; color: var(--faint); letter-spacing: 0.075em;
+  text-transform: uppercase; font-weight: 500; display: block; margin-top: 0.05rem;
+}
+nav.main { display: flex; align-items: center; gap: 0; flex-wrap: wrap; }
+nav.main a {
+  color: var(--body); text-decoration: none;
+  padding: 0.8rem 0.33rem; font-size: 0.52rem; font-weight: 500;
+  text-transform: uppercase; letter-spacing: 0.05em;
+  transition: color 0.2s; white-space: nowrap;
+}
+nav.main a:hover { color: var(--teal); }
+nav.main a.active { color: var(--teal); box-shadow: inset 0 -2px 0 var(--teal); }
+
+/* Language switcher. It lives inside nav.main, so every rule here has to be
+   written as `nav.main .lang a` — plain `.lang a` loses to `nav.main a` on
+   specificity, which silently handed the buttons the nav's padding and colour. */
+.lang { display: flex; align-items: center; margin-left: 0.55rem; gap: 1px; flex-shrink: 0; }
+nav.main .lang a {
+  font-size: 0.5rem; font-weight: 600; letter-spacing: 0.02em; text-transform: none;
+  color: var(--teal); text-decoration: none; white-space: nowrap;
+  padding: 0.2rem 0.34rem; line-height: 1.5; border: 1px solid var(--teal); border-right-width: 0;
+  transition: background 0.18s, color 0.18s;
+}
+nav.main .lang a:first-child { border-radius: 4px 0 0 4px; }
+nav.main .lang a:last-child { border-radius: 0 4px 4px 0; border-right-width: 1px; }
+nav.main .lang a:hover { background: var(--teal-light); color: var(--teal); }
+nav.main .lang a.current { background: var(--teal); color: var(--white); }
+
+/* ===== HERO =============================================================== */
+.hero {
+  /* 배경은 열하일기의 한 장면 — 조선 사신이 판첸라마 앞에 무릎을 접고 선 자리.
+     위로 28%(누각 천장), 아래로 10%(방석 아래 빈 마루)를 덜어 냈다.
+     위 28% 가 한계다 — 더 자르면 오른쪽 승려의 머리와 판첸라마 모자 끝이 잘린다.
+     남은 그림 비율이 2752:995 ≈ 36% 라, contain 으로 전부 보이게 한다. */
+  background: var(--silk) url('hero.jpg') center / contain no-repeat;
+  /* 뒤의 두 값은 노트북 화면에서 머리그림이 첫 화면을 다 먹지 않게 하는 마개다. */
+  min-height: min(36vw, 24rem, 52vh);
+  text-align: center;
+  padding: 3.2rem 2rem 3rem;
+  border-bottom: 3px solid var(--teal);
+  position: relative;
+}
+.hero::after {
+  content: ''; position: absolute; inset: 0;
+  background:
+    radial-gradient(ellipse 60% 70% at center, rgba(255,255,255,0.42) 0%, rgba(255,255,255,0) 70%),
+    linear-gradient(rgba(255,255,255,0.66), rgba(255,255,255,0.74));
+  pointer-events: none;
+}
+.hero > * { position: relative; z-index: 1; }
+.hero h1 {
+  font-family: var(--font-serif);
+  font-size: 2.6rem; font-weight: 600; color: var(--ink);
+  letter-spacing: -0.01em; line-height: 1.2; margin-bottom: 0.45rem;
+}
+.hero .subtitle {
+  font-size: 0.82rem; color: var(--muted); font-weight: 500;
+  letter-spacing: 0.16em; text-transform: uppercase; margin-bottom: 1.5rem;
+}
+.hero .tagline {
+  max-width: 640px; margin: 0 auto;
+  font-family: var(--font-serif);
+  font-size: 1.12rem; line-height: 1.75; color: var(--teal-dark);
+  font-style: italic; font-weight: 400;
+}
+.hero .description {
+  max-width: 660px; margin: 1.4rem auto 0;
+  font-size: 0.94rem; line-height: 1.9; color: var(--body);
+}
+
+/* compact hero for interior pages */
+.hero.page {
+  padding: 2.6rem 2rem 2.4rem;
+  min-height: min(23vw, 12rem, 30vh);
+}
+/* 안쪽 쪽은 제목이 작아 바탕을 조금 더 눕힌다 */
+.hero.page::after {
+  background:
+    radial-gradient(ellipse 55% 80% at center, rgba(255,255,255,0.44) 0%, rgba(255,255,255,0) 70%),
+    linear-gradient(rgba(255,255,255,0.74), rgba(255,255,255,0.82));
+}
+.hero.page h1 { font-size: 1.95rem; }
+.hero.page .description { margin-top: 0.9rem; font-size: 0.92rem; }
+
+/* ===== SECTIONS =========================================================== */
+section { padding: 4rem 2rem; }
+section.band { background: var(--band); }
+.container { max-width: var(--wrap); margin: 0 auto; }
+.container.narrow { max-width: 40rem; }
+
+.section-title {
+  font-family: var(--font-serif);
+  font-size: 1.6rem; font-weight: 600; color: var(--ink);
+  margin-bottom: 0.3rem; letter-spacing: -0.005em;
+}
+.section-title::after {
+  content: ''; display: block; width: 48px; height: 3px;
+  background: var(--teal); margin-top: 0.7rem; border-radius: 2px;
+}
+.section-subtitle {
+  font-size: 0.78rem; color: var(--faint); margin: 0.7rem 0 2rem;
+  letter-spacing: 0.1em; text-transform: uppercase; font-weight: 500;
+}
+.prose { font-size: 0.96rem; line-height: 1.95; color: var(--body); }
+.prose p + p { margin-top: 1.05rem; }
+.prose strong { color: var(--ink); font-weight: 600; }
+
+/* epigraph — the Kautilya passage */
+.epigraph {
+  border-left: 3px solid var(--sand);
+  background: var(--sand-light);
+  padding: 1.4rem 1.7rem;
+  margin: 0 0 2rem;
+  font-family: var(--font-serif);
+  font-size: 0.98rem; line-height: 1.85; color: #5c4a30;
+}
+.epigraph .cite {
+  display: block; margin-top: 0.7rem;
+  font-family: var(--font-sans);
+  font-size: 0.76rem; color: #8a7147; letter-spacing: 0.05em;
+}
+
+/* aims list */
+.aims { list-style: none; margin-top: 1.8rem; display: grid; gap: 0.85rem; }
+.aims li {
+  background: var(--white); border: 1px solid var(--line);
+  border-left: 3px solid var(--teal);
+  border-radius: 5px; padding: 0.95rem 1.3rem;
+  font-size: 0.92rem; color: var(--body); line-height: 1.7;
+  display: flex; gap: 0.9rem; align-items: baseline;
+}
+.aims .n {
+  font-family: var(--font-serif); font-size: 0.85rem; font-weight: 600;
+  color: var(--teal); flex-shrink: 0; letter-spacing: 0.04em;
+}
+
+/* ===== ORIENTATION CARDS ================================================== */
+.orient-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr)); gap: 1.1rem; margin-top: 1.6rem; }
+.orient-card {
+  background: var(--white); border: 1px solid var(--line);
+  border-radius: 7px; padding: 1.5rem 1.6rem; transition: box-shadow 0.2s, transform 0.2s;
+}
+.orient-card:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+.orient-card .kicker {
+  font-size: 0.68rem; letter-spacing: 0.11em; text-transform: uppercase;
+  color: var(--teal); font-weight: 600; margin-bottom: 0.55rem;
+}
+.orient-card h3 {
+  font-family: var(--font-serif); font-size: 1.06rem; font-weight: 600;
+  color: var(--ink); margin-bottom: 0.55rem; line-height: 1.4;
+}
+.orient-card p { font-size: 0.89rem; line-height: 1.8; color: var(--body); }
+
+/* home page: the stance as a scannable index into the research page */
+.stance-cols {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(21rem, 1fr));
+  gap: 1.6rem 2.4rem; margin-top: 1.8rem;
+}
+.stance-kicker {
+  font-size: 0.68rem; letter-spacing: 0.11em; text-transform: uppercase;
+  color: var(--teal); font-weight: 600; margin-bottom: 0.7rem;
+  padding-bottom: 0.5rem; border-bottom: 1px solid var(--line);
+}
+.stance-list { list-style: none; counter-reset: stance; }
+.stance-list li {
+  counter-increment: stance; position: relative;
+  padding: 0.55rem 0 0.55rem 2.1rem; border-bottom: 1px solid var(--line-soft);
+  font-size: 0.92rem; line-height: 1.6;
+}
+.stance-list li:last-child { border-bottom: none; }
+.stance-list li::before {
+  content: counter(stance, decimal-leading-zero);
+  position: absolute; left: 0; top: 0.62rem;
+  font-family: var(--font-serif); font-size: 0.78rem; font-weight: 600; color: var(--faint);
+}
+.stance-list a { color: var(--ink); text-decoration: none; }
+.stance-list a:hover { color: var(--teal); }
+
+/* research modules */
+.module {
+  background: var(--white); border: 1px solid var(--line);
+  border-radius: 7px; padding: 1.9rem 2rem; margin-bottom: 1.4rem;
+}
+.module .module-no {
+  font-size: 0.68rem; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--sand); font-weight: 600; margin-bottom: 0.4rem;
+}
+.module h3 {
+  font-family: var(--font-serif); font-size: 1.22rem; font-weight: 600;
+  color: var(--ink); line-height: 1.4; margin-bottom: 0.9rem;
+}
+.module p { font-size: 0.92rem; line-height: 1.9; }
+.module .areas { list-style: none; margin-top: 1.2rem; display: grid; gap: 0.5rem; }
+.module .areas li {
+  font-size: 0.88rem; color: var(--body); padding-left: 1.2rem; position: relative;
+}
+.module .areas li::before {
+  content: ''; position: absolute; left: 0; top: 0.72em;
+  width: 6px; height: 6px; border-radius: 50%; background: var(--teal-light);
+  border: 1.5px solid var(--teal);
+}
+
+/* ===== MEMBERS ============================================================ */
+.members-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr)); gap: 1.1rem; }
+.member-card {
+  background: var(--white); border: 1px solid var(--line);
+  border-radius: 7px; padding: 1.5rem 1.6rem;
+  display: flex; flex-direction: column;
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.member-card:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+/* The images members chose for themselves are not uniform headshots — one is a
+   drawing of a fish, one a slice of cake — so nothing is cropped to a common
+   shape. Each keeps its own proportions inside a matted frame, which reads as
+   a picture someone chose rather than an institutional portrait. */
+.member-head { display: flex; align-items: flex-start; gap: 1rem; }
+.member-frame {
+  flex-shrink: 0; display: block;
+  padding: 5px;
+  background: var(--white);
+  border: 1px solid #dfe5e6;
+  border-radius: 3px;
+  box-shadow: 0 1px 2px rgba(28, 37, 41, 0.10), 0 3px 10px rgba(28, 37, 41, 0.05);
+}
+.member-photo {
+  display: block;
+  width: 7.2rem; height: auto;     /* natural aspect ratio, never squeezed */
+  background: var(--line-soft);
+}
+.member-ident { min-width: 0; padding-top: 0.2rem; }
+
+.member-name { font-family: var(--font-serif); font-size: 1.1rem; font-weight: 600; color: var(--ink); line-height: 1.3; }
+.member-name-alt { font-size: 0.8rem; color: var(--faint); margin-top: 0.1rem; }
+.member-affiliation { font-size: 0.86rem; color: var(--body); line-height: 1.6; margin-top: 0.85rem; }
+.member-interests {
+  font-size: 0.81rem; color: var(--muted); line-height: 1.65;
+  margin-top: 0.75rem; padding-top: 0.75rem; border-top: 1px solid var(--line-soft);
+}
+/* 이메일은 링크를 걸지 않고 주소만 노출한다 (수집 봇 회피 + 편집 편의) */
+.member-email {
+  margin-top: 0.7rem; font-size: 0.81rem; color: var(--body);
+  display: flex; gap: 0.45rem; align-items: baseline; flex-wrap: wrap;
+}
+.member-email .k {
+  font-size: 0.68rem; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--faint); font-weight: 600;
+}
+.member-email .v { font-family: 'Inter', monospace; word-break: break-all; }
+.email-plain {
+  font-family: 'Inter', monospace; color: var(--teal-dark);
+  background: var(--teal-light); padding: 0.12rem 0.5rem; border-radius: 3px;
+}
+
+.member-links { margin-top: 0.9rem; display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.member-links a {
+  font-size: 0.7rem; letter-spacing: 0.03em; text-decoration: none;
+  color: var(--teal-dark); background: var(--teal-light);
+  padding: 0.2rem 0.55rem; border-radius: 3px; transition: background 0.18s, color 0.18s;
+}
+.member-links a:hover { background: var(--teal); color: var(--white); }
+.member-role {
+  align-self: flex-start; margin-top: 0.8rem;
+  font-size: 0.68rem; background: var(--teal); color: var(--white);
+  padding: 0.18rem 0.6rem; border-radius: 11px; font-weight: 500; letter-spacing: 0.04em;
+}
+
+/* ===== PUBLICATIONS ======================================================= */
+/* filter bar — only shown once the script has wired it up */
+.pub-filter {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem;
+  padding: 0.85rem 1.1rem; margin-bottom: 1.2rem;
+  background: var(--band); border: 1px solid var(--line); border-radius: 7px;
+}
+.pub-filter select {
+  font: inherit; font-size: 0.83rem; color: var(--ink);
+  background: var(--white); border: 1px solid var(--line);
+  border-radius: 5px; padding: 0.34rem 0.6rem; cursor: pointer;
+  max-width: 15rem;
+}
+.pub-filter select:hover, .pub-filter select:focus { border-color: var(--teal); outline: none; }
+.pub-filter .check {
+  font-size: 0.83rem; color: var(--body); display: inline-flex;
+  align-items: center; gap: 0.35rem; cursor: pointer; user-select: none;
+}
+.pub-filter .check input { accent-color: var(--teal); cursor: pointer; }
+.filter-count {
+  margin-left: auto; font-size: 0.78rem; color: var(--teal);
+  font-weight: 600; letter-spacing: 0.03em;
+}
+.filter-empty {
+  font-size: 0.9rem; color: var(--muted); padding: 2rem 0; text-align: center;
+}
+.visually-hidden {
+  position: absolute; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap;
+}
+
+.pub-nav { display: flex; flex-wrap: wrap; gap: 0.45rem; margin-bottom: 2.4rem; }
+.pub-nav a {
+  font-size: 0.78rem; text-decoration: none; color: var(--body);
+  border: 1px solid var(--line); background: var(--white);
+  padding: 0.38rem 0.8rem; border-radius: 15px; transition: all 0.18s;
+}
+.pub-nav a:hover { border-color: var(--teal); color: var(--teal); background: var(--teal-light); }
+
+.theme-block { margin-bottom: 3rem; }
+.theme-head { margin-bottom: 1.3rem; padding-bottom: 0.9rem; border-bottom: 2px solid var(--teal-light); }
+.theme-head h3 {
+  font-family: var(--font-serif); font-size: 1.24rem; font-weight: 600;
+  color: var(--ink); line-height: 1.35;
+}
+.theme-head .blurb { font-size: 0.89rem; color: var(--muted); line-height: 1.75; margin-top: 0.5rem; }
+.theme-head .count {
+  font-size: 0.7rem; color: var(--teal); letter-spacing: 0.08em;
+  text-transform: uppercase; font-weight: 600; margin-top: 0.5rem; display: block;
+}
+
+.pub-list { list-style: none; display: grid; gap: 1rem; }
+.pub {
+  background: var(--white); border: 1px solid var(--line);
+  border-left: 3px solid var(--teal-light);
+  border-radius: 6px; padding: 1.2rem 1.4rem; transition: border-left-color 0.2s, box-shadow 0.2s;
+}
+.pub:hover { border-left-color: var(--teal); box-shadow: var(--shadow); }
+.pub .cite { font-size: 0.92rem; line-height: 1.7; color: var(--ink); }
+.pub .cite .authors { font-weight: 600; }
+.pub .cite .title { color: var(--ink); }
+.pub .cite .venue { font-style: italic; color: var(--body); }
+.pub .cite .year { color: var(--muted); }
+.pub .summary {
+  font-size: 0.86rem; line-height: 1.8; color: var(--body);
+  margin-top: 0.65rem; padding-left: 0.9rem; border-left: 2px solid var(--line);
+}
+.pub .pub-links { margin-top: 0.8rem; display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center; }
+.badge {
+  font-size: 0.68rem; letter-spacing: 0.04em; font-weight: 600;
+  padding: 0.2rem 0.6rem; border-radius: 3px; text-decoration: none;
+  display: inline-block; transition: all 0.18s;
+}
+.badge-oa { background: #e3f4e8; color: #216b38; border: 1px solid #b9e0c6; }
+.badge-oa:hover { background: #216b38; color: var(--white); }
+.badge-doi { background: var(--line-soft); color: var(--body); border: 1px solid var(--line); }
+.badge-doi:hover { background: var(--body); color: var(--white); }
+.badge-lang { background: var(--sand-light); color: var(--sand); border: 1px solid #e3d3b6; }
+.badge-type { background: var(--teal-light); color: var(--teal-dark); border: 1px solid #bcdde5; }
+
+/* ===== SEMINAR TIMELINE =================================================== */
+.timeline { position: relative; padding-left: 2.4rem; }
+.timeline::before {
+  content: ''; position: absolute; left: 0.55rem; top: 0.4rem; bottom: 0.4rem;
+  width: 2px; background: var(--line);
+}
+.timeline-item { position: relative; margin-bottom: 1.9rem; }
+.timeline-item::before {
+  content: ''; position: absolute; left: -2.05rem; top: 0.5rem;
+  width: 11px; height: 11px; border-radius: 50%;
+  background: var(--teal); border: 2px solid var(--white); box-shadow: 0 0 0 2px var(--line);
+}
+.timeline-item.upcoming::before { background: var(--sand); box-shadow: 0 0 0 2px #ecdcc2; }
+.timeline-date {
+  font-size: 0.76rem; color: var(--faint); font-weight: 600;
+  letter-spacing: 0.08em; margin-bottom: 0.2rem;
+}
+.timeline-title { font-size: 0.98rem; font-weight: 600; color: var(--ink); line-height: 1.55; }
+.timeline-title em { font-style: italic; }
+.timeline-meta { font-size: 0.82rem; color: var(--muted); margin-top: 0.25rem; line-height: 1.7; }
+.timeline-badge {
+  display: inline-block; font-size: 0.67rem; padding: 0.13rem 0.55rem;
+  border-radius: 11px; margin-right: 0.4rem; font-weight: 600; letter-spacing: 0.03em;
+  vertical-align: 0.08em;
+}
+.badge-reading   { background: #eef2f7; color: #3f5470; }
+.badge-workshop  { background: #fff2e2; color: #a2560c; }
+.badge-draft     { background: #eaf5ea; color: #2c6b34; }
+.badge-guest     { background: #f4ecf8; color: #6c3b8a; }
+.badge-planning  { background: var(--line-soft); color: var(--muted); }
+
+.year-rule {
+  display: flex; align-items: center; gap: 0.9rem;
+  margin: 2.4rem 0 1.6rem; position: relative; left: -2.4rem;
+}
+.year-rule:first-child { margin-top: 0; }
+.year-rule .y {
+  font-family: var(--font-serif); font-size: 1.15rem; font-weight: 600;
+  color: var(--teal); letter-spacing: 0.02em; background: var(--white);
+  padding-right: 0.6rem;
+}
+section.band .year-rule .y { background: var(--band); }
+.year-rule .r { flex: 1; height: 1px; background: var(--line); }
+
+/* ===== RESOURCES ========================================================== */
+.res-group { margin-bottom: 2.6rem; }
+.res-group h3 {
+  font-family: var(--font-serif); font-size: 1.12rem; font-weight: 600; color: var(--ink);
+  padding-bottom: 0.5rem; border-bottom: 1px solid var(--line); margin-bottom: 0.4rem;
+}
+.res-group .group-note { font-size: 0.85rem; color: var(--muted); margin-bottom: 1.1rem; line-height: 1.75; }
+.res-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(18.5rem, 1fr)); gap: 0.8rem; }
+.res-card {
+  background: var(--white); border: 1px solid var(--line); border-radius: 6px;
+  padding: 0.95rem 1.15rem; transition: box-shadow 0.2s, border-color 0.2s;
+}
+.res-card:hover { border-color: var(--teal); box-shadow: var(--shadow); }
+.res-card .name { font-size: 0.9rem; font-weight: 600; line-height: 1.5; }
+.res-card .name a { color: var(--ink); text-decoration: none; }
+.res-card .name a:hover { color: var(--teal); }
+.res-card .name a::after { content: ' \2197'; font-size: 0.72em; color: var(--faint); }
+.res-card .aff { font-size: 0.76rem; color: var(--faint); margin-top: 0.15rem; }
+.res-card .desc { font-size: 0.82rem; color: var(--body); line-height: 1.65; margin-top: 0.4rem; }
+
+/* reading list (bibliography style) */
+.reading-list { list-style: none; }
+.reading-list li {
+  padding: 0.6rem 0 0.6rem 1.4rem; border-bottom: 1px solid var(--line-soft);
+  font-size: 0.88rem; color: var(--body); line-height: 1.7;
+  text-indent: -1.4rem;
+}
+.reading-list li:last-child { border-bottom: none; }
+.reading-list .title { font-style: italic; color: var(--ink); }
+.reading-list a { text-decoration: none; }
+.reading-list a:hover { text-decoration: underline; }
+
+/* ===== HOME HIGHLIGHTS ==================================================== */
+.highlight-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 1rem; }
+.stat {
+  background: var(--white); border: 1px solid var(--line);
+  border-left: 3px solid var(--teal); border-radius: 5px; padding: 1.2rem 1.4rem;
+}
+.stat .label {
+  font-size: 0.68rem; color: var(--faint); text-transform: uppercase;
+  letter-spacing: 0.1em; font-weight: 600; margin-bottom: 0.3rem;
+}
+.stat .value { font-size: 0.94rem; font-weight: 600; color: var(--ink); line-height: 1.6; }
+.stat .value a { text-decoration: none; }
+.stat .value a:hover { text-decoration: underline; }
+
+.more-link {
+  display: inline-block; margin-top: 1.6rem;
+  font-size: 0.83rem; font-weight: 600; letter-spacing: 0.04em;
+  color: var(--teal); text-decoration: none;
+  border-bottom: 1.5px solid var(--teal-light); padding-bottom: 0.1rem;
+  transition: border-color 0.2s;
+}
+.more-link:hover { border-bottom-color: var(--teal); }
+.more-link::after { content: ' \2192'; }
+
+/* ===== CONTACT / FOOTER =================================================== */
+.contact-line { font-size: 0.94rem; line-height: 1.9; }
+.contact-line a { text-decoration: none; }
+.contact-line a:hover { text-decoration: underline; }
+
+footer {
+  background: var(--band); color: var(--muted);
+  text-align: center; padding: 2.6rem 2rem;
+  font-size: 0.8rem; line-height: 1.85; border-top: 1px solid var(--line);
+}
+footer a { color: var(--teal); text-decoration: none; }
+footer a:hover { text-decoration: underline; }
+footer .foot-nav { margin-bottom: 0.7rem; display: flex; justify-content: center; flex-wrap: wrap; gap: 0.2rem 1rem; }
+footer .foot-legal { font-size: 0.74rem; color: var(--faint); margin-top: 0.5rem; }
+/* the way in for members; deliberately quiet, and it asks for a password */
+footer .foot-edit {
+  display: inline-block; margin-top: 1rem;
+  font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--faint); text-decoration: none;
+  border: 1px solid var(--line); border-radius: 12px; padding: 0.15rem 0.7rem;
+  transition: color 0.2s, border-color 0.2s;
+}
+footer .foot-edit:hover { color: var(--teal); border-color: var(--teal); text-decoration: none; }
+
+/* ===== UTILITIES ========================================================== */
+.note {
+  font-size: 0.82rem; color: var(--muted); background: var(--line-soft);
+  border-radius: 5px; padding: 0.8rem 1.1rem; margin-top: 1.2rem; line-height: 1.75;
+}
+.skip {
+  position: absolute; left: -9999px; top: 0;
+  background: var(--teal); color: #fff; padding: 0.6rem 1rem; z-index: 200;
+}
+.skip:focus { left: 0; }
+
+/* ===== RESPONSIVE ========================================================= */
+@media (max-width: 1100px) {
+  .header-inner { flex-direction: column; align-items: stretch; padding: 0.7rem 1rem; gap: 0.4rem; }
+  .site-title { padding: 0.3rem 0; text-align: center; }
+  nav.main { justify-content: center; }
+  nav.main a { padding: 0.4rem 0.5rem; font-size: 0.58rem; }
+  nav.main a.active { box-shadow: inset 0 -2px 0 var(--teal); }
+  .lang { justify-content: center; margin: 0.2rem 0 0.3rem; }
+}
+
+@media (max-width: 860px) {
+  .hero { padding: 3.2rem 1.4rem 2.8rem; background-size: 480px; }
+  .hero h1 { font-size: 1.85rem; }
+  .hero .tagline { font-size: 1rem; }
+  .hero.page { padding: 2.4rem 1.4rem 2.2rem; background-size: 380px; }
+  .hero.page h1 { font-size: 1.5rem; }
+  section { padding: 2.6rem 1.2rem; }
+  .module { padding: 1.4rem 1.3rem; }
+  .timeline { padding-left: 1.9rem; }
+  .year-rule { left: -1.9rem; }
+  .res-grid, .members-grid, .orient-grid { grid-template-columns: 1fr; }
+}
+
+@media print {
+  header, .lang, footer .foot-nav { display: none; }
+  .hero { background: none; border-bottom: 1px solid #ccc; }
+  .pub, .member-card, .res-card, .orient-card { break-inside: avoid; }
+}
+
+/* ===== 한외사 전용 컴포넌트 ================================================ */
+
+/* 시기 배지 — 세 시기가 배지 색으로 갈린다 */
+.badge-jiseongsa { background: #f1ece2; color: #7a5b2b; }
+.badge-yeonhaeng { background: #eaf0e9; color: #3d6640; }
+.badge-hanoesa   { background: var(--teal-light); color: var(--teal-dark); }
+
+/* 첫 화면 지표 */
+.stat-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); gap: 1.1rem; }
+.stat { text-align: center; padding: 1.2rem 0.6rem; background: var(--white);
+        border: 1px solid var(--line); border-radius: 8px; }
+.stat-n { font-family: var(--font-serif); font-size: 1.6rem; font-weight: 600; color: var(--teal-dark); line-height: 1.2; }
+.stat-l { font-size: 0.8rem; color: var(--muted); margin-top: 0.3rem; letter-spacing: 0.04em; }
+
+/* 시기 카드 */
+.era-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: 1.1rem; margin-top: 1.6rem; }
+.era-card { background: var(--white); border: 1px solid var(--line); border-radius: 10px;
+            padding: 1.5rem 1.4rem; transition: box-shadow 0.2s, transform 0.2s; }
+.era-card:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+.era-range { font-size: 0.76rem; letter-spacing: 0.09em; color: var(--sand); font-weight: 600; }
+.era-card h3 { font-family: var(--font-serif); font-size: 1.12rem; color: var(--ink); margin: 0.35rem 0 0.6rem; }
+.era-card p { font-size: 0.87rem; line-height: 1.8; color: var(--body); }
+.era-count { margin-top: 0.9rem; font-size: 0.8rem; color: var(--muted); }
+
+/* 처음 화면의 최근 모임 카드 */
+.card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr)); gap: 1.1rem; margin-top: 1.6rem; }
+.card { display: block; background: var(--white); border: 1px solid var(--line); border-radius: 10px;
+        padding: 1.3rem 1.3rem 1.4rem; text-decoration: none; transition: box-shadow 0.2s, transform 0.2s; }
+.card:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+.card-date { font-size: 0.76rem; letter-spacing: 0.06em; color: var(--muted); }
+.card h3 { font-family: var(--font-serif); font-size: 1.02rem; color: var(--ink); margin: 0.3rem 0 0.5rem; }
+.card-meta { font-size: 0.85rem; line-height: 1.75; color: var(--body); }
+.more { margin-top: 1.6rem; font-size: 0.88rem; }
+.more a { text-decoration: none; font-weight: 500; }
+.more a:hover { text-decoration: underline; }
+
+.hero-actions { margin-top: 1.7rem; display: flex; gap: 0.7rem; justify-content: center; flex-wrap: wrap; }
+.btn { display: inline-block; padding: 0.55rem 1.3rem; border-radius: 999px; font-size: 0.87rem;
+       font-weight: 500; text-decoration: none; background: var(--teal); color: var(--white);
+       border: 1px solid var(--teal); transition: background 0.15s; }
+.btn:hover { background: var(--teal-dark); border-color: var(--teal-dark); }
+.btn.ghost { background: transparent; color: var(--teal-dark); }
+.btn.ghost:hover { background: var(--teal-light); }
+
+/* 연표 보강 */
+.timeline-title a { color: var(--ink); text-decoration: none; }
+.timeline-title a:hover { color: var(--teal); text-decoration: underline; }
+.timeline-title .status { margin-left: 0.45rem; font-size: 0.74rem; font-weight: 500;
+                          color: var(--sand); border: 1px solid #e3cfc7; border-radius: 3px; padding: 0.05rem 0.35rem; }
+.timeline-meta .who { color: var(--ink); font-weight: 500; }
+.timeline-topic { font-size: 0.85rem; color: var(--body); margin-top: 0.2rem; }
+.timeline-tags { margin-top: 0.35rem; display: flex; gap: 0.4rem; flex-wrap: wrap; }
+.timeline-tags .tag { font-size: 0.72rem; color: var(--muted); background: var(--line-soft);
+                      border-radius: 3px; padding: 0.08rem 0.4rem; }
+
+/* 회차 상세 */
+.session-hero .eyebrow { font-size: 0.8rem; letter-spacing: 0.08em; color: var(--sand); font-weight: 600; }
+.session-hero h1 { margin-top: 0.4rem; }
+.fieldblock { margin-bottom: 2.6rem; }
+.fieldblock h2 { font-family: var(--font-serif); font-size: 1.05rem; color: var(--ink);
+                 padding-bottom: 0.5rem; border-bottom: 1px solid var(--line); margin-bottom: 1rem; }
+.presenters { list-style: none; display: grid; gap: 0.55rem; }
+.presenters li { font-size: 0.92rem; line-height: 1.75; color: var(--body); }
+.presenters .who { font-weight: 600; color: var(--ink); }
+.presenters .role { font-size: 0.74rem; color: var(--muted); border: 1px solid var(--line);
+                    border-radius: 3px; padding: 0.05rem 0.35rem; margin-left: 0.25rem; }
+.readings { list-style: none; counter-reset: rd; display: grid; gap: 0.75rem; }
+.readings li { position: relative; padding-left: 1.7rem; font-size: 0.9rem; line-height: 1.8; }
+.readings li::before { counter-increment: rd; content: counter(rd); position: absolute; left: 0; top: 0.15rem;
+                       font-size: 0.72rem; color: var(--faint); font-variant-numeric: tabular-nums; }
+.readings .cite { color: var(--body); }
+.kind { display: inline-block; margin-left: 0.4rem; font-size: 0.72rem; color: var(--teal-dark);
+        background: var(--teal-light); border-radius: 3px; padding: 0.05rem 0.4rem; vertical-align: 0.08rem; }
+.materials { list-style: none; display: grid; gap: 0.6rem; }
+.materials li { font-size: 0.9rem; line-height: 1.75; }
+.materials .restricted { color: var(--muted); }
+.materials .why { display: block; font-size: 0.76rem; color: var(--faint); margin-top: 0.1rem; }
+.mat-restricted .kind { background: var(--line-soft); color: var(--muted); }
+
+.record .record-body { font-size: 0.92rem; line-height: 1.95; color: var(--body); }
+.record .record-body p + p { margin-top: 1rem; }
+.record .src { margin-top: 1.2rem; font-size: 0.78rem; color: var(--faint); }
+
+.prevnext { display: flex; justify-content: space-between; gap: 1rem; margin-top: 3rem;
+            padding-top: 1.4rem; border-top: 1px solid var(--line); font-size: 0.85rem; }
+.prevnext a { text-decoration: none; color: var(--body); }
+.prevnext a:hover { color: var(--teal); }
+.prevnext .next { margin-left: auto; text-align: right; }
+
+/* 자료 표 */
+.policy { background: var(--sand-light); border: 1px solid #ecd9d1; border-radius: 8px;
+          padding: 1.1rem 1.3rem; font-size: 0.87rem; line-height: 1.85; color: var(--body); margin-bottom: 2rem; }
+.mattable { width: 100%; border-collapse: collapse; font-size: 0.86rem; }
+.mattable th { text-align: left; font-size: 0.76rem; letter-spacing: 0.06em; color: var(--muted);
+               font-weight: 600; padding: 0.5rem 0.7rem; border-bottom: 1px solid var(--line); }
+.mattable td { padding: 0.65rem 0.7rem; border-bottom: 1px solid var(--line-soft); vertical-align: top; }
+.mattable .mname { color: var(--ink); }
+.mattable .mauthor { display: block; font-size: 0.78rem; color: var(--muted); }
+.mattable .mkind, .mattable .msess { color: var(--body); white-space: nowrap; }
+.mattable .maccess { white-space: nowrap; }
+.maccess .ok  { color: #216b38; }
+.maccess .ext { color: var(--teal-dark); }
+.maccess .no  { color: var(--faint); }
+.mat-restricted .mname { color: var(--body); }
+
+/* 참여 연구자 */
+.member-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr)); gap: 1rem; }
+.member { background: var(--white); border: 1px solid var(--line); border-radius: 8px; padding: 1.1rem 1.2rem; }
+.member h3 { font-family: var(--font-serif); font-size: 1.02rem; color: var(--ink); }
+.member .affil { font-size: 0.82rem; color: var(--body); margin-top: 0.25rem; }
+.member .mnote { font-size: 0.8rem; color: var(--muted); margin-top: 0.3rem; }
+.member .mcount { font-size: 0.78rem; color: var(--faint); margin-top: 0.5rem; }
+
+@media (max-width: 640px) {
+  .mattable, .mattable thead, .mattable tbody, .mattable tr, .mattable td, .mattable th { display: block; }
+  .mattable thead { display: none; }
+  .mattable tr { border-bottom: 1px solid var(--line); padding: 0.7rem 0; }
+  .mattable td { border: none; padding: 0.15rem 0; }
+}
+
+.note-block + .note-block { margin-top: 1.4rem; padding-top: 1.4rem; border-top: 1px dashed var(--line); }
+.linklist { list-style: none; display: grid; gap: 0.4rem; }
+.linklist li { font-size: 0.8rem; overflow-wrap: anywhere; }
+.linklist a { color: var(--body); }
+.linklist a:hover { color: var(--teal); }
+.member .mcount .span { display: block; color: var(--muted); }
+.mcite { display: block; font-size: 0.79rem; color: var(--muted); line-height: 1.65; margin-top: 0.1rem; }
+
+/* 연표 안의 읽은 글·자료 */
+.tl-readings { list-style: none; margin-top: 0.5rem; display: grid; gap: 0.25rem; }
+.tl-readings li { position: relative; padding-left: 0.85rem; font-size: 0.83rem; line-height: 1.7; color: var(--body); }
+.tl-readings li::before { content: "—"; position: absolute; left: 0; color: var(--faint); }
+.tl-mats { list-style: none; margin-top: 0.55rem; display: grid; gap: 0.3rem;
+           padding: 0.6rem 0.8rem; background: var(--band); border-radius: 6px; }
+.tl-mats li { font-size: 0.83rem; line-height: 1.7; }
+.tl-mats a { text-decoration: none; border-bottom: 1px solid var(--teal-light); }
+.tl-mats a:hover { border-bottom-color: var(--teal); }
+.tl-mats .restricted { color: var(--muted); }
+.tl-mats .dl { font-size: 0.72rem; color: var(--faint); margin-left: 0.35rem; }
+.tl-mats .kind { font-size: 0.7rem; }
+.timeline-tags .tag.rec { text-decoration: none; color: var(--teal-dark); background: var(--teal-light); }
+.timeline-tags .tag.rec:hover { background: var(--teal); color: var(--white); }
+.hero.page .eyebrow { font-size: 0.8rem; letter-spacing: 0.1em; color: var(--sand); font-weight: 600; }
+.hero.page .eyebrow + h1 { margin-top: 0.35rem; }
+
+/* 자료 페이지 주제 목차 */
+.toc { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.4rem; }
+.toc a { display: inline-flex; align-items: baseline; gap: 0.4rem; padding: 0.35rem 0.8rem;
+         border: 1px solid var(--line); border-radius: 999px; background: var(--white);
+         font-size: 0.84rem; text-decoration: none; color: var(--ink); }
+.toc a:hover { border-color: var(--teal); color: var(--teal-dark); }
+.toc .n { font-size: 0.74rem; color: var(--faint); font-variant-numeric: tabular-nums; }
+.fieldblock p + p { margin-top: 1rem; }
+.fieldblock p { font-size: 0.94rem; line-height: 1.95; }
+
+/* 발제자에게 딸린 자료 */
+.pmats { list-style: none; margin: 0.35rem 0 0 0.2rem; display: grid; gap: 0.25rem; }
+.pmats li { font-size: 0.85rem; line-height: 1.7; position: relative; padding-left: 0.9rem; }
+.pmats li::before { content: "↳"; position: absolute; left: 0; color: var(--faint); }
+.pmats.loose { margin-top: 0.8rem; margin-left: 0; }
+.presenters > li + li { margin-top: 0.7rem; }
+.readings .attached { display: block; margin-top: 0.2rem; font-size: 0.83rem; padding-left: 0.1rem; }
+.by { font-size: 0.78rem; color: var(--muted); margin-left: 0.35rem; }
+.dl { font-size: 0.72rem; color: var(--faint); margin-left: 0.35rem; }
+/* 연표 안에서는 항목 제목을 작게 */
+.tl-body .fieldblock { margin-bottom: 1.1rem; }
+.tl-body .fieldblock:last-child { margin-bottom: 0; }
+.tl-body h3 { font-size: 0.76rem; letter-spacing: 0.07em; color: var(--muted); font-weight: 600;
+              border-bottom: 1px solid var(--line-soft); padding-bottom: 0.25rem; margin-bottom: 0.45rem; }
+.tl-body .readings li, .tl-body .presenters li, .tl-body .materials li { font-size: 0.83rem; }
+.tl-body { margin-top: 0.7rem; }
+
+/* 출판물 */
+.bookcard { background: var(--white); border: 1px solid var(--line); border-left: 3px solid var(--sand);
+            border-radius: 8px; padding: 1.5rem 1.6rem; }
+.bookcard h3 { font-family: var(--font-serif); font-size: 1.16rem; color: var(--ink); line-height: 1.4; }
+.bookcard h3 a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--teal-light); }
+.bookcard h3 a:hover { color: var(--teal); }
+.booksub { font-size: 0.92rem; color: var(--body); margin-top: 0.25rem; }
+.bookmeta { font-size: 0.84rem; color: var(--muted); margin-top: 0.5rem; }
+.booknote { font-size: 0.88rem; line-height: 1.85; color: var(--body); margin-top: 0.9rem; }
+.toc-book { list-style: none; counter-reset: bc; margin-top: 1.1rem; display: grid; gap: 0.4rem;
+            border-top: 1px solid var(--line-soft); padding-top: 0.9rem; }
+.toc-book li { position: relative; padding-left: 1.6rem; font-size: 0.86rem; line-height: 1.7; }
+.toc-book li::before { counter-increment: bc; content: counter(bc); position: absolute; left: 0;
+                       font-size: 0.72rem; color: var(--faint); top: 0.2rem; font-variant-numeric: tabular-nums; }
+.toc-book .cauthor { color: var(--muted); font-size: 0.8rem; margin-left: 0.4rem; }
+
+.publist { list-style: none; display: grid; gap: 0.75rem; }
+.publist li { display: grid; grid-template-columns: 3.2rem 1fr auto; gap: 0.7rem; align-items: baseline;
+              padding-bottom: 0.7rem; border-bottom: 1px solid var(--line-soft); }
+.publist .pyear { font-size: 0.78rem; color: var(--faint); font-variant-numeric: tabular-nums; }
+.publist .pcite { font-size: 0.89rem; line-height: 1.8; color: var(--body); }
+.publist .pcite a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--teal-light); }
+.publist .pcite a:hover { color: var(--teal); }
+.publist .pin { color: var(--body); }
+.publist .ppub { color: var(--muted); }
+.publist .ptags { white-space: nowrap; text-align: right; }
+.publist .who { font-size: 0.78rem; color: var(--teal-dark); background: var(--teal-light);
+                border-radius: 3px; padding: 0.08rem 0.4rem; }
+.publist .oa { font-size: 0.72rem; color: #216b38; margin-left: 0.3rem; }
+@media (max-width: 640px) {
+  .publist li { grid-template-columns: 1fr; gap: 0.2rem; }
+  .publist .ptags { text-align: left; }
+}
+
+/* 연구 방향 */
+.agenda h2 { font-family: var(--font-serif); font-size: 1.1rem; color: var(--ink);
+             padding-bottom: 0.5rem; border-bottom: 1px solid var(--line); margin-bottom: 0.9rem; }
+.agenda-points { list-style: none; display: grid; gap: 0.6rem; }
+.agenda-points li { position: relative; padding-left: 1rem; font-size: 0.92rem; line-height: 1.9; color: var(--body); }
+.agenda-points li::before { content: "—"; position: absolute; left: 0; color: var(--sand); }
+.agenda-since { font-size: 0.8rem; color: var(--sand); letter-spacing: 0.02em; margin-bottom: 0.7rem; }
+.agenda-lead { font-size: 0.96rem; line-height: 1.95; color: var(--ink); margin-bottom: 1.3rem; }
+.agenda-points { padding-top: 1rem; border-top: 1px dashed var(--line); }
+
+/* 앞으로 읽을 것 */
+.ahead-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr)); gap: 1.4rem; margin-top: 1.5rem; }
+.ahead-group h3 { font-size: 0.86rem; color: var(--teal-dark); font-weight: 600; margin-bottom: 0.55rem;
+                  padding-bottom: 0.3rem; border-bottom: 1px solid var(--line); }
+.ahead-group ul { list-style: none; display: grid; gap: 0.4rem; }
+.ahead-group li { position: relative; padding-left: 0.85rem; font-size: 0.82rem; line-height: 1.75; color: var(--body); }
+.ahead-group li::before { content: "·"; position: absolute; left: 0.15rem; color: var(--faint); }
+
+/* 사진 — 원본에 박힌 액자는 조립기가 걷어내고, 여기서 하나의 틀을 입힌다 */
+/* 세로·가로 비율은 사진마다 그대로 두고, 액자만 같게 한다.
+   그래서 격자가 아니라 단(column) 흐름이다 — 높이가 제각각이어도 줄이 어긋나지 않는다. */
+.photo-grid { columns: 3 18rem; column-gap: 1.3rem; }
+.photo { display: block; break-inside: avoid; margin: 0 0 1.3rem;
+         background: var(--white); padding: 0.6rem 0.6rem 0.7rem;
+         border: 1px solid var(--line); border-radius: 3px;
+         box-shadow: 0 1px 4px rgba(26,32,39,0.08);
+         transition: box-shadow 0.22s, transform 0.22s, border-color 0.22s; }
+.photo:hover { box-shadow: 0 8px 22px rgba(26,32,39,0.15); transform: translateY(-3px);
+               border-color: var(--teal-light); }
+.photo img { width: 100%; height: auto; display: block; background: var(--band);
+             border: 1px solid rgba(26,32,39,0.10); }

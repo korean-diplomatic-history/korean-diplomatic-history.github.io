@@ -1,0 +1,1253 @@
+{
+ "count": 164,
+ "readings": [
+  {
+   "rid": "2007-02-24#0",
+   "cite": "Victoria Tin-Bor Hui, *War and State Formation in Ancient China and Early Modern Europe*, Cambridge University Press, 2005.",
+   "kind": "단행본",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2007-03-31#0",
+   "cite": "渡辺信一郞, 『中國古代の王權と天下秩序: 日中比較史の視點から』, 校倉書房, 2003.",
+   "kind": "단행본",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2007-05-31#0",
+   "cite": "Lynn A. Struve (ed.), *The Qing Formation in World-Historical Time*, Harvard University Press, 2004.",
+   "kind": "단행본",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2007-09-28#0",
+   "cite": "Frederick W. Mote, *Imperial China 900-1800*, Harvard University Press, 2003.",
+   "kind": "단행본",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2008-12-14#0",
+   "cite": "김현미, 『18세기 연행록의 전개와 특성』, 혜안, 2007.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": "'(발제 이택선)'은 발제자 표기라 서지에서 제외"
+  },
+  {
+   "rid": "2008-12-14#1",
+   "cite": "후마 스스무, 『연행사와 통신사』, 신서원, 2008.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": "'(발제 이택선)'은 발제자 표기라 서지에서 제외"
+  },
+  {
+   "rid": "2009-03-28#0",
+   "cite": "조천록 연구 동향",
+   "kind": "기타",
+   "drop": false,
+   "url": "",
+   "note": "문헌이 아니라 주제만 적혔으나 그날의 유일한 지시라 남김"
+  },
+  {
+   "rid": "2012-03-24#0",
+   "cite": "차혜원, 「청대 초·중기 정치문화사의 쟁점 분석: '청조체제론'과 '연행록' 연구동향을 중심으로」, 동북아역사재단.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "raw의 '(동북아역사재단)'만 발행처로 옮김. 수록지·연도는 raw에 없음"
+  },
+  {
+   "rid": "2012-10-13#0",
+   "cite": "신채호, 박인호 옮김, 『조선사연구초』, 동재, 2003.",
+   "kind": "단행본",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2012-10-13#1",
+   "cite": "정인보, 박성수 정리, 『정인보의 조선사 연구』, 서원, 2000.",
+   "kind": "단행본",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2012-11-10#0",
+   "cite": "니콜라 디 코스모, 이재정 옮김, 『오랑캐의 탄생』, 황금가지, 2005.",
+   "kind": "단행본",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2013-05-11#0",
+   "cite": "호리 도시카즈, 정병준·이원석·채지혜 옮김, 『중국과 고대 동아시아』, 동국대학교출판부, 2012.",
+   "kind": "단행본",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2013-06-08#0",
+   "cite": "니시지마 사다오, 이성시 엮음, 송완범 옮김, 『일본의 고대사 인식』, 역사비평사, 2008.",
+   "kind": "단행본",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2013-06-08#1",
+   "cite": "가네코 슈이치, 「중국의 입장에서 본 삼국통일」, 『한국고대사연구』 23권, 2001.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2013-06-08#2",
+   "cite": "가네코 슈이치, 「동아시아 세계론」, 『역사와 교육』 12권, 2011.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2013-09-14#0",
+   "cite": "조인성, 「『삼국사기』의 사료적 성격에 대한 종합적 검토」(정구복 외, 『삼국사기의 원전 검토』 서평).",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "서평 대상 표기는 서지 정보라 괄호로 남김"
+  },
+  {
+   "rid": "2014-03-15#0",
+   "cite": "일연, 『삼국유사』 「기이」 1.",
+   "kind": "1차사료",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2014-06-21#0",
+   "cite": "국사편찬위원회, 『중국정사 조선전 2』, 송사·요사·금사·원사·신원사.",
+   "kind": "번역사료",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2014-09-20#0",
+   "cite": "민족문화추진위원회, 『고려사절요』.",
+   "kind": "번역사료",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2014-10-18#0",
+   "cite": "Morris Rossabi (ed.), *China Among Equals*, 1983.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": "출판사는 raw에 없어 비움"
+  },
+  {
+   "rid": "2014-11-15#0",
+   "cite": "『고려사절요』.",
+   "kind": "번역사료",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2014-12-20#0",
+   "cite": "『고려사절요』.",
+   "kind": "번역사료",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2014-12-20#1",
+   "cite": "이익주 논문.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "저자만 있고 논문명·수록지가 없음. 지어내지 않고 raw 그대로 둠"
+  },
+  {
+   "rid": "2014-12-20#2",
+   "cite": "윤영인 논문.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "저자만 있고 논문명·수록지가 없음. 지어내지 않고 raw 그대로 둠"
+  },
+  {
+   "rid": "2015-03-21#0",
+   "cite": "장페이페이 외, 김승일 옮김, 『한중관계사』, 범우사, 2005.",
+   "kind": "단행본",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2015-05-16#0",
+   "cite": "Wang Gungwu and Zheng Yongnian (eds.), *China and the New International Order*, Routledge, 2008.",
+   "kind": "단행본",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2015-05-16#1",
+   "cite": "Zheng Yongnian (ed.), *China and International Relations: The Chinese View and the Contribution of Wang Gungwu*, Routledge, 2010.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2015-05-16#2",
+   "cite": "Barry Buzan and Yongjin Zhang (eds.), *Contesting International Society in East Asia*, Cambridge University Press, 2014.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2015-09-19#0",
+   "cite": "Donald Clark, \"Sino-Korean Tributary Relations under the Ming,\" in *CHOC*, Vol. 8.",
+   "kind": "단행본장",
+   "drop": false,
+   "url": "",
+   "note": "CHOC 는 raw 그대로 두었습니다(케임브리지 중국사 약칭으로 보이나 임의 확장하지 않음)."
+  },
+  {
+   "rid": "2015-12-17#0",
+   "cite": "김종수 외 번역, 『소현심양일기』, 민속원, 2008.",
+   "kind": "번역사료",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2015-12-17#1",
+   "cite": "『심양장계』, 창비, 2008.",
+   "kind": "번역사료",
+   "drop": false,
+   "url": "",
+   "note": "raw 에 역자 표기가 없어 서명·출판사·연도만 남겼습니다."
+  },
+  {
+   "rid": "2015-12-17#2",
+   "cite": "허태구, 「소현세자의 심양억류와 인질체험」.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2015-12-17#3",
+   "cite": "안재원, 「아담 샬, 순치체, 소현세자: 아담을 바라보는 두 시선 사이에 있는 차이에 대해서」.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "'순치체'는 raw 표기 그대로 두었습니다."
+  },
+  {
+   "rid": "2016-04-16#0",
+   "cite": "Yuan Kang Wang, *Harmony and War*.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2016-04-16#1",
+   "cite": "Evely Rawski, *Early Modern China*.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": "저자명 표기는 raw 그대로입니다."
+  },
+  {
+   "rid": "2016-09-24#0",
+   "cite": "노중국, 『백제의 대외교섭과 교류』, 지식산업사, 2012.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": "raw 에 같은 책이 두 형태로 중복돼 있어 서지가 완전한 쪽으로 합쳤습니다."
+  },
+  {
+   "rid": "2016-09-24#1",
+   "cite": "김기섭, 「2014년도 마한·백제사 연구 동향과 성과」.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "raw 의 『』를 논문 표기 「」로 고쳤습니다."
+  },
+  {
+   "rid": "2016-09-24#2",
+   "cite": "문동석, 「최근 백제사 연구 성과와 동향 – 2013년 연구 성과를 대상으로」.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "raw 의 『』를 논문 표기 「」로 고쳤습니다."
+  },
+  {
+   "rid": "2016-09-24#3",
+   "cite": "박윤선, 「백제 국제관계사 연구동향과 시기구분 시론」.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "raw 의 『』를 논문 표기 「」로 고쳤습니다."
+  },
+  {
+   "rid": "2016-09-24#4",
+   "cite": "여호규, 「총론: 6~8세기 동아시아 국제관계사 연구의 진전을 기대하며」.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "raw 의 『』를 논문 표기 「」로 고쳤습니다."
+  },
+  {
+   "rid": "2016-09-24#5",
+   "cite": "유원재, 「백제의 대외관계」.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "raw 의 『』를 논문 표기 「」로 고쳤습니다."
+  },
+  {
+   "rid": "2016-10-29#0",
+   "cite": "구대열, 「장수왕의 외교 정책: 고구려의 '자주외교'의 두 얼굴」, 『국제정치논총』 50(2), 2010.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2016-10-29#1",
+   "cite": "임기환, 「남북조기 한중 책봉·조공 관계의 성격」, 『한국고대사연구』 32, 2003.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2016-10-29#2",
+   "cite": "최일례, 「장수왕대 고구려의 대중외교와 그 동인」, 『한국고대사연구』 71, 2013.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2016-10-29#3",
+   "cite": "김철민, 「고구려 장수왕 대의 대송외교와 그 배경」, 『한국사학보』 63, 2016.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2016-10-29#4",
+   "cite": "김한규, 「동아시아 역사 논쟁과 고구려 역사 논쟁」, 『서강인문논총』 43, 2015.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2016-10-29#5",
+   "cite": "김영천, 「중국 학계의 고구려 대외관계 연구동향」, 『사총』 66, 2008.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2016-10-29#6",
+   "cite": "韓昇, 「남북조와 백제의 정치·문화 관계의 변화」, 1996.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "raw 의 간체 저자명(韩昇)을 그대로 살리려면 韩昇 로 두어도 무방합니다. 학술지명은 raw 에 없어 넣지 않았습니다."
+  },
+  {
+   "rid": "2016-10-29#7",
+   "cite": "孫衛國, 「동심원 이론에서 양극모델 이론으로: 미국 중국학계의 중국고대 조공제도 연구」, 2013.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "raw 는 간체(孙卫国). 학술지명은 raw 에 없어 넣지 않았습니다."
+  },
+  {
+   "rid": "2016-10-29#8",
+   "cite": "黃純艶, 「중국고대 조공체제 연구의 회고와 전망」, 2013.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "raw 는 간체(黄纯艳). 학술지명은 raw 에 없어 넣지 않았습니다."
+  },
+  {
+   "rid": "2016-11-26#0",
+   "cite": "이상훈, 『나당전쟁연구』, 주류성, 2013.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2016-11-26#1",
+   "cite": "廣瀬憲雄, 『東アジアの国際秩序と古代日本』, 吉川弘文館, 2011.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2016-12-17#0",
+   "cite": "육정임, 「고려-거란 '30년 전쟁'과 동아시아 국제질서」, 『동북아역사논총』 34, 2011, 11-52쪽.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2016-12-17#1",
+   "cite": "이승민, 「10~12세기 하생신사 파견과 고려-거란 관계」, 『역사와 현실』 89, 2013, 77-111쪽.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2016-12-17#2",
+   "cite": "최덕환, 「993년 고려-거란 갈등 및 여진 문제」, 『역사와 현실』 85, 2012, 259-303쪽.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2016-12-17#3",
+   "cite": "Remco E. Breuker, \"Koryo as an Independent Realm: The Emperor's Clothes?\", *Korean Studies* 27, 2003, pp. 48-84.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2016-12-17#4",
+   "cite": "노명호, 「고려시대의 다원적 천자관과 해동천자」, 『한국사연구』 105, 1999, 3-40쪽.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2016-12-17#5",
+   "cite": "남의현, 「원말명초 조선-명의 요동쟁탈전과 국경분쟁 고찰」, 『한일관계사연구』 42, 2012, 81-114쪽.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2016-12-17#6",
+   "cite": "도현철, 「고려말기 사대부의 대외관: 화이론을 중심으로」, 『진단학보』 86, 1998, 73-99쪽.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2016-12-17#7",
+   "cite": "안정희, 「조선초기의 사대론」, 『역사교육』 64, 1997, 1-33쪽.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2016-12-17#8",
+   "cite": "장동익, 『고려후기 외교사연구』.",
+   "kind": "단행본",
+   "url": "",
+   "drop": false,
+   "note": "raw에 출판사·연도가 없어 서명만 남김"
+  },
+  {
+   "rid": "2016-12-17#9",
+   "cite": "계승범, 『중종의 시대: 조선의 유교화와 사림운동』 3·4장.",
+   "kind": "단행본장",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2017-03-18#0",
+   "cite": "계승범, 「조선 특사의 後金 방문과 明秩序의 균열」, 『한중관계 2000년: 동행과 공유의 역사』, 소나무, 2008.",
+   "kind": "단행본장",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2017-03-18#1",
+   "cite": "계승범, 「鄕通事 河世國과 조선의 선택」, 『만주연구』 11, 만주학회, 2011.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2017-03-18#2",
+   "cite": "李仁榮, 「申忠一의 建州紀程圖記에 對하야」, 『震檀學報』 10, 1939.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2017-03-18#3",
+   "cite": "장정수, 「16세기 말~17세기 초 朝鮮과 建州女眞의 배후 교섭과 申忠一의 역할」, 『한국인물사연구』 25, 2016.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2017-04-22#0",
+   "cite": "한명기, 「'재조지은'과 조선후기 정치사: 임진왜란~정조대 시기를 중심으로」, 『대동문화연구』 59, 성균관대학교 대동문화연구원, 2007, 191-230쪽.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2017-04-22#1",
+   "cite": "김창수, 「19세기 후반 조선사신의 공식보고와 정치적 파장」, 『사학연구』 106, 한국사학회, 2012, 141-173쪽.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2017-04-22#2",
+   "cite": "김경록, 「17세기 조·청관계와 '왜정'의 군사·외교적 활용」, 『군사』 94, 국방부 군사편찬연구소, 2015, 205-245쪽.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2017-04-22#3",
+   "cite": "이명종, 「17·18세기 조선에서 '만주=故土'의식의 출현과 전개」, 『동아시아문화연구』 58, 한양대학교 동아시아문화연구소, 2014, 213-238쪽.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2017-04-22#4",
+   "cite": "장페이페이 외 지음, 김승일 옮김, 『한중관계사』, 범우, 2005, 476-511쪽.",
+   "kind": "단행본",
+   "url": "",
+   "drop": false,
+   "note": "총서명(북경대학 한국학연구센터 한국학총서)과 발행지 표기는 생략"
+  },
+  {
+   "rid": "2017-09-16#0",
+   "cite": "Feng Zhang, *Chinese Hegemony: Grand Strategy and International Institutions in East Asian History*, 2015.",
+   "kind": "단행본",
+   "url": "",
+   "drop": false,
+   "note": "raw에 출판사 없음"
+  },
+  {
+   "rid": "2017-10-21#0",
+   "cite": "Ji-Young Lee, *China's Hegemony: Four Hundred Years of East Asian Domination*, 2016.",
+   "kind": "단행본",
+   "url": "",
+   "drop": false,
+   "note": "raw에 출판사 없음"
+  },
+  {
+   "rid": "2018-03-17#0",
+   "cite": "Taesuh Cha, \"Competing visions of a postmodern world order: the Philadelphian system versus the Tianxia system\".",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false,
+   "note": "raw에는 논문 제목만 있고 학술지·연도가 없어 저자(항목 authors)만 붙여 둠"
+  },
+  {
+   "rid": "2018-04-21#0",
+   "cite": "은몽하·우호 편, 김한규 역, 『사조선록 역주 1: 송사의 고려 사행록』, 소명출판, 2012.",
+   "kind": "번역사료",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2018-05-19#0",
+   "cite": "예겸·장영 저, 은몽하·우호 편, 김한규 역, 『사조선록 역주 2: 명사의 조선 사행록 1』, 소명출판, 2012.",
+   "kind": "번역사료",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2018-06-09#0",
+   "cite": "Sixiang Wang, \"Co-constructing Empire in Early Choson Korea: Knowledge Production and the Culture of Diplomacy, 1392-1592\", Columbia University 박사학위논문, 2015.",
+   "kind": "학위논문",
+   "url": "",
+   "drop": false,
+   "note": "raw가 박사학위 논문임을 명시하므로 kind를 학술논문에서 학위논문으로 수정"
+  },
+  {
+   "rid": "2018-10-20#0",
+   "cite": "동월·공용경 저, 은몽하·우호 편, 김한규 역, 『사조선록 역주 3: 명사의 조선 사행록 2』, 소명출판, 2012.",
+   "kind": "번역사료",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2018-11-24#0",
+   "cite": "은몽하·우호 편, 김한규 역, 『사조선록 역주 4: 명사의 조선 사행록 3』, 소명출판, 2012.",
+   "kind": "번역사료",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2018-11-24#1",
+   "cite": "주지번, 『봉사조선고』, 1606.",
+   "kind": "번역사료",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2018-11-24#2",
+   "cite": "강왈광, 『유헌기사』, 1626.",
+   "kind": "번역사료",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2018-12-15#0",
+   "cite": "은몽하·우호 편, 김한규 역, 『사조선록 역주 5: 청사의 조선 사행록』, 소명출판, 2012.",
+   "kind": "번역사료",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2019-10-19#0",
+   "cite": "『동아시아 천하질서와 한국의 생존전략사』 원고 드래프트(서론 포함 전 챕터).",
+   "kind": "기타",
+   "drop": false,
+   "url": "",
+   "note": "연구회 자체 집필 원고 검토라 외부 문헌은 아님. 진행 안내로 보아 빼도 무방."
+  },
+  {
+   "rid": "2019-10-19#1",
+   "cite": "Matthew Mosca (University of Washington), \"Neither Chinese Nor Outsiders,\" JHU HGSA Seminar, 2019. 10. 28.",
+   "kind": "기타",
+   "drop": false,
+   "url": "",
+   "note": "세미나 발표문(미간행)."
+  },
+  {
+   "rid": "2019-12-21#0",
+   "cite": "",
+   "kind": "번역사료",
+   "drop": true,
+   "url": "",
+   "note": "내년 공부 주제 1차 후보로 거론만 된 것."
+  },
+  {
+   "rid": "2019-12-21#1",
+   "cite": "*Sacred Mandates*, 2018.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": "모임에서 언급된 뒤 파일 회람. raw에 저자·부제 없음."
+  },
+  {
+   "rid": "2020-03-21#0",
+   "cite": "Charles H. Parker, *Global Interactions in the Early Modern Age, 1400-1800*, 2010, 서문·1장·6장·결론.",
+   "kind": "단행본",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2020-03-21#1",
+   "cite": "David Mungello, *The Great Encounter of China and the West, 1500-1800*, 1999, 1·2·3장.",
+   "kind": "단행본",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2020-03-21#2",
+   "cite": "부산대학교 점필재연구소 고전번역학센터 편, 『동아시아, 근대를 번역하다: 문명의 전환과 고전의 발견』, 2013 중 「양치차오의 신대륙유기(1903): 근대 중국 계몽주의의 기향지」.",
+   "kind": "단행본장",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2020-03-21#3",
+   "cite": "야마무로 신이치, 정선태·윤대석 옮김, 『사상과제로서의 아시아』, 2장·4장.",
+   "kind": "단행본장",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2020-03-21#4",
+   "cite": "",
+   "kind": "단행본장",
+   "drop": true,
+   "url": "",
+   "note": "같은 메일의 발제 배분 목록 — 2020-03-21#0과 중복."
+  },
+  {
+   "rid": "2020-03-21#5",
+   "cite": "",
+   "kind": "단행본장",
+   "drop": true,
+   "url": "",
+   "note": "발제 배분 목록 — 2020-03-21#1과 중복."
+  },
+  {
+   "rid": "2020-03-21#6",
+   "cite": "",
+   "kind": "단행본",
+   "drop": true,
+   "url": "",
+   "note": "Mungello 책의 한국어 번역본을 참고해도 좋겠다는 제안."
+  },
+  {
+   "rid": "2020-03-21#7",
+   "cite": "",
+   "kind": "단행본장",
+   "drop": true,
+   "url": "",
+   "note": "발제 배분 목록 — 2020-03-21#2와 중복."
+  },
+  {
+   "rid": "2020-03-21#8",
+   "cite": "",
+   "kind": "단행본",
+   "drop": true,
+   "url": "",
+   "note": "발제자 지원 요청(진행 안내) — 2020-03-21#1과 중복."
+  },
+  {
+   "rid": "2020-04-18#0",
+   "cite": "김봉진, 논문 2편.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "raw에 논문 제목이 없어 저자와 편수만 남김."
+  },
+  {
+   "rid": "2020-06-20#0",
+   "cite": "Amitav Acharya, \"Global International Relations and Regional Worlds,\" *International Studies Quarterly*, 2014, 647-659.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2020-06-20#1",
+   "cite": "Andrew Philips, \"Global IR Meets Global History: Sovereignty, Modernity, and the International System's Expansion in the Indian Ocean Region,\" *International Studies Review*, 2016, 62-77.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "raw 철자 그대로 둠(Philips)."
+  },
+  {
+   "rid": "2020-06-20#2",
+   "cite": "Marshall Hodgson, \"Interrelations of Societies in History,\" *Comparative Studies in Society and History*, 1963, 227-250.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2020-06-20#3",
+   "cite": "Sanjay Subrahmanyam, \"Connected Histories: Notes towards a Reconfiguration of Early Modern Eurasia,\" *Modern Asian Studies*, 1997, 735-762.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2020-06-20#4",
+   "cite": "Victor Lieberman, *Strange Parallels: South Asia in Global Context, c.800-1830*, Volume 2: *Mainland Mirrors: Europe, Japan, China, South Asia, and Islands*, Cambridge University Press, 1-117.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": "raw에 'South Asia in Global Context'로 적혀 있어 그대로 둠(원서 부제는 Southeast Asia)."
+  },
+  {
+   "rid": "2020-06-20#5",
+   "cite": "John Darwin, *After Tamerlane: The Rise and Fall of Global Empires, 1400-2000*, Bloomsbury Press.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": "raw에 연도 없음."
+  },
+  {
+   "rid": "2020-10-10#0",
+   "cite": "김종학, 「강위의 연행과 대일정책의 전환(1874-1876)」.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2020-10-10#1",
+   "cite": "김종학, 「'개화'의 수용과 근대 정치변동(1876~1895)」.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": ""
+  },
+  {
+   "rid": "2020-10-10#2",
+   "cite": "강위, 『북유속담초(北游續談草)』, 김종학 역.",
+   "kind": "번역사료",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2020-10-10#3",
+   "cite": "강위, 『북유담초(北游談草)』, 김종학 역.",
+   "kind": "번역사료",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2020-10-10#4",
+   "cite": "강위, 『심행잡기(沁行雜記)』, 김종학 역.",
+   "kind": "번역사료",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2020-10-10#5",
+   "cite": "",
+   "kind": "기타",
+   "url": "",
+   "drop": true,
+   "note": "자료 발송 안내 문장일 뿐 문헌 지시가 없음"
+  },
+  {
+   "rid": "2020-10-10#6",
+   "cite": "",
+   "kind": "기타",
+   "url": "",
+   "drop": true,
+   "note": "자료 발송 안내 문장일 뿐 문헌 지시가 없음"
+  },
+  {
+   "rid": "2020-11-26#0",
+   "cite": "이헌미, 『반역의 정치학: 대한제국기 혁명의 개념사』, 지식공감, 2020.",
+   "kind": "단행본",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2020-11-26#1",
+   "cite": "길윤미·문경자, 「혁명의 개념 변화에 관한 고찰: 프랑스와 러시아의 경우를 중심으로」, 『동서인문』 2집, 2014.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2020-11-26#2",
+   "cite": "윤대원, 「한말 입헌정체 논의와 민주공화의 의미」, 『한국문화』 88호, 2019.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2020-11-26#3",
+   "cite": "이정훈, 「명치흠정헌법의 성립과 한국개화파의 추종」, 『법철학연구』 15권 2호, 2012.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2021-03-24#0",
+   "cite": "Liu Xincheng, \"The Global View of History in China,\" 2012.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2021-03-24#1",
+   "cite": "Masashi Haneda, \"Japanese Perspectives on 'Global History',\" 2015.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2021-03-24#2",
+   "cite": "Nae-hyun Kwon and Joseph Jeong-il Lee, \"Global History and East Asia: A Late Choson Perspective,\" 2012.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2021-03-24#3",
+   "cite": "Ge Zhaoguang, \"The Evolution of a World Consciousness in Traditional Chinese Historiography,\" 2020.",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2021-03-24#4",
+   "cite": "Axel Schneider and Susanne Weigelin-Schwiedrzik, \"The 'Global' and the 'Local' in Early Modern and Modern East Asia.\"",
+   "kind": "학술논문",
+   "url": "",
+   "drop": false,
+   "note": "raw에 연도·수록지 정보가 없어 제목·저자만 남김"
+  },
+  {
+   "rid": "2021-04-27#0",
+   "cite": "Brian P. Farrell et al., *Empire in Asia: A New Global History*, Vol. 1, Bloomsbury Academic, 2018.",
+   "kind": "단행본",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2021-04-27#1",
+   "cite": "Brian P. Farrell (ed.), *Empire in Asia: A New Global History*, Vol. 1.",
+   "kind": "단행본",
+   "url": "",
+   "drop": false,
+   "note": "첨부파일 안내를 떼면 2021-04-27#0·#3과 같은 문헌 — 병합 대상"
+  },
+  {
+   "rid": "2021-04-27#2",
+   "cite": "Paul Werth, \"Northern Eurasia, 1300-1800: Russian Imperial Practice from Tsardom to Empire.\"",
+   "kind": "단행본장",
+   "url": "",
+   "drop": false,
+   "note": "발제 순번과 소속 표기를 제거. 수록서는 raw에 없어 넣지 않음"
+  },
+  {
+   "rid": "2021-04-27#3",
+   "cite": "Brian P. Farrell, *Empire in Asia: A New Global History*, Vol. 1, 2018.",
+   "kind": "단행본",
+   "url": "",
+   "drop": false,
+   "note": "2021-04-27#0과 같은 문헌 — 병합 대상"
+  },
+  {
+   "rid": "2021-05-25#0",
+   "cite": "Brian P. Farrell et al., *Empire in Asia: A New Global History*, Vol. 2, Bloomsbury Academic, 2018.",
+   "kind": "단행본",
+   "url": "",
+   "drop": false
+  },
+  {
+   "rid": "2021-05-25#1",
+   "cite": "Brian P. Farrell, *Empire in Asia: A New Global History*, Vol. 2, 2018.",
+   "kind": "단행본",
+   "url": "",
+   "drop": false,
+   "note": "2021-05-25#0과 같은 문헌 — 병합 대상"
+  },
+  {
+   "rid": "2021-05-25#2",
+   "cite": "Paul W. Werth, \"Human Mobility in Russia's Asian Empire.\"",
+   "kind": "단행본장",
+   "url": "",
+   "drop": false,
+   "note": "발제 순번과 소속 표기를 제거"
+  },
+  {
+   "rid": "2021-10-26#0",
+   "cite": "Carrai, *Sovereignty in China: A Genealogy of a Concept since 1840*, Cambridge University Press, 2019.",
+   "kind": "단행본",
+   "url": "",
+   "drop": false,
+   "note": "raw에 성(Carrai)만 있어 이름은 보태지 않음"
+  },
+  {
+   "rid": "2021-10-26#1",
+   "cite": "\"International Law and the Sinocentric Ritual System: A Nineteenth-Century Clash of Normative Orders.\"",
+   "kind": "단행본장",
+   "url": "",
+   "drop": false,
+   "note": "발제자 배정 표기를 제거. 저자·수록서는 raw에 없음"
+  },
+  {
+   "rid": "2021-10-26#2",
+   "cite": "\"Secularizing a Sacred Empire: Early Translations and Uses of International Law.\"",
+   "kind": "단행본장",
+   "url": "",
+   "drop": false,
+   "note": "발제자 배정 표기를 제거"
+  },
+  {
+   "rid": "2021-10-26#3",
+   "cite": "\"China's Struggle for Survival and the New Darwinist Conception of International Society (1895–1911).\"",
+   "kind": "단행본장",
+   "url": "",
+   "drop": false,
+   "note": "발제자 배정 표기를 제거"
+  },
+  {
+   "rid": "2021-10-26#4",
+   "cite": "\"China Rejoining the World and Its Fictional Sovereignty (1912–1949).\"",
+   "kind": "단행본장",
+   "url": "",
+   "drop": false,
+   "note": "발제자 배정 표기를 제거"
+  },
+  {
+   "rid": "2021-10-26#5",
+   "cite": "Carrai, \"From Proletarian Revolution to Peaceful Coexistence: Sovereignty in the PRC (1949–1989),\" in *Sovereignty in China: A Genealogy of a Concept since 1840*, Cambridge University Press, 2019, ch. 5.",
+   "kind": "단행본장",
+   "drop": false,
+   "url": "",
+   "note": "발제자 표기(전재성 선생님) 제거. 모체 단행본 정보는 같은 세션 2021-10-26#0 raw에서 옴"
+  },
+  {
+   "rid": "2021-10-26#6",
+   "cite": "Carrai, \"Historical Legacies, Globalization, and Chinese Sovereignty since 1989,\" in *Sovereignty in China: A Genealogy of a Concept since 1840*, Cambridge University Press, 2019, ch. 6.",
+   "kind": "단행본장",
+   "drop": false,
+   "url": "",
+   "note": "발제자 표기(김수암 선생님) 제거. 모체 단행본 정보는 같은 세션 2021-10-26#0 raw에서 옴"
+  },
+  {
+   "rid": "2021-11-30#0",
+   "cite": "Kim, Jonghak, \"Was Korea Ever a Part of China?: A Historical Review,\" *IFANS Perspectives*, 2021.",
+   "kind": "보고서",
+   "drop": false,
+   "url": "",
+   "note": "원래 kind 비어 있었음. IFANS Perspectives는 국립외교원 발간 브리프라 보고서로 둠"
+  },
+  {
+   "rid": "2021-11-30#1",
+   "cite": "Wang, Yuanchong, \"Provincializing Korea: The Construction of the Chinese Empire in the Borderland and the Rise of the Modern Chinese State,\" *T’oung Pao* 105, 2019, pp. 128–182.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2021-12-15#0",
+   "cite": "Kim, Jonghak, \"Was Korea Ever a Part of China?: A Historical Review,\" *IFANS Perspectives*, 2021.",
+   "kind": "보고서",
+   "drop": false,
+   "url": "",
+   "note": "11월 모임 문헌이 12월에 다시 지정된 것으로 보임(중복이지만 그날의 읽을거리라 남김)"
+  },
+  {
+   "rid": "2021-12-15#1",
+   "cite": "Wang, Yuanchong, \"Provincializing Korea: The Construction of the Chinese Empire in the Borderland and the Rise of the Modern Chinese State,\" *T’oung Pao* 105, 2019, pp. 128–182.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "11월 모임 문헌 재지정"
+  },
+  {
+   "rid": "2021-12-15#2",
+   "cite": "김봉진, 「조선=속국, 속방 개념사」, 미간행 단행본 원고 제5장.",
+   "kind": "단행본장",
+   "drop": false,
+   "url": "",
+   "note": "\"옥고\", \"조만간 단행본으로 출간하실\", 첨부파일 안내는 제거"
+  },
+  {
+   "rid": "2021-12-15#3",
+   "cite": "김봉진, 「사대의 재해석」, 미간행 단행본 원고 제8장.",
+   "kind": "단행본장",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2022-04-19#0",
+   "cite": "김종학, 『흥선대원군 평전』.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": "raw에 출판사·연도 없어 채우지 않음. \"졸저\", \"스캔본\", 서론만 읽어달라는 안내는 제거"
+  },
+  {
+   "rid": "2022-04-19#1",
+   "cite": "김종학, 「조일수호조규 체결 전후 강위의 대일인식」.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "raw의 『』를 논문 관행대로 「」로. 학술지·연도 정보 없음"
+  },
+  {
+   "rid": "2022-05-24#0",
+   "cite": "오드 아르네 베스타, 옥창준 역, 『제국과 의로운 민족』, 너머북스, 2022.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2023-03-30#0",
+   "cite": "동주·신일철 대담, 『사대주의』.",
+   "kind": "1차사료",
+   "drop": false,
+   "url": "",
+   "note": "raw가 이미 『』라 그대로 둠. \"유명한\" 등 수식은 제거"
+  },
+  {
+   "rid": "2023-03-30#1",
+   "cite": "오카모토 다카시 편, 『宗主權の世界史』, 名古屋大学出版会, 2014.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": "영문판으로 회람되었고 서론·1·3·6·9장이 지정되었으나, 첨부·독서범위 안내는 제거"
+  },
+  {
+   "rid": "2023-03-30#2",
+   "cite": "Yuan Yi Zhu, \"Suzerainty, Semi-Sovereignty, and International Legal Hierarchies on China's Borderlands,\" *Asian Journal of International Law* 10, 2020.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "raw의 \"no.10\"은 권호 표기로 정리"
+  },
+  {
+   "rid": "2023-04-27#0",
+   "cite": "",
+   "kind": "기타",
+   "drop": true,
+   "url": "",
+   "note": "개별 문헌이 아니라 그날 회람 전체를 알리는 안내문(실제 문헌은 같은 세션 #1~#3)"
+  },
+  {
+   "rid": "2023-04-27#1",
+   "cite": "손성욱, 「최근 중국학계의 근대 한중관계사 연구(2007~2016)」.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2023-04-27#2",
+   "cite": "손성욱, 「종번과 중화로 청 제국을 볼 수 있는가」.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2023-04-27#3",
+   "cite": "Yang Nianqun(杨念群), \"'Great Unification,' 'China,' and 'All-under-Heaven'\" (영문 번역본).",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "raw에는 제목이 없고 항목의 title 필드에만 있어 그것을 씀. 학술지·연도 미상"
+  },
+  {
+   "rid": "2023-08-01#0",
+   "cite": "Perez-Garcia, Manuel, *Global History with Chinese Characteristics*, Palgrave, 2021.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2023-08-01#1",
+   "cite": "Witt, Antonia et al., \"How to Problematize the Global?,\" *Millennium* 51(1), 2022, pp. 33–80.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": ""
+  },
+  {
+   "rid": "2023-12-15#0",
+   "cite": "",
+   "kind": "기타",
+   "drop": true,
+   "url": "",
+   "note": "같은 세션 #1과 동일 문헌이고 내용은 진행 안내(나누어 발제하겠다)라 뺌"
+  },
+  {
+   "rid": "2023-12-15#1",
+   "cite": "*The Oxford Handbook of History and International Relations*, Oxford University Press, 2023.",
+   "kind": "단행본",
+   "drop": false,
+   "url": "",
+   "note": "raw에 편자 없음. 발제 챕터 배분(1, 3, 5~12 …)은 제거"
+  },
+  {
+   "rid": "2023-12-15#2",
+   "cite": "최인호·권민주, 공저 논문.",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "https://journals.sagepub.com/doi/10.1177/13540661241228470",
+   "note": "raw에 제목·학술지·연도가 전혀 없고 링크만 있어 최소 표기. DOI로부터 서지를 추정해 넣지 않음"
+  },
+  {
+   "rid": "2024-03-19#0",
+   "cite": "Hansong Li, book manuscript(미간행 단행본 원고).",
+   "kind": "기타",
+   "drop": false,
+   "url": "",
+   "note": "raw가 \"the book manuscript\" 한 줄뿐. 제목 정보 없음"
+  },
+  {
+   "rid": "2024-04-29#0",
+   "cite": "용채영, \"Security Protest\" (draft, 2024. 4. 25.).",
+   "kind": "학술논문",
+   "drop": false,
+   "url": "",
+   "note": "파일명에서 제목·초고 일자만 살리고, 재회람 경위 설명은 제거"
+  },
+  {
+   "rid": "2024-05-27#0",
+   "cite": "변성호, 「혁명 개념사로 본 20세기 한국정치사 — 3.1운동부터 4.19와 5.16까지」, 박사학위논문.",
+   "kind": "학위논문",
+   "drop": false,
+   "url": "",
+   "note": "제4장 「4.19와 5.16의 혁명담론」 중심 발표라는 진행 안내는 제거"
+  },
+  {
+   "rid": "2024-10-21#0",
+   "cite": "*International Theory* 「Global International Relations and the Essentialism Trap」 수록 특집 중 Martin Bayly의 글을 제외한 논문.",
+   "url": "https://www.cambridge.org/core/journals/international-theory/article/global-international-relations-and-the-essentialism-trap/A288F57AB2974E5C4746D13B7EDD445E",
+   "kind": "학술논문",
+   "drop": false,
+   "note": "raw가 링크 하나와 범위 지시문뿐이라, 링크에 담긴 저널명·논문명만으로 정돈함(utm 추적 파라미터는 제거). 같은 회차의 #1·#3이 특집명을 명시함."
+  },
+  {
+   "rid": "2024-10-21#1",
+   "cite": "「Symposium: A Symposium on Global IR」, *International Theory* 15(3) 중 Martin Bayly의 글을 제외한 논문.",
+   "url": "",
+   "kind": "학술논문",
+   "drop": false,
+   "note": "뒤이은 #3에서 특집 전체로 범위가 확대되었으나, 이 항목 자체는 문헌 지시이므로 남김."
+  },
+  {
+   "rid": "2024-10-21#2",
+   "cite": "",
+   "url": "",
+   "kind": "기타",
+   "drop": true,
+   "note": "읽기자료 범위 변경 공지(진행 안내)로, 서지 정보가 없음. Bayly의 글은 #3의 특집 전체에 포함됨."
+  },
+  {
+   "rid": "2024-10-21#3",
+   "cite": "「Symposium: A Symposium on Global IR」, *International Theory* 15(3) 전체 논문.",
+   "url": "",
+   "kind": "학술논문",
+   "drop": false,
+   "note": "raw의 링크는 실제 URL이 아니라 링크 표시 텍스트(\"International Theory: Volume 15 - Issue 3 | Cambridge Core\")뿐이라 url 비움."
+  },
+  {
+   "rid": "2025-03-27#0",
+   "cite": "「The Global Network of Liberty: Toward a New Framework for Understanding the History of Political Concepts」.",
+   "url": "",
+   "kind": "학술논문",
+   "drop": false,
+   "note": "raw에서 Shoufu Yin은 \"비교해서 말씀드리겠다\"는 대상으로만 언급돼, 이 논문의 저자인지 확정할 수 없어 저자를 넣지 않음. 제목은 공유된 PDF 파일명에서 복원."
+  },
+  {
+   "rid": "2025-07-22#0",
+   "cite": "전재성, 『미래 세계정치질서와 권역이론』.",
+   "url": "",
+   "kind": "단행본",
+   "drop": false,
+   "note": "raw에 출판사·연도가 없어 채우지 않음."
+  },
+  {
+   "rid": "2025-10-15#0",
+   "cite": "홍대용, 『담헌서』 중 「의산문답」, 「燕記」(유포문답, 관상대, 천상대), 「籠水閣儀器志」, 「건정동필담」.",
+   "url": "http://db.itkc.or.kr/inLink?DCI=ITKC_BT_0560A_0010_000_0010_2002_001_XML",
+   "kind": "1차사료",
+   "drop": false,
+   "note": "번역문 링크는 읽기 편의로 안내된 것이라 지시 대상은 담헌서 본문으로 보고 1차사료 유지."
+  },
+  {
+   "rid": "2025-10-15#1",
+   "cite": "",
+   "url": "",
+   "kind": "단행본",
+   "drop": true,
+   "note": "\"(모임 후 제안) 미래의 한외사 도서 목록에 …추가하면 어떨까\" — 읽은 글이 아니라 제안."
+  }
+ ]
+}

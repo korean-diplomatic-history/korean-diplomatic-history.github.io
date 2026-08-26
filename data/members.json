@@ -1,0 +1,351 @@
+{
+ "title": "참여 연구자",
+ "kicker": "",
+ "lede": "",
+ "meta_description": "한국외교사연구회 참여 연구자.",
+ "note": "",
+ "active_label": "참여 연구자",
+ "alumni_label": "함께했던 분들",
+ "entries": [
+  {
+   "name": "이헌미",
+   "affil": "",
+   "note": "",
+   "sessions": 32,
+   "appearances": 43,
+   "last": "2024-10-21",
+   "active": false,
+   "span": "2006–2020"
+  },
+  {
+   "name": "하영선",
+   "affil": "동아시아연구원 이사장",
+   "note": "",
+   "sessions": 15,
+   "appearances": 41,
+   "last": "2025-03-27",
+   "active": true,
+   "span": "2011–2023"
+  },
+  {
+   "name": "전재성",
+   "affil": "서울대학교 정치외교학부",
+   "note": "",
+   "sessions": 18,
+   "appearances": 35,
+   "last": "2025-07-22",
+   "active": true,
+   "span": "2011–2025"
+  },
+  {
+   "name": "김준석",
+   "affil": "",
+   "note": "",
+   "sessions": 21,
+   "appearances": 26,
+   "last": "2024-10-21",
+   "active": false,
+   "span": "2012–2021"
+  },
+  {
+   "name": "김현철",
+   "affil": "전 동북아역사재단",
+   "note": "",
+   "sessions": 17,
+   "appearances": 26,
+   "last": "2025-03-27",
+   "active": true,
+   "span": "2011–2023"
+  },
+  {
+   "name": "김수암",
+   "affil": "",
+   "note": "",
+   "sessions": 15,
+   "appearances": 22,
+   "last": "2024-10-21",
+   "active": false,
+   "span": "2011–2021"
+  },
+  {
+   "name": "최인호",
+   "affil": "경기대학교 정치외교학전공",
+   "note": "",
+   "sessions": 16,
+   "appearances": 21,
+   "last": "2025-11-17",
+   "active": true,
+   "span": "2013–2025"
+  },
+  {
+   "name": "김성배",
+   "affil": "",
+   "note": "",
+   "sessions": 8,
+   "appearances": 20,
+   "last": "2023-03-30",
+   "active": false,
+   "span": "2011–2016"
+  },
+  {
+   "name": "손병권",
+   "affil": "",
+   "note": "",
+   "sessions": 14,
+   "appearances": 20,
+   "last": "2024-10-21",
+   "active": false,
+   "span": "2014–2021"
+  },
+  {
+   "name": "김봉진",
+   "affil": "기타큐슈시립대학 명예교수",
+   "note": "",
+   "sessions": 13,
+   "appearances": 19,
+   "last": "2025-10-15",
+   "active": true,
+   "span": "2011–2025"
+  },
+  {
+   "name": "노가연",
+   "affil": "",
+   "note": "",
+   "sessions": 11,
+   "appearances": 11,
+   "last": "2024-10-21",
+   "active": false,
+   "span": "2016–2021"
+  },
+  {
+   "name": "김종학",
+   "affil": "서울대학교 정치외교학부",
+   "note": "",
+   "sessions": 10,
+   "appearances": 10,
+   "last": "2025-05-28",
+   "active": true,
+   "span": "2020–2025"
+  },
+  {
+   "name": "주연정",
+   "affil": "",
+   "note": "",
+   "sessions": 8,
+   "appearances": 8,
+   "last": "2019-03-16",
+   "active": false,
+   "span": "2017–2019"
+  },
+  {
+   "name": "차태서",
+   "affil": "서울대학교 정치외교학부",
+   "note": "",
+   "sessions": 7,
+   "appearances": 8,
+   "last": "2025-11-17",
+   "active": true,
+   "span": "2018–2025"
+  },
+  {
+   "name": "옥창준",
+   "affil": "한국학중앙연구원",
+   "note": "",
+   "sessions": 6,
+   "appearances": 6,
+   "last": "2024-10-21",
+   "active": true,
+   "span": "2013–2024"
+  },
+  {
+   "name": "권민주",
+   "affil": "채프먼대학교",
+   "note": "",
+   "sessions": 4,
+   "appearances": 5,
+   "last": "2025-03-27",
+   "active": true,
+   "span": "2012–2023"
+  },
+  {
+   "name": "송지예",
+   "affil": "고려대학교",
+   "note": "",
+   "sessions": 4,
+   "appearances": 5,
+   "last": "2025-10-15",
+   "active": true,
+   "span": "2014–2024"
+  },
+  {
+   "name": "이택선",
+   "affil": "",
+   "note": "",
+   "sessions": 3,
+   "appearances": 5,
+   "last": "2015-03-21",
+   "active": false,
+   "span": "2008–2015"
+  },
+  {
+   "name": "신수정",
+   "affil": "",
+   "note": "",
+   "sessions": 4,
+   "appearances": 4,
+   "last": "2018-12-15",
+   "active": false,
+   "span": "2018"
+  },
+  {
+   "name": "김헌준",
+   "affil": "",
+   "note": "",
+   "sessions": 2,
+   "appearances": 3,
+   "last": "2015-12-17",
+   "active": false,
+   "span": "2014–2015"
+  },
+  {
+   "name": "용채영",
+   "affil": "",
+   "note": "",
+   "sessions": 3,
+   "appearances": 3,
+   "last": "2024-10-21",
+   "active": false,
+   "span": "2013–2024"
+  },
+  {
+   "name": "이원덕",
+   "affil": "",
+   "note": "",
+   "sessions": 0,
+   "appearances": 3,
+   "last": "2015-03-21",
+   "active": false,
+   "span": "2012–2015"
+  },
+  {
+   "name": "정연",
+   "affil": "",
+   "note": "",
+   "sessions": 3,
+   "appearances": 3,
+   "last": "2023-03-30",
+   "active": false,
+   "span": "2012–2013"
+  },
+  {
+   "name": "김민수",
+   "affil": "케임브리지대학교 박사과정",
+   "note": "",
+   "sessions": 2,
+   "appearances": 2,
+   "last": "2025-07-22",
+   "active": true,
+   "span": "2023"
+  },
+  {
+   "name": "김호인",
+   "affil": "",
+   "note": "",
+   "sessions": 1,
+   "appearances": 1,
+   "last": "2018-11-24",
+   "active": false,
+   "span": "2018"
+  },
+  {
+   "name": "변성호",
+   "affil": "서울대학교 국제문제연구소",
+   "note": "",
+   "sessions": 1,
+   "appearances": 1,
+   "last": "2024-10-21",
+   "active": true,
+   "span": "2024"
+  },
+  {
+   "name": "손성욱",
+   "affil": "",
+   "note": "",
+   "sessions": 1,
+   "appearances": 1,
+   "last": "2023-04-27",
+   "active": false,
+   "span": "2023"
+  },
+  {
+   "name": "오인환",
+   "affil": "동아시아연구원",
+   "note": "",
+   "sessions": 1,
+   "appearances": 1,
+   "last": "2025-10-15",
+   "active": true,
+   "span": "2023"
+  },
+  {
+   "name": "최은실",
+   "affil": "",
+   "note": "",
+   "sessions": 1,
+   "appearances": 1,
+   "last": "2025-11-17",
+   "active": false,
+   "span": "2013"
+  },
+  {
+   "name": "최진백",
+   "affil": "",
+   "note": "",
+   "sessions": 1,
+   "appearances": 1,
+   "last": "2018-10-20",
+   "active": false,
+   "span": "2018"
+  },
+  {
+   "name": "태희준",
+   "affil": "",
+   "note": "",
+   "sessions": 1,
+   "appearances": 1,
+   "last": "2022-05-24",
+   "active": false,
+   "span": "2021"
+  },
+  {
+   "name": "김재영",
+   "affil": "샌디에고 주립대학교",
+   "note": "",
+   "sessions": 0,
+   "appearances": 0,
+   "last": "9999-12-31",
+   "active": true,
+   "span": ""
+  },
+  {
+   "name": "송지혜",
+   "affil": "서울대학교 정치외교학부 박사과정",
+   "note": "",
+   "sessions": 0,
+   "appearances": 0,
+   "last": "9999-12-31",
+   "active": true,
+   "span": ""
+  },
+  {
+   "name": "허수진",
+   "affil": "아메리칸대학교",
+   "note": "",
+   "sessions": 0,
+   "appearances": 0,
+   "last": "9999-12-31",
+   "active": true,
+   "span": ""
+  }
+ ]
+}
