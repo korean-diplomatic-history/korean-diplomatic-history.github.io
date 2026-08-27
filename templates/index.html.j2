@@ -42,12 +42,12 @@
     <h2 class="section-title">연구회의 시기</h2>
     <div class="era-grid">
       {% for era in sessions.eras %}
-      <div class="era-card">
+      <a class="era-card" href="{{ era.href }}">
         <div class="era-range">{{ era.range }}</div>
         <h3>{{ era.label }}</h3>
         <p>{{ era.note }}</p>
         <div class="era-count">{{ era.count }}회</div>
-      </div>
+      </a>
       {% endfor %}
     </div>
   </div>

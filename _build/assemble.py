@@ -49,8 +49,11 @@ ERAS = [
      "『연행록 선집』과 18세기 지성사 연구서", "2006-01-01", "2010-12-31"),
     ("yeonhaeng", "연행록연구회", "2011–2012",
      "조천록·연행록과 그 연구", "2011-01-01", "2012-08-31"),
-    ("hanoesa", "한국외교사연구회", "2012–",
-     "『역주 중국정사 조선전』·『사조선록 역주』에서 근대 개념사까지", "2012-09-01", "2099-12-31"),
+    ("saengjon", "동아시아 천하질서와 한국의 생존전략", "2012–2019",
+     "『역주 중국정사 조선전』과 『사조선록 역주』 통독, 그리고 공동 집필",
+     "2012-09-01", "2019-12-31"),
+    ("hanoesa", "지구 문명사적 관점에서 본 한국외교사", "2020–",
+     "근세 글로벌 히스토리와 비교제국사, 주권과 개념사", "2020-01-01", "2099-12-31"),
 ]
 
 
@@ -175,6 +178,16 @@ def autotrim(im, rounds=4):
             break
         im = im.crop((c, c, W - c, H - c))
     return im
+
+
+def member_order(counts, overrides):
+    """명단 차례. overrides 의 member_order 에 적힌 순서를 먼저 따르고,
+    거기 없는 사람은 기록에 남은 횟수 순으로 뒤에 붙인다."""
+    fixed = [n for n in overrides.get("member_order", []) if n in counts]
+    rest = sorted((kv for kv in counts.items() if kv[0] not in fixed),
+                  key=lambda kv: (-kv[1], kv[0]))
+    out = [(n, counts[n]) for n in fixed] + rest
+    return [(n, c) for n, c in out if n not in overrides.get("exclude", [])]
 
 
 def norm_label(title: str, iso: str) -> str:
@@ -706,8 +719,7 @@ def main() -> None:
                      "span": ("" if not first[n] else
                               first[n][:4] if first[n][:4] == last[n][:4]
                               else f"{first[n][:4]}–{last[n][:4]}")}
-                    for n, c in sorted(counts.items(), key=lambda kv: (-kv[1], kv[0]))
-                    if n not in overrides.get("exclude", [])],
+                    for n, c in member_order(counts, overrides)],
     }, ensure_ascii=False, indent=1), encoding="utf-8")
 
 

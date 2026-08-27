@@ -821,3 +821,11 @@ footer .foot-edit:hover { color: var(--teal); border-color: var(--teal); text-de
                border-color: var(--teal-light); }
 .photo img { width: 100%; height: auto; display: block; background: var(--band);
              border: 1px solid rgba(26,32,39,0.10); }
+
+/* 시기 배지 — 생존전략 국면 */
+.badge-saengjon { background: var(--sand-light); color: var(--sand); }
+/* 시기 카드는 그 시기가 시작되는 자리로 뛴다 */
+a.era-card { display: block; text-decoration: none; color: inherit; }
+a.era-card:hover h3 { color: var(--teal-dark); }
+a.era-card::after { content: "↓"; display: block; margin-top: 0.5rem; font-size: 0.78rem; color: var(--faint); }
+a.era-card:hover::after { color: var(--teal); }

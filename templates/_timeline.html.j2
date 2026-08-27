@@ -7,7 +7,7 @@
   {% set ns.year = s.year %}
   <div class="year-rule"><span class="y">{{ s.year }}</span><span class="r"></span></div>
   {% endif %}
-  <div class="timeline-item">
+  <div class="timeline-item"{% if s.get('era_anchor') %} id="era-{{ s.era_anchor }}"{% endif %}>
     <div class="timeline-date">{{ s.date_display }}{% if s.venue %} · {{ s.venue }}{% endif %}</div>
     <div class="timeline-title">
       {% if show_era %}<span class="timeline-badge badge-{{ s.era }}">{{ era_labels[s.era] }}</span>{% endif %}

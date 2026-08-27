@@ -15,12 +15,12 @@
   <div class="container">
     <div class="era-grid">
       {% for era in past_eras %}
-      <div class="era-card">
+      <a class="era-card" href="{{ era.href }}">
         <div class="era-range">{{ era.range }}</div>
         <h3>{{ era.label }}</h3>
         <p>{{ era.note }}</p>
         <div class="era-count">{{ era.count }}회</div>
-      </div>
+      </a>
       {% endfor %}
     </div>
   </div>

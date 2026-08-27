@@ -103,9 +103,23 @@ def generated_paths() -> list[Path]:
 
 
 def clean() -> None:
+    """산출물을 지운다.
+
+    폴더는 **속만 비우고 껍데기는 남긴다.** 윈도우에서는 탐색기 창이나 셸이
+    폴더 하나를 열어 두기만 해도 rmdir 이 WinError 5 로 막히는데,
+    폴더 자체를 지울 이유는 어차피 없다.
+    """
     for p in generated_paths():
         if p.is_dir():
-            shutil.rmtree(p)
+            for child in p.rglob("*"):
+                if child.is_file():
+                    child.unlink(missing_ok=True)
+            for child in sorted(p.rglob("*"), key=lambda c: len(c.parts), reverse=True):
+                if child.is_dir():
+                    try:
+                        child.rmdir()
+                    except OSError:
+                        pass
         elif p.exists():
             p.unlink()
 
@@ -152,13 +166,31 @@ def build() -> None:
     split = sessions["split"]
     current = [s for s in entries if s["date"] >= split]
     past = [s for s in entries if s["date"] < split]
+    # 시기 카드를 누르면 그 시기가 시작되는 자리로 뛴다.
+    # 목록은 최신순이므로 각 시기의 '처음 만나는 항목'에 닻을 박는다.
+    def mark(rows):
+        seen = set()
+        for s in rows:
+            if s["era"] not in seen:
+                seen.add(s["era"])
+                s["era_anchor"] = s["era"]
+        return seen
+
+    on_current = mark(current)
+    on_past = mark(past)
+    for e in sessions["eras"]:
+        if e["key"] in on_current:
+            e["href"] = f"sessions.html#era-{e['key']}"
+        elif e["key"] in on_past:
+            e["href"] = f"archive.html#era-{e['key']}"
+
     # 지난 기록 쪽의 시기 카드는 그 쪽에 실린 회차만 센다.
     past_count, past_span = {}, {}
     for s in past:
         past_count[s["era"]] = past_count.get(s["era"], 0) + 1
         lo, hi = past_span.get(s["era"], (s["year"], s["year"]))
         past_span[s["era"]] = (min(lo, s["year"]), max(hi, s["year"]))
-    past_eras = [dict(e, count=past_count[e["key"]],
+    past_eras = [dict(e, href=f"#era-{e['key']}", count=past_count[e["key"]],
                       range=(past_span[e["key"]][0] if past_span[e["key"]][0] == past_span[e["key"]][1]
                              else "–".join(past_span[e["key"]])))
                  for e in sessions["eras"] if past_count.get(e["key"])]
