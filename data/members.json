@@ -168,6 +168,16 @@
    "span": ""
   },
   {
+   "name": "김도영",
+   "affil": "서울대학교 정치외교학부 석사과정 · 조교",
+   "note": "",
+   "sessions": 0,
+   "appearances": 0,
+   "last": "9999-12-31",
+   "active": true,
+   "span": ""
+  },
+  {
    "name": "이헌미",
    "affil": "",
    "note": "",
@@ -323,7 +333,7 @@
    "note": "",
    "sessions": 1,
    "appearances": 1,
-   "last": "2025-11-17",
+   "last": "2013-04-13",
    "active": false,
    "span": "2013"
   },
@@ -346,6 +356,16 @@
    "last": "2022-05-24",
    "active": false,
    "span": "2021"
+  },
+  {
+   "name": "최은호",
+   "affil": "서울대학교 정치외교학부 석사과정",
+   "note": "",
+   "sessions": 0,
+   "appearances": 0,
+   "last": "9999-12-31",
+   "active": false,
+   "span": ""
   }
  ]
 }
